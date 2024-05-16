@@ -1,0 +1,509 @@
+﻿ <-1> 01/04/2022 14:13:09.588     [Action ] -       9,83593  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:13:09.595     [Action ] -       ),83593  STMT : truncate table LC_TMP_CONCILIACAO_E98
+insert LC_TMP_CONCILIACAO_E98
+select Cd_lancamento,
+(case when Cd_tipo = 'E' then Valor else 0 end ),
+(case when Cd_tipo = 'S' then Valor else 0 end ),
+0,
+0
+from GFLANCAM inner join LC_COMP_FINANCEIRO on LC_COMP_FINANCEIRO.Lancamento = GFLANCAM.Cd_lancamento
+where
+0=0
+and GFLANCAM.Cd_portador = 'C22'
+and LC_COMP_FINANCEIRO.Data between '2022-03-02' and '2022-04-01'
+''
+AND GFLANCAM.Cd_tipo in ('S','E')   
+AND GFLANCAM.Situacao <> 'U'
+ <-1> 01/04/2022 14:13:09.600     [Info   ] -         >> USER Message >> Event Any Error
+ <-1> 01/04/2022 14:13:09.600     [Info   ] -         >> USER Message >> ErrTableName:
+ <-1> 01/04/2022 14:13:09.600     [Info   ] -         >> USER Message >> Prog: Conciliação;Cria Temp
+ <-1> 01/04/2022 14:13:09.674     [Info   ] -               >> USER Message >> Rights (Override)
+ <-1> 01/04/2022 14:13:09.709     [Warning] -               CIGAM
+ <-1> 01/04/2022 14:13:13.329     [Info   ] -               >> USER Message >> 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near ''.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+[OK] [Detalhes]
+--------------------------------------------------------------------------------
+SERVER : Incorrect syntax near ''.
+
+[Invalid SQL command]
+
+Programa atual em execução: Conciliação;Cria Temp;TratamentoErroCigamSql
+--------------------------------------------------------------------------------
+Pressionado: 1
+--------------------------------------------------------------------------------
+ <-1> 01/04/2022 14:13:13.466     [Action ] -           3,87468   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:13.467     [Action ] -           ),87468   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:13.467     [Action ] -            ,87468  logical cursor: using COMMAND :Default result Set
+ <-1> 01/04/2022 14:13:13.468     [Action ] -            ,87468  	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  3082    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:13.469     [Action ] -            ,87468  	FETCH Range0
+ <-1> 01/04/2022 14:13:13.471     [Action ] -        ,87468  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:13:13.487     [Action ] -        ,87484  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:13:13.487     [Action ] -        ,87484   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:13:13.487     [Action ] -        ,87484   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:13:13.487     [Action ] -        ,87484  Using CURSOR
+ <-1> 01/04/2022 14:13:13.491     [Action ] -        ,87484  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:13:45.126     [Action ] -       5,19125  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:13:45.126     [Action ] -       ),19125  STMT : truncate table LC_TMP_CONCILIACAO_E98
+insert LC_TMP_CONCILIACAO_E98
+select Cd_lancamento,
+(case when Cd_tipo = 'E' then Valor else 0 end ),
+(case when Cd_tipo = 'S' then Valor else 0 end ),
+0,
+0
+from GFLANCAM inner join LC_COMP_FINANCEIRO on LC_COMP_FINANCEIRO.Lancamento = GFLANCAM.Cd_lancamento
+where
+0=0
+and GFLANCAM.Cd_portador = 'C22'
+and LC_COMP_FINANCEIRO.Data between '2022-03-02' and '2022-04-01'
+''
+AND GFLANCAM.Cd_tipo in ('S','E')   
+AND GFLANCAM.Situacao <> 'U'
+ <-1> 01/04/2022 14:13:45.131     [Info   ] -         >> USER Message >> Event Any Error
+ <-1> 01/04/2022 14:13:45.133     [Info   ] -         >> USER Message >> ErrTableName:
+ <-1> 01/04/2022 14:13:45.133     [Info   ] -         >> USER Message >> Prog: Conciliação;Cria Temp
+ <-1> 01/04/2022 14:13:45.211     [Info   ] -               >> USER Message >> Rights (Override)
+ <-1> 01/04/2022 14:13:45.251     [Warning] -               CIGAM
+ <-1> 01/04/2022 14:13:50.270     [Info   ] -               >> USER Message >> 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near ''.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+[OK] [Detalhes]
+--------------------------------------------------------------------------------
+SERVER : Incorrect syntax near ''.
+
+[Invalid SQL command]
+
+Programa atual em execução: Conciliação;Cria Temp;TratamentoErroCigamSql
+--------------------------------------------------------------------------------
+Pressionado: 1
+--------------------------------------------------------------------------------
+ <-1> 01/04/2022 14:13:50.408     [Action ] -           0,24406   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:50.408     [Action ] -           ),24406   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:50.408     [Action ] -            ,24406  logical cursor: using COMMAND :Default result Set
+ <-1> 01/04/2022 14:13:50.409     [Action ] -            ,24406  	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  3082    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:13:50.410     [Action ] -            ,24406  	FETCH Range0
+ <-1> 01/04/2022 14:13:50.412     [Action ] -        ,24406  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:13:50.424     [Action ] -        ,24421  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:13:50.424     [Action ] -        ,24421   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:13:50.424     [Action ] -        ,24421   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:13:50.424     [Action ] -        ,24421  Using CURSOR
+ <-1> 01/04/2022 14:13:50.429     [Action ] -        ,24437  SET IMPLICIT_TRANSACTIONS OFF
+ *********************   Date: 01/04/2022  ********************
+ <-1> 01/04/2022 14:15:07.503     [Action ] -     7,01500  ms7_ini(): >>>>>
+ <-1> 01/04/2022 14:15:07.513     [Action ] -      ,01515  ms7_ini(): MicrosoftSQLServer , Version Magic xpa 3.3c-0 16-Dec-2018
+ <-1> 01/04/2022 14:15:07.513     [Action ] -      ,01515  Version Magic xpa 3.3c, Log = C:\Program Files (x86)\MSE\Magic xpa 3.3\log\L.log,  Level = Customer,  Sync = None,  Date = 01/04/2022
+ <-1> 01/04/2022 14:15:07.515     [Warning] -     Log file is active for DBMS : MicrosoftSQLServer
+ <-1> 01/04/2022 14:15:08.583     [Action ] -     8,02578  STMT - SELECT CURRENT_USER
+ <-1> 01/04/2022 14:15:08.623     [Action ] -      ,02625   
+	STMT: SELECT Id_componente,Campo18,Prefixo_modulo,Campo21,Campo30,Campo47 FROM CIGAM.dbo.GECPTE_XPI WHERE Campo18 =  ?    ORDER BY Id_componente ASC 
+ <-1> 01/04/2022 14:15:08.623     [Action ] -      ,02625   
+	STMT: SELECT Id_componente,Campo18,Prefixo_modulo,Campo21,Campo30,Campo47 FROM CIGAM.dbo.GECPTE_XPI WHERE Campo18 =  ?    ORDER BY Id_componente ASC 
+ <-1> 01/04/2022 14:15:08.623     [Action ] -      ,02625  Using CURSOR
+ <-1> 01/04/2022 14:15:08.626     [Action ] -      ,02625  	STMT: SELECT Id_componente,Campo18,Prefixo_modulo,Campo21,Campo30,Campo47 FROM CIGAM.dbo.GECPTE_XPI WHERE Campo18 =  ''    ORDER BY Id_componente ASC 
+ <-1> 01/04/2022 14:15:08.627     [Action ] -      ,02625  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.630     [Action ] -      ,02625  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.631     [Action ] -      ,02625  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.634     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.634     [Action ] -      ,02640  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.636     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.637     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.637     [Action ] -      ,02640  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.639     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.640     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.640     [Action ] -      ,02640  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.642     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.643     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.643     [Action ] -      ,02640  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.644     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.646     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.646     [Action ] -      ,02640  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.647     [Action ] -      ,02640  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.648     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.648     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.649     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.651     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.651     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.652     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.653     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.653     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.655     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.656     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.656     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.658     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.659     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.659     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.660     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.662     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.662     [Action ] -      ,02656  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.663     [Action ] -      ,02656  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.664     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.665     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.666     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.667     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.667     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.668     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.670     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.670     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.671     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.673     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.673     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.674     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.675     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.675     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.676     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.678     [Action ] -      ,02671  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.678     [Action ] -      ,02671  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.679     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.680     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.680     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.682     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.683     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.683     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.684     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.686     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.686     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.687     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.689     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.689     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.690     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.691     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.691     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.692     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.694     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.694     [Action ] -      ,02687  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.695     [Action ] -      ,02687  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.696     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.696     [Action ] -      ,02703  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.697     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.699     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.699     [Action ] -      ,02703  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.700     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.701     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.702     [Action ] -      ,02703  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.704     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.706     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.706     [Action ] -      ,02703  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.707     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.709     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.709     [Action ] -      ,02703  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.710     [Action ] -      ,02703  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.711     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.711     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.712     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.714     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.714     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.715     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.716     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.716     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.717     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.719     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.719     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.720     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.722     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.722     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.723     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.725     [Action ] -      ,02718  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.725     [Action ] -      ,02718  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.726     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.728     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.728     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.729     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.730     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.730     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.732     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.733     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.734     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.735     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.736     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.736     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.738     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.739     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.739     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.740     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.741     [Action ] -      ,02734  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.742     [Action ] -      ,02734  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.743     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.744     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.744     [Action ] -      ,02750  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.745     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.747     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.747     [Action ] -      ,02750  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.748     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.750     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.750     [Action ] -      ,02750  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.751     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.753     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.753     [Action ] -      ,02750  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.754     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.756     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.756     [Action ] -      ,02750  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.757     [Action ] -      ,02750  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.758     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.758     [Action ] -      ,02765  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.759     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.761     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.761     [Action ] -      ,02765  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.762     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.764     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.764     [Action ] -      ,02765  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.767     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.768     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.768     [Action ] -      ,02765  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.770     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.771     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.771     [Action ] -      ,02765  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.773     [Action ] -      ,02765  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.774     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.774     [Action ] -      ,02781  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.776     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.778     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.778     [Action ] -      ,02781  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.779     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.781     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.781     [Action ] -      ,02781  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.782     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.783     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.783     [Action ] -      ,02781  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.785     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.786     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.786     [Action ] -      ,02781  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.787     [Action ] -      ,02781  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.789     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.789     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.790     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.791     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.792     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.793     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.795     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.795     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.796     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.797     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.798     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.799     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.800     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.800     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.801     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.803     [Action ] -      ,02796  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.803     [Action ] -      ,02796  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.804     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.805     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.805     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.806     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.808     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.808     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.809     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.810     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.811     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.812     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.813     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.813     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.814     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.816     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.816     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.817     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.818     [Action ] -      ,02812  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.818     [Action ] -      ,02812  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.820     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.821     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.821     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.822     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.824     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.824     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.825     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.826     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.826     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.828     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.829     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.829     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.830     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.831     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.832     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.833     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.834     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.834     [Action ] -      ,02828  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.835     [Action ] -      ,02828  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.837     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.837     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.838     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.839     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.839     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.840     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.842     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.842     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.843     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.844     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.845     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.846     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.847     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.847     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.848     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.850     [Action ] -      ,02843  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.850     [Action ] -      ,02843  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.851     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.852     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.852     [Action ] -      ,02859  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.854     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.856     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.856     [Action ] -      ,02859  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.857     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.858     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.859     [Action ] -      ,02859  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.860     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.861     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.861     [Action ] -      ,02859  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.862     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.864     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.864     [Action ] -      ,02859  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.865     [Action ] -      ,02859  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.867     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.867     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.868     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.870     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.870     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.871     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.873     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.873     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.874     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.875     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.875     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.876     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.878     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.878     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.879     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.880     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.880     [Action ] -      ,02875  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.881     [Action ] -      ,02875  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.883     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.883     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.884     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.885     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.885     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.887     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.888     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.888     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.890     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.891     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.891     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.892     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.894     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.894     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.895     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.896     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.896     [Action ] -      ,02890  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.897     [Action ] -      ,02890  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.898     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.898     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.899     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.901     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.901     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.902     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.904     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.904     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.905     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.906     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.906     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.907     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.908     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.909     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.910     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.911     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.911     [Action ] -      ,02906  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.912     [Action ] -      ,02906  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.913     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.913     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.914     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.916     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.916     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.917     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.919     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.919     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.920     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.921     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.921     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.923     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.924     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.924     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.925     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.926     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.927     [Action ] -      ,02921  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.928     [Action ] -      ,02921  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.929     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.929     [Action ] -      ,02937  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.930     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.932     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.932     [Action ] -      ,02937  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.933     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.934     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.935     [Action ] -      ,02937  	FETCH Range0
+ <-1> 01/04/2022 14:15:08.936     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:08.937     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:08.939     [Action ] -      ,02937  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:13.407     [Action ] -       3,07406  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:13.407     [Action ] -       ),07406  STMT : truncate table LC_TMP_CONCILIACAO_E98
+insert LC_TMP_CONCILIACAO_E98
+select Cd_lancamento,
+(case when Cd_tipo = 'E' then Valor else 0 end ),
+(case when Cd_tipo = 'S' then Valor else 0 end ),
+0,
+0
+from GFLANCAM inner join LC_COMP_FINANCEIRO on LC_COMP_FINANCEIRO.Lancamento = GFLANCAM.Cd_lancamento
+where
+0=0
+and GFLANCAM.Cd_portador = 'C22'
+and LC_COMP_FINANCEIRO.Data between '2022-03-02' and '2022-04-01'
+''
+AND GFLANCAM.Cd_tipo in ('S','E')   
+AND GFLANCAM.Situacao <> 'U'
+ <-1> 01/04/2022 14:15:13.412     [Info   ] -         >> USER Message >> Event Any Error
+ <-1> 01/04/2022 14:15:13.412     [Info   ] -         >> USER Message >> ErrTableName:
+ <-1> 01/04/2022 14:15:13.412     [Info   ] -         >> USER Message >> Prog: Conciliação;Cria Temp
+ <-1> 01/04/2022 14:15:13.492     [Info   ] -               >> USER Message >> Rights (Override)
+ <-1> 01/04/2022 14:15:13.561     [Warning] -               CIGAM
+ <-1> 01/04/2022 14:15:22.280     [Info   ] -               >> USER Message >> 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near ''.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+[OK] [Detalhes]
+--------------------------------------------------------------------------------
+SERVER : Incorrect syntax near ''.
+
+[Invalid SQL command]
+
+Programa atual em execução: Conciliação;Cria Temp;TratamentoErroCigamSql
+--------------------------------------------------------------------------------
+Pressionado: 1
+--------------------------------------------------------------------------------
+ <-1> 01/04/2022 14:15:22.428     [Action ] -           2,16421   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:15:22.428     [Action ] -           ),16421   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:15:22.428     [Action ] -            ,16421  logical cursor: using COMMAND :Default result Set
+ <-1> 01/04/2022 14:15:22.434     [Action ] -            ,16437  	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM CIGAM.dbo.GECFG WHERE Sequencia =  3082    ORDER BY Sequencia ASC 
+ <-1> 01/04/2022 14:15:22.435     [Action ] -            ,16437  	FETCH Range0
+ <-1> 01/04/2022 14:15:22.436     [Action ] -        ,16437  SET IMPLICIT_TRANSACTIONS OFF
+ <-1> 01/04/2022 14:15:22.444     [Action ] -        ,16437  SET IMPLICIT_TRANSACTIONS ON
+ <-1> 01/04/2022 14:15:22.444     [Action ] -        ,16437   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:15:22.444     [Action ] -        ,16437   
+	STMT: SELECT Lancamento,Entrada,Saida,Saldo,Saldo_Conciliado FROM CIGAM..LC_TMP_CONCILIACAO_E98 ORDER BY Lancamento ASC 
+ <-1> 01/04/2022 14:15:22.444     [Action ] -        ,16437  Using CURSOR
+ <-1> 01/04/2022 14:15:22.449     [Action ] -        ,16453  SET IMPLICIT_TRANSACTIONS OFF

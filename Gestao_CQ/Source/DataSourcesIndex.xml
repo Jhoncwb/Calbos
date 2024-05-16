@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="13"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_CQ_CONTROLE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" length="2085" name="LC_CQ_CONTROLE" offset="213"/>
+      <DataObject PhysicalName="LC_CQ_MODELO_ANALISE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" length="6469" name="LC_CQ_MODELO_ANALISE" offset="2299"/>
+      <DataObject PhysicalName="LC_CQ_MODELO_ANALISE_ITEM" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" length="7100" name="LC_CQ_MODELO_ANALISE_ITEM" offset="8769"/>
+      <DataObject PhysicalName="LC_CQ_ANALISE_SEQUENCIA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="11" length="3089" name="LC_CQ_ANALISE_SEQUENCIA" offset="15870"/>
+      <DataObject PhysicalName="LC_CQ_ANALISE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="13330" name="LC_CQ_ANALISE" offset="18960"/>
+      <DataObject PhysicalName="LC_CQ_ANALISE_ITEM" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" length="7661" name="LC_CQ_ANALISE_ITEM" offset="32291"/>
+      <DataObject PhysicalName="LC_CQ_CERTIFICADO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="12" length="4350" name="LC_CQ_CERTIFICADO" offset="39953"/>
+      <DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" length="26294" name="LC_LIVRO" offset="44304"/>
+      <DataObject PhysicalName="LC_VALIDADE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" length="3922" name="LC_VALIDADE" offset="70599"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="3098182883757291"/>
+
+</Application>

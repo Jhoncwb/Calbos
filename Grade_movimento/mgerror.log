@@ -1,0 +1,3 @@
+﻿ <-1> 26/03/2020 17:30:23.137     [Error  ] - Component Files not found : CabGeralCGKernel.ecf
+ <-1> 26/03/2020 17:30:23.624     [Error  ] - Failed to Load Assembly : "C:\Users\jhon_\Google Drive\Projetos\Desenvolvimento\Calbos\XPI\Grade_movimento\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll"
+"Não foi possível carregar arquivo ou assembly 'System.Windows.Forms.dll' ou uma de suas dependências. O sistema não pode encontrar o caminho especificado."

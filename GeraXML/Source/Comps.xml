@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="11009"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="1"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <ComponentsRepository>
+    <Components>
+      <Component id="1" name="NFe">
+        <Description val="NFe CIGAM"/>
+        <CompId val="2055041646-32890-18975-94FDAA358"/>
+        <MciFile val="C:\CIGAM\CIGAMe10\CDK\ECIs\Fiscal\NFe.eci"/>
+        <ComponentType val="uniPaaS"/>
+        <Type val="U"/>
+        <CABINET_FILE val="D:\CIGAM\CIGAMe10\Cab\Fiscal\NFe.ecf"/>
+        <LoadImmediate val="N"/>
+        <CtlIndex val="1"/>
+        <LastISN val="218"/>
+        <ComponentPrograms>
+          <Object>
+            <id val="248"/>
+            <ItemIsn val="1"/>
+            <PublicName val="NF01232"/>
+          </Object>
+          <Object>
+            <id val="351"/>
+            <ItemIsn val="2"/>
+            <PublicName val="NF00004"/>
+          </Object>
+          <Object>
+            <id val="352"/>
+            <ItemIsn val="3"/>
+            <PublicName val="NF00005"/>
+          </Object>
+          <Object>
+            <id val="353"/>
+            <ItemIsn val="4"/>
+            <PublicName val="NF00006"/>
+          </Object>
+          <Object>
+            <id val="354"/>
+            <ItemIsn val="5"/>
+            <PublicName val="NF00007"/>
+          </Object>
+          <Object>
+            <id val="355"/>
+            <ItemIsn val="6"/>
+            <PublicName val="NF00008"/>
+          </Object>
+          <Object>
+            <id val="356"/>
+            <ItemIsn val="7"/>
+            <PublicName val="NF00009"/>
+          </Object>
+          <Object>
+            <id val="117"/>
+            <ItemIsn val="8"/>
+            <PublicName val="CGNFeGerNFe"/>
+          </Object>
+          <Object>
+            <id val="48"/>
+            <ItemIsn val="9"/>
+            <PublicName val="NF00011"/>
+          </Object>
+          <Object>
+            <id val="119"/>
+            <ItemIsn val="10"/>
+            <PublicName val="NF00012"/>
+          </Object>
+          <Object>
+            <id val="181"/>
+            <ItemIsn val="11"/>
+            <PublicName val="NF00013"/>
+          </Object>
+          <Object>
+            <id val="143"/>
+            <ItemIsn val="12"/>
+            <PublicName val="CGNFePesqGer"/>
+          </Object>
+          <Object>
+            <id val="153"/>
+            <ItemIsn val="13"/>
+            <PublicName val="NF00015"/>
+          </Object>
+          <Object>
+            <id val="177"/>
+            <ItemIsn val="14"/>
+            <PublicName val="CGNFeEnviarEmail"/>
+          </Object>
+          <Object>
+            <id val="180"/>
+            <ItemIsn val="15"/>
+            <PublicName val="CGNFeLeAutenticado"/>
+          </Object>
+          <Object>
+            <id val="358"/>
+            <ItemIsn val="16"/>
+            <PublicName val="NF00019"/>
+          </Object>
+          <Object>
+            <id val="359"/>
+            <ItemIsn val="17"/>
+            <PublicName val="NF00020"/>
+          </Object>
+          <Object>
+            <id val="360"/>
+            <ItemIsn val="18"/>
+            <PublicName val="NF00021"/>
+          </Object>
+          <Object>
+            <id val="361"/>
+            <ItemIsn val="19"/>
+            <PublicName val="NF00022"/>
+          </Object>
+          <Object>
+            <id val="362"/>
+            <ItemIsn val="20"/>
+            <PublicName val="NF00023"/>
+          </Object>
+          <Object>
+            <id val="363"/>
+            <ItemIsn val="21"/>
+            <PublicName val="NF00024"/>
+          </Object>
+          <Object>
+            <id val="364"/>
+            <ItemIsn val="22"/>
+            <PublicName val="NF00025"/>
+          </Object>
+          <Object>
+            <id val="5"/>
+            <ItemIsn val="23"/>
+            <PublicName val="NF00026"/>
+          </Object>
+          <Object>
+            <id val="365"/>
+            <ItemIsn val="24"/>
+            <PublicName val="NF00027"/>
+          </Object>
+          <Object>
+            <id val="25"/>
+            <ItemIsn val="25"/>
+            <PublicName val="NF00028"/>
+          </Object>
+          <Object>
+            <id val="366"/>
+            <ItemIsn val="26"/>
+            <PublicName val="NF00029"/>
+          </Object>
+          <Object>
+            <id val="20"/>
+            <ItemIsn val="27"/>
+            <PublicName val="NF00030"/>
+          </Object>
+          <Object>
+            <id val="116"/>
+            <ItemIsn val="28"/>
+            <PublicName val="NF00031"/>
+          </Object>
+          <Object>
+            <id val="90"/>
+            <ItemIsn val="29"/>
+            <PublicName val="CGNFeXMLView"/>
+          </Object>
+          <Object>
+            <id val="369"/>
+            <ItemIsn val="30"/>
+            <PublicName val="NF00035"/>
+          </Object>
+          <Object>
+            <id val="75"/>
+            <ItemIsn val="31"/>
+            <PublicName val="CGNFeGravaGerNFe"/>
+          </Object>
+          <Object>
+            <id val="371"/>
+            <ItemIsn val="32"/>
+            <PublicName val="NF00037"/>
+          </Object>
+          <Object>
+            <id val="372"/>
+            <ItemIsn val="33"/>
+            <PublicName val="NF00038"/>
+          </Object>
+          <Object>
+            <id val="149"/>
+            <ItemIsn val="34"/>
+            <PublicName val="CGNFeCriarXML"/>
+          </Object>
+          <Object>
+            <id val="150"/>
+            <ItemIsn val="35"/>
+            <PublicName val="CGNFeEnviaEmail"/>
+          </Object>
+          <Object>
+            <id val="154"/>
+            <ItemIsn val="36"/>
+            <PublicName val="NF00042"/>
+          </Object>
+          <Object>
+            <id val="158"/>
+            <ItemIsn val="37"/>
+            <PublicName val="NF00043"/>
+          </Object>
+          <Object>
+            <id val="165"/>
+            <ItemIsn val="38"/>
+            <PublicName val="CGNFeImportaXML"/>
+          </Object>
+          <Object>
+            <id val="374"/>
+            <ItemIsn val="39"/>
+            <PublicName val="NF00045"/>
+          </Object>
+          <Object>
+            <id val="375"/>
+            <ItemIsn val="40"/>
+            <PublicName val="NF00046"/>
+          </Object>
+          <Object>
+            <id val="376"/>
+            <ItemIsn val="41"/>
+            <PublicName val="NF00047"/>
+          </Object>
+          <Object>
+            <id val="65"/>
+            <ItemIsn val="42"/>
+            <PublicName val="CGNFeEnvioNFe"/>
+          </Object>
+          <Object>
+            <id val="377"/>
+            <ItemIsn val="43"/>
+            <PublicName val="NF00049"/>
+          </Object>
+          <Object>
+            <id val="378"/>
+            <ItemIsn val="44"/>
+            <PublicName val="NF00050"/>
+          </Object>
+          <Object>
+            <id val="379"/>
+            <ItemIsn val="45"/>
+            <PublicName val="NF00051"/>
+          </Object>
+          <Object>
+            <id val="64"/>
+            <ItemIsn val="46"/>
+            <PublicName val="NF00052"/>
+          </Object>
+          <Object>
+            <id val="156"/>
+            <ItemIsn val="47"/>
+            <PublicName val="NF00053"/>
+          </Object>
+          <Object>
+            <id val="157"/>
+            <ItemIsn val="48"/>
+            <PublicName val="NF00054"/>
+          </Object>
+          <Object>
+            <id val="380"/>
+            <ItemIsn val="49"/>
+            <PublicName val="NF00055"/>
+          </Object>
+          <Object>
+            <id val="381"/>
+            <ItemIsn val="50"/>
+            <PublicName val="NF00056"/>
+          </Object>
+          <Object>
+            <id val="383"/>
+            <ItemIsn val="51"/>
+            <PublicName val="NF00058"/>
+          </Object>
+          <Object>
+            <id val="384"/>
+            <ItemIsn val="52"/>
+            <PublicName val="NF00059"/>
+          </Object>
+          <Object>
+            <id val="182"/>
+            <ItemIsn val="53"/>
+            <PublicName val="CGNFeConfigMatEsp"/>
+          </Object>
+          <Object>
+            <id val="385"/>
+            <ItemIsn val="54"/>
+            <PublicName val="NF00061"/>
+          </Object>
+          <Object>
+            <id val="386"/>
+            <ItemIsn val="55"/>
+            <PublicName val="NF00062"/>
+          </Object>
+          <Object>
+            <id val="387"/>
+            <ItemIsn val="56"/>
+            <PublicName val="NF00063"/>
+          </Object>
+          <Object>
+            <id val="388"/>
+            <ItemIsn val="57"/>
+            <PublicName val="NF00064"/>
+          </Object>
+          <Object>
+            <id val="193"/>
+            <ItemIsn val="58"/>
+            <PublicName val="NF00065"/>
+          </Object>
+          <Object>
+            <id val="197"/>
+            <ItemIsn val="59"/>
+            <PublicName val="CGNFeVerificaDLL"/>
+          </Object>
+          <Object>
+            <id val="200"/>
+            <ItemIsn val="60"/>
+            <PublicName val="CGNFeCaracMatEsp"/>
+          </Object>
+          <Object>
+            <id val="203"/>
+            <ItemIsn val="61"/>
+            <PublicName val="NF00070"/>
+          </Object>
+          <Object>
+            <id val="204"/>
+            <ItemIsn val="62"/>
+            <PublicName val="CGNFeAlteraServicos"/>
+          </Object>
+          <Object>
+            <id val="205"/>
+            <ItemIsn val="63"/>
+            <PublicName val="NF00073"/>
+          </Object>
+          <Object>
+            <id val="207"/>
+            <ItemIsn val="64"/>
+            <PublicName val="NF00074"/>
+          </Object>
+          <Object>
+            <id val="210"/>
+            <ItemIsn val="65"/>
+            <PublicName val="NF00075"/>
+          </Object>
+          <Object>
+            <ItemIsn val="66"/>
+            <PublicName val="NF00076"/>
+          </Object>
+          <Object>
+            <id val="220"/>
+            <ItemIsn val="67"/>
+            <PublicName val="NF00077"/>
+          </Object>
+          <Object>
+            <id val="221"/>
+            <ItemIsn val="68"/>
+            <PublicName val="NF00078"/>
+          </Object>
+          <Object>
+            <id val="222"/>
+            <ItemIsn val="69"/>
+            <PublicName val="NF00079"/>
+          </Object>
+          <Object>
+            <id val="223"/>
+            <ItemIsn val="70"/>
+            <PublicName val="NF00080"/>
+          </Object>
+          <Object>
+            <id val="225"/>
+            <ItemIsn val="71"/>
+            <PublicName val="CGNFeConsultaProt"/>
+          </Object>
+          <Object>
+            <id val="389"/>
+            <ItemIsn val="72"/>
+            <PublicName val="NF00082"/>
+          </Object>
+          <Object>
+            <id val="227"/>
+            <ItemIsn val="73"/>
+            <PublicName val="NF00083"/>
+          </Object>
+          <Object>
+            <id val="228"/>
+            <ItemIsn val="74"/>
+            <PublicName val="NF00084"/>
+          </Object>
+          <Object>
+            <id val="229"/>
+            <ItemIsn val="75"/>
+            <PublicName val="NF00085"/>
+          </Object>
+          <Object>
+            <id val="230"/>
+            <ItemIsn val="76"/>
+            <PublicName val="NF00086"/>
+          </Object>
+          <Object>
+            <id val="235"/>
+            <ItemIsn val="77"/>
+            <PublicName val="CGNFeImprimeNF"/>
+          </Object>
+          <Object>
+            <id val="236"/>
+            <ItemIsn val="78"/>
+            <PublicName val="NF00088"/>
+          </Object>
+          <Object>
+            <id val="238"/>
+            <ItemIsn val="79"/>
+            <PublicName val="NF00089"/>
+          </Object>
+          <Object>
+            <id val="242"/>
+            <ItemIsn val="80"/>
+            <PublicName val="CGNFe00090"/>
+          </Object>
+          <Object>
+            <id val="243"/>
+            <ItemIsn val="81"/>
+            <PublicName val="NF00091"/>
+          </Object>
+          <Object>
+            <id val="245"/>
+            <ItemIsn val="82"/>
+            <PublicName val="NF00092"/>
+          </Object>
+          <Object>
+            <id val="249"/>
+            <ItemIsn val="83"/>
+            <PublicName val="CGNFe00093"/>
+          </Object>
+          <Object>
+            <id val="255"/>
+            <ItemIsn val="84"/>
+            <PublicName val="NF00094"/>
+          </Object>
+          <Object>
+            <id val="256"/>
+            <ItemIsn val="85"/>
+            <PublicName val="NF00095"/>
+          </Object>
+          <Object>
+            <id val="262"/>
+            <ItemIsn val="86"/>
+            <PublicName val="NF00096"/>
+          </Object>
+          <Object>
+            <id val="265"/>
+            <ItemIsn val="87"/>
+            <PublicName val="NF00097"/>
+          </Object>
+          <Object>
+            <id val="267"/>
+            <ItemIsn val="88"/>
+            <PublicName val="NF00098"/>
+          </Object>
+          <Object>
+            <id val="270"/>
+            <ItemIsn val="89"/>
+            <PublicName val="NF00099"/>
+          </Object>
+          <Object>
+            <id val="276"/>
+            <ItemIsn val="90"/>
+            <PublicName val="NF00100"/>
+          </Object>
+          <Object>
+            <id val="283"/>
+            <ItemIsn val="91"/>
+            <PublicName val="NF00101"/>
+          </Object>
+          <Object>
+            <id val="272"/>
+            <ItemIsn val="92"/>
+            <PublicName val="NF00102"/>
+          </Object>
+          <Object>
+            <id val="273"/>
+            <ItemIsn val="93"/>
+            <PublicName val="NF00103"/>
+          </Object>
+          <Object>
+            <id val="279"/>
+            <ItemIsn val="94"/>
+            <PublicName val="NF00104"/>
+          </Object>
+          <Object>
+            <ItemIsn val="95"/>
+            <PublicName val="NF00105"/>
+          </Object>
+          <Object>
+            <id val="291"/>
+            <ItemIsn val="96"/>
+            <PublicName val="NF00106"/>
+          </Object>
+          <Object>
+            <id val="292"/>
+            <ItemIsn val="97"/>
+            <PublicName val="NF00107"/>
+          </Object>
+          <Object>
+            <id val="296"/>
+            <ItemIsn val="98"/>
+            <PublicName val="NF00108"/>
+          </Object>
+          <Object>
+            <id val="298"/>
+            <ItemIsn val="99"/>
+            <PublicName val="NF00109"/>
+          </Object>
+          <Object>
+            <ItemIsn val="100"/>
+            <PublicName val="NF00110"/>
+          </Object>
+          <Object>
+            <id val="303"/>
+            <ItemIsn val="101"/>
+            <PublicName val="NF00111"/>
+          </Object>
+          <Object>
+            <id val="390"/>
+            <ItemIsn val="102"/>
+            <PublicName val="NF00112"/>
+          </Object>
+          <Object>
+            <id val="306"/>
+            <ItemIsn val="103"/>
+            <PublicName val="NF00113"/>
+          </Object>
+          <Object>
+            <id val="314"/>
+            <ItemIsn val="104"/>
+            <PublicName val="NF00114"/>
+          </Object>
+          <Object>
+            <id val="315"/>
+            <ItemIsn val="105"/>
+            <PublicName val="NF00115"/>
+          </Object>
+          <Object>
+            <id val="316"/>
+            <ItemIsn val="106"/>
+            <PublicName val="NF00116"/>
+          </Object>
+          <Object>
+            <id val="317"/>
+            <ItemIsn val="107"/>
+            <PublicName val="NF00117"/>
+          </Object>
+          <Object>
+            <id val="323"/>
+            <ItemIsn val="108"/>
+            <PublicName val="NF00118"/>
+          </Object>
+          <Object>
+            <id val="326"/>
+            <ItemIsn val="109"/>
+            <PublicName val="NF00119"/>
+          </Object>
+          <Object>
+            <id val="327"/>
+            <ItemIsn val="110"/>
+            <PublicName val="NF00120"/>
+          </Object>
+          <Object>
+            <id val="328"/>
+            <ItemIsn val="111"/>
+            <PublicName val="NF00121"/>
+          </Object>
+          <Object>
+            <id val="332"/>
+            <ItemIsn val="112"/>
+            <PublicName val="NF00122"/>
+          </Object>
+          <Object>
+            <id val="339"/>
+            <ItemIsn val="113"/>
+            <PublicName val="NF00123"/>
+          </Object>
+          <Object>
+            <id val="344"/>
+            <ItemIsn val="114"/>
+            <PublicName val="NF00124"/>
+          </Object>
+          <Object>
+            <id val="348"/>
+            <ItemIsn val="115"/>
+            <PublicName val="NF00125"/>
+          </Object>
+          <Object>
+            <id val="431"/>
+            <ItemIsn val="116"/>
+            <PublicName val="NF00126"/>
+          </Object>
+          <Object>
+            <id val="432"/>
+            <ItemIsn val="117"/>
+            <PublicName val="NF00127"/>
+          </Object>
+          <Object>
+            <id val="436"/>
+            <ItemIsn val="118"/>
+            <PublicName val="NF00128"/>
+          </Object>
+          <Object>
+            <id val="440"/>
+            <ItemIsn val="119"/>
+            <PublicName val="CG06954"/>
+          </Object>
+          <Object>
+            <id val="442"/>
+            <ItemIsn val="120"/>
+            <PublicName val="NF00130"/>
+          </Object>
+          <Object>
+            <id val="444"/>
+            <ItemIsn val="121"/>
+            <PublicName val="NF00131"/>
+          </Object>
+          <Object>
+            <id val="446"/>
+            <ItemIsn val="122"/>
+            <PublicName val="NF00132"/>
+          </Object>
+          <Object>
+            <id val="449"/>
+            <ItemIsn val="123"/>
+            <PublicName val="NF00133"/>
+          </Object>
+          <Object>
+            <id val="453"/>
+            <ItemIsn val="124"/>
+            <PublicName val="NF00134"/>
+          </Object>
+          <Object>
+            <id val="455"/>
+            <ItemIsn val="125"/>
+            <PublicName val="NF00135"/>
+          </Object>
+          <Object>
+            <id val="456"/>
+            <ItemIsn val="126"/>
+            <PublicName val="NF00136"/>
+          </Object>
+          <Object>
+            <id val="457"/>
+            <ItemIsn val="127"/>
+            <PublicName val="NF00137"/>
+          </Object>
+          <Object>
+            <id val="458"/>
+            <ItemIsn val="128"/>
+            <PublicName val="NF00138"/>
+          </Object>
+          <Object>
+            <id val="460"/>
+            <ItemIsn val="129"/>
+            <PublicName val="NF00139"/>
+          </Object>
+          <Object>
+            <id val="461"/>
+            <ItemIsn val="130"/>
+            <PublicName val="NF00140"/>
+          </Object>
+          <Object>
+            <id val="462"/>
+            <ItemIsn val="131"/>
+            <PublicName val="NF00141"/>
+          </Object>
+          <Object>
+            <id val="464"/>
+            <ItemIsn val="132"/>
+            <PublicName val="NF00142"/>
+          </Object>
+          <Object>
+            <id val="463"/>
+            <ItemIsn val="133"/>
+            <PublicName val="NF00143"/>
+          </Object>
+          <Object>
+            <id val="466"/>
+            <ItemIsn val="134"/>
+            <PublicName val="NF00144"/>
+          </Object>
+          <Object>
+            <id val="476"/>
+            <ItemIsn val="135"/>
+            <PublicName val="NF00145"/>
+          </Object>
+          <Object>
+            <id val="481"/>
+            <ItemIsn val="136"/>
+            <PublicName val="NF00146"/>
+          </Object>
+          <Object>
+            <id val="482"/>
+            <ItemIsn val="137"/>
+            <PublicName val="NF00147"/>
+          </Object>
+          <Object>
+            <id val="487"/>
+            <ItemIsn val="138"/>
+            <PublicName val="NF00148"/>
+          </Object>
+          <Object>
+            <id val="493"/>
+            <ItemIsn val="139"/>
+            <PublicName val="NF00149"/>
+          </Object>
+          <Object>
+            <id val="496"/>
+            <ItemIsn val="140"/>
+            <PublicName val="NF00150"/>
+          </Object>
+          <Object>
+            <id val="494"/>
+            <ItemIsn val="141"/>
+            <PublicName val="NF00151"/>
+          </Object>
+          <Object>
+            <id val="503"/>
+            <ItemIsn val="142"/>
+            <PublicName val="NF00152"/>
+          </Object>
+          <Object>
+            <id val="504"/>
+            <ItemIsn val="143"/>
+            <PublicName val="NF00153"/>
+          </Object>
+          <Object>
+            <id val="505"/>
+            <ItemIsn val="144"/>
+            <PublicName val="NF00154"/>
+          </Object>
+          <Object>
+            <id val="506"/>
+            <ItemIsn val="145"/>
+            <PublicName val="NF00155"/>
+          </Object>
+          <Object>
+            <id val="508"/>
+            <ItemIsn val="146"/>
+            <PublicName val="NF00156"/>
+          </Object>
+          <Object>
+            <id val="511"/>
+            <ItemIsn val="147"/>
+            <PublicName val="NF00157"/>
+          </Object>
+          <Object>
+            <id val="512"/>
+            <ItemIsn val="148"/>
+            <PublicName val="NF00158"/>
+          </Object>
+          <Object>
+            <id val="514"/>
+            <ItemIsn val="149"/>
+            <PublicName val="NF00160"/>
+          </Object>
+          <Object>
+            <id val="515"/>
+            <ItemIsn val="150"/>
+            <PublicName val="NF00161"/>
+          </Object>
+          <Object>
+            <id val="517"/>
+            <ItemIsn val="151"/>
+            <PublicName val="NF00162"/>
+          </Object>
+          <Object>
+            <id val="518"/>
+            <ItemIsn val="152"/>
+            <PublicName val="NF00163"/>
+          </Object>
+          <Object>
+            <id val="537"/>
+            <ItemIsn val="153"/>
+            <PublicName val="NF00165"/>
+          </Object>
+          <Object>
+            <id val="538"/>
+            <ItemIsn val="154"/>
+            <PublicName val="NF00166"/>
+          </Object>
+          <Object>
+            <id val="539"/>
+            <ItemIsn val="155"/>
+            <PublicName val="NF00167"/>
+          </Object>
+          <Object>
+            <id val="540"/>
+            <ItemIsn val="156"/>
+            <PublicName val="NF00168"/>
+          </Object>
+          <Object>
+            <id val="545"/>
+            <ItemIsn val="157"/>
+            <PublicName val="NF00170"/>
+          </Object>
+          <Object>
+            <id val="547"/>
+            <ItemIsn val="158"/>
+            <PublicName val="NF00171"/>
+          </Object>
+          <Object>
+            <id val="550"/>
+            <ItemIsn val="159"/>
+            <PublicName val="NF00172"/>
+          </Object>
+          <Object>
+            <id val="552"/>
+            <ItemIsn val="160"/>
+            <PublicName val="NF00173"/>
+          </Object>
+          <Object>
+            <id val="553"/>
+            <ItemIsn val="161"/>
+            <PublicName val="NF00174"/>
+          </Object>
+          <Object>
+            <id val="564"/>
+            <ItemIsn val="162"/>
+            <PublicName val="NF00177"/>
+          </Object>
+          <Object>
+            <id val="574"/>
+            <ItemIsn val="163"/>
+            <PublicName val="NF00180"/>
+          </Object>
+          <Object>
+            <id val="575"/>
+            <ItemIsn val="164"/>
+            <PublicName val="NF00181"/>
+          </Object>
+          <Object>
+            <id val="576"/>
+            <ItemIsn val="165"/>
+            <PublicName val="NF00182"/>
+          </Object>
+          <Object>
+            <id val="580"/>
+            <ItemIsn val="166"/>
+            <PublicName val="NF00183"/>
+          </Object>
+          <Object>
+            <id val="584"/>
+            <ItemIsn val="167"/>
+            <PublicName val="NF00184"/>
+          </Object>
+          <Object>
+            <id val="587"/>
+            <ItemIsn val="168"/>
+            <PublicName val="NF00185"/>
+          </Object>
+          <Object>
+            <id val="592"/>
+            <ItemIsn val="169"/>
+            <PublicName val="NF00186"/>
+          </Object>
+          <Object>
+            <id val="599"/>
+            <ItemIsn val="170"/>
+            <PublicName val="NF00187"/>
+          </Object>
+          <Object>
+            <id val="601"/>
+            <ItemIsn val="171"/>
+            <PublicName val="NF00188"/>
+          </Object>
+          <Object>
+            <id val="604"/>
+            <ItemIsn val="172"/>
+            <PublicName val="NF00189"/>
+          </Object>
+          <Object>
+            <id val="612"/>
+            <ItemIsn val="173"/>
+            <PublicName val="NF00190"/>
+          </Object>
+          <Object>
+            <id val="616"/>
+            <ItemIsn val="174"/>
+            <PublicName val="NF00191"/>
+          </Object>
+          <Object>
+            <id val="617"/>
+            <ItemIsn val="175"/>
+            <PublicName val="NF00192"/>
+          </Object>
+          <Object>
+            <id val="618"/>
+            <ItemIsn val="176"/>
+            <PublicName val="NF00193"/>
+          </Object>
+          <Object>
+            <id val="619"/>
+            <ItemIsn val="177"/>
+            <PublicName val="NF00194"/>
+          </Object>
+          <Object>
+            <id val="620"/>
+            <ItemIsn val="178"/>
+            <PublicName val="NF00195"/>
+          </Object>
+          <Object>
+            <id val="621"/>
+            <ItemIsn val="179"/>
+            <PublicName val="NF00196"/>
+          </Object>
+          <Object>
+            <id val="622"/>
+            <ItemIsn val="180"/>
+            <PublicName val="NF00197"/>
+          </Object>
+          <Object>
+            <id val="626"/>
+            <ItemIsn val="181"/>
+            <PublicName val="NF00198"/>
+          </Object>
+          <Object>
+            <id val="629"/>
+            <ItemIsn val="182"/>
+            <PublicName val="NF00199"/>
+          </Object>
+          <Object>
+            <id val="640"/>
+            <ItemIsn val="183"/>
+            <PublicName val="NF00200"/>
+          </Object>
+          <Object>
+            <id val="643"/>
+            <ItemIsn val="184"/>
+            <PublicName val="NF00203"/>
+          </Object>
+          <Object>
+            <id val="645"/>
+            <ItemIsn val="185"/>
+            <PublicName val="NF00205"/>
+          </Object>
+          <Object>
+            <id val="646"/>
+            <ItemIsn val="186"/>
+            <PublicName val="NF00206"/>
+          </Object>
+          <Object>
+            <id val="647"/>
+            <ItemIsn val="187"/>
+            <PublicName val="NF00207"/>
+          </Object>
+          <Object>
+            <id val="648"/>
+            <ItemIsn val="188"/>
+            <PublicName val="NF00208"/>
+          </Object>
+          <Object>
+            <id val="649"/>
+            <ItemIsn val="189"/>
+            <PublicName val="NF00209"/>
+          </Object>
+        </ComponentPrograms>
+        <ComponentEvents>
+          <Object>
+            <id val="1"/>
+            <ItemIsn val="190"/>
+            <PublicName val="ValidaXML"/>
+          </Object>
+          <Object>
+            <id val="2"/>
+            <ItemIsn val="191"/>
+            <PublicName val="AbrirXML"/>
+          </Object>
+          <Object>
+            <id val="3"/>
+            <ItemIsn val="192"/>
+            <PublicName val="AbrirXSD"/>
+          </Object>
+          <Object>
+            <id val="4"/>
+            <ItemIsn val="193"/>
+            <PublicName val="ValidarSchema"/>
+          </Object>
+          <Object>
+            <id val="5"/>
+            <ItemIsn val="194"/>
+            <PublicName val="ConsultarNfe"/>
+          </Object>
+          <Object>
+            <id val="6"/>
+            <ItemIsn val="195"/>
+            <PublicName val="WSNfeRecepcao"/>
+          </Object>
+          <Object>
+            <id val="7"/>
+            <ItemIsn val="196"/>
+            <PublicName val="EnviarNfe"/>
+          </Object>
+          <Object>
+            <id val="8"/>
+            <ItemIsn val="197"/>
+            <PublicName val="RetornarNfe"/>
+          </Object>
+          <Object>
+            <id val="9"/>
+            <ItemIsn val="198"/>
+            <PublicName val="CancelarNfe"/>
+          </Object>
+          <Object>
+            <id val="10"/>
+            <ItemIsn val="199"/>
+            <PublicName val="InutilizarNfe"/>
+          </Object>
+          <Object>
+            <id val="11"/>
+            <ItemIsn val="200"/>
+            <PublicName val="ConsultarProtocoloNFe"/>
+          </Object>
+          <Object>
+            <id val="12"/>
+            <ItemIsn val="201"/>
+            <PublicName val="StatusServicoNfe"/>
+          </Object>
+          <Object>
+            <id val="13"/>
+            <ItemIsn val="202"/>
+            <PublicName val="ConsultarContribuinte"/>
+          </Object>
+          <Object>
+            <id val="14"/>
+            <ItemIsn val="203"/>
+            <PublicName val="ImprimirDANFE"/>
+          </Object>
+          <Object>
+            <id val="15"/>
+            <ItemIsn val="204"/>
+            <PublicName val="EnviarEmailNFe"/>
+          </Object>
+          <Object>
+            <id val="17"/>
+            <ItemIsn val="205"/>
+            <PublicName val="CriarXML"/>
+          </Object>
+          <Object>
+            <id val="18"/>
+            <ItemIsn val="206"/>
+            <PublicName val="EnviarLoteNfe"/>
+          </Object>
+          <Object>
+            <id val="19"/>
+            <ItemIsn val="207"/>
+            <PublicName val="CriarEnviarXML"/>
+          </Object>
+          <Object>
+            <id val="20"/>
+            <ItemIsn val="208"/>
+            <PublicName val="CCe"/>
+          </Object>
+          <Object>
+            <id val="21"/>
+            <ItemIsn val="209"/>
+            <PublicName val="ManiDest"/>
+          </Object>
+          <Object>
+            <id val="22"/>
+            <ItemIsn val="210"/>
+            <PublicName val="ManiDestSemNF"/>
+          </Object>
+          <Object>
+            <id val="27"/>
+            <ItemIsn val="211"/>
+            <PublicName val="ProrrogacaoBeneficiamento"/>
+          </Object>
+          <Object>
+            <id val="28"/>
+            <ItemIsn val="212"/>
+            <PublicName val="IncluirCondutorMDFe"/>
+          </Object>
+          <Object>
+            <id val="24"/>
+            <ItemIsn val="213"/>
+            <PublicName val="SelecionarTodos"/>
+          </Object>
+          <Object>
+            <id val="25"/>
+            <ItemIsn val="214"/>
+            <PublicName val="DesmarcarTodos"/>
+          </Object>
+          <Object>
+            <id val="26"/>
+            <ItemIsn val="215"/>
+            <PublicName val="InverterSelecao"/>
+          </Object>
+          <Object>
+            <id val="29"/>
+            <ItemIsn val="216"/>
+            <PublicName val="ConsultarCFeSAT"/>
+          </Object>
+          <Object>
+            <id val="31"/>
+            <ItemIsn val="217"/>
+            <PublicName val="ImprimirExtrato"/>
+          </Object>
+          <Object>
+            <id val="32"/>
+            <ItemIsn val="218"/>
+            <PublicName val="PesquisaManifestacaoNF"/>
+          </Object>
+        </ComponentEvents>
+      </Component>
+    </Components>
+  </ComponentsRepository>
+
+</Application>

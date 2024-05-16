@@ -1,0 +1,203 @@
+﻿ <-1> 05/11/2020 11:30:18.684     [Error  ] - Component Files not found : CIGAMK2.ecf
+ <-1> 05/11/2020 11:30:18.746     [Error  ] - Component Files not found : CIGAMK2.ecf
+ <-1> 27/05/2021 14:56:17.367     [Error  ] - Component Files not found : CGESCore
+ <-1> 27/05/2021 14:56:17.443     [Error  ] - Component Files not found : CGPCCore
+ <-1> 27/05/2021 14:56:17.519     [Error  ] - Component Files not found : CGCOCore
+ <102443091148725776> 27/05/2021 16:15:25.357     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <102443091148725776> 27/05/2021 16:15:25.373     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <102443091148725776> 27/05/2021 16:15:25.390     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <102443091148725776> 27/05/2021 16:15:25.405     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <102443091148725776> 27/05/2021 16:15:25.416     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <102443091148725776> 27/05/2021 16:15:25.427     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 27/05/2021 16:16:50.790     [Error  ] - Component Files not found : CGESCore
+ <-1> 27/05/2021 16:16:50.859     [Error  ] - Component Files not found : CGPCCore
+ <-1> 27/05/2021 16:16:50.936     [Error  ] - Component Files not found : CGCOCore
+ <54477136832547800> 27/05/2021 16:18:01.781     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <54477136832547800> 27/05/2021 16:18:01.805     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <54477136832547800> 27/05/2021 16:18:01.826     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <54477136832547800> 27/05/2021 16:18:01.845     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <54477136832547800> 27/05/2021 16:18:01.862     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <54477136832547800> 27/05/2021 16:18:01.876     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <364898006235756288> 27/05/2021 16:20:01.553     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <364898006235756288> 27/05/2021 16:20:01.571     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <364898006235756288> 27/05/2021 16:20:01.587     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <364898006235756288> 27/05/2021 16:20:01.602     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <364898006235756288> 27/05/2021 16:20:01.617     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <364898006235756288> 27/05/2021 16:20:01.629     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <483507077184201664> 27/05/2021 16:20:47.316     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <483507077184201664> 27/05/2021 16:20:47.335     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <483507077184201664> 27/05/2021 16:20:47.351     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <483507077184201664> 27/05/2021 16:20:47.367     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <483507077184201664> 27/05/2021 16:20:47.380     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <483507077184201664> 27/05/2021 16:20:47.393     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <483507077184201664> 27/05/2021 16:21:00.043     [Error  ] - Component Files not found : CGCOCore, Program: "Filtro.Tela de Gestao de Solicitação.Solicitações_852".
+ <483507077184201664> 27/05/2021 16:21:00.294     [Error  ] - Component Files not found : CGCOCore, Program: "".
+ <483507077184201664> 27/05/2021 16:21:00.312     [Error  ] - Component Files not found : CGCOCore, Program: "Filtro.Tela de Gestao de Solicitação.Solicitações_852".
+ <483507077184201664> 27/05/2021 16:21:00.329     [Error  ] - Component used by the task does not exist or could not be opened - Component CGCOCore - Project CGGeral, Program: "Üdpv·".
+ <483507077184201664> 27/05/2021 16:21:00.346     [Error  ] - Component used by the task does not exist or could not be opened - Component CGCOCore - Project CGGeral, Program: "Üdpv·".
+ <-1> 27/05/2021 16:23:05.620     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 27/05/2021 16:23:27.344     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <400304525187345792> 27/05/2021 16:25:55.867     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <400304525187345792> 27/05/2021 16:25:55.901     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <400304525187345792> 27/05/2021 16:25:55.934     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <400304525187345792> 27/05/2021 16:25:55.957     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <400304525187345792> 27/05/2021 16:25:55.974     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <400304525187345792> 27/05/2021 16:25:55.986     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <400304525187345792> 27/05/2021 16:26:24.739     [Error  ] - Component Files not found : CGCOCore, Program: "Filtro.Tela de Gestao de Solicitação.Solicitações_852".
+ <400304525187345792> 27/05/2021 16:26:24.973     [Error  ] - Component Files not found : CGCOCore, Program: "".
+ <400304525187345792> 27/05/2021 16:26:24.992     [Error  ] - Component Files not found : CGCOCore, Program: "Filtro.Tela de Gestao de Solicitação.Solicitações_852".
+ <400304525187345792> 27/05/2021 16:26:25.003     [Error  ] - Component used by the task does not exist or could not be opened - Component CGCOCore - Project CGGeral, Program: "ÿÇ`¬7".
+ <400304525187345792> 27/05/2021 16:26:25.016     [Error  ] - Component used by the task does not exist or could not be opened - Component CGCOCore - Project CGGeral, Program: "ÿÇ`¬7".
+ <-1> 27/05/2021 16:28:33.349     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 27/05/2021 16:28:49.157     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <197340190241942048> 27/05/2021 16:49:24.229     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <197340190241942048> 27/05/2021 16:49:24.246     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <197340190241942048> 27/05/2021 16:49:24.260     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <197340190241942048> 27/05/2021 16:49:24.275     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <197340190241942048> 27/05/2021 16:49:24.287     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <197340190241942048> 27/05/2021 16:49:24.299     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <200609930487608704> 27/05/2021 16:50:49.411     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <200609930487608704> 27/05/2021 16:50:49.460     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <200609930487608704> 27/05/2021 16:50:49.488     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <200609930487608704> 27/05/2021 16:50:49.518     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <200609930487608704> 27/05/2021 16:50:49.548     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <200609930487608704> 27/05/2021 16:50:49.561     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <5891687982928522> 27/05/2021 16:52:04.778     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <5891687982928522> 27/05/2021 16:52:04.809     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <5891687982928522> 27/05/2021 16:52:04.825     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <5891687982928522> 27/05/2021 16:52:04.843     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <5891687982928522> 27/05/2021 16:52:04.856     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <5891687982928522> 27/05/2021 16:52:04.882     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <390749050112252672> 27/05/2021 16:52:51.770     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <390749050112252672> 27/05/2021 16:52:51.786     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <390749050112252672> 27/05/2021 16:52:51.800     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <390749050112252672> 27/05/2021 16:52:51.815     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <390749050112252672> 27/05/2021 16:52:51.828     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <390749050112252672> 27/05/2021 16:52:51.838     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <474892640938984128> 27/05/2021 16:56:47.804     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <474892640938984128> 27/05/2021 16:56:47.822     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <474892640938984128> 27/05/2021 16:56:47.842     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <474892640938984128> 27/05/2021 16:56:47.858     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <474892640938984128> 27/05/2021 16:56:47.880     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <474892640938984128> 27/05/2021 16:56:47.908     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <397997724275761088> 27/05/2021 16:58:07.447     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <397997724275761088> 27/05/2021 16:58:07.465     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <397997724275761088> 27/05/2021 16:58:07.482     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <397997724275761088> 27/05/2021 16:58:07.500     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <397997724275761088> 27/05/2021 16:58:07.512     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <397997724275761088> 27/05/2021 16:58:07.529     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <443545078215134912> 27/05/2021 17:01:26.423     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <443545078215134912> 27/05/2021 17:01:26.438     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <443545078215134912> 27/05/2021 17:01:26.453     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <443545078215134912> 27/05/2021 17:01:26.469     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <443545078215134912> 27/05/2021 17:01:26.482     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <443545078215134912> 27/05/2021 17:01:26.493     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <483423350206136448> 27/05/2021 17:14:19.871     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <483423350206136448> 27/05/2021 17:14:19.891     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <483423350206136448> 27/05/2021 17:14:19.907     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <483423350206136448> 27/05/2021 17:14:19.923     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <483423350206136448> 27/05/2021 17:14:19.951     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <483423350206136448> 27/05/2021 17:14:19.963     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 28/05/2021 17:17:38.880     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/05/2021 17:17:38.956     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/05/2021 17:17:39.034     [Error  ] - Component Files not found : CGCOCore
+ <338626553706113536> 28/05/2021 17:28:05.842     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <338626553706113536> 28/05/2021 17:28:05.862     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <338626553706113536> 28/05/2021 17:28:05.877     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <338626553706113536> 28/05/2021 17:28:05.893     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <338626553706113536> 28/05/2021 17:28:05.906     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <338626553706113536> 28/05/2021 17:28:05.918     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <430185527988000192> 28/05/2021 17:29:06.128     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <430185527988000192> 28/05/2021 17:29:06.145     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <430185527988000192> 28/05/2021 17:29:06.160     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <430185527988000192> 28/05/2021 17:29:06.176     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <430185527988000192> 28/05/2021 17:29:06.188     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <430185527988000192> 28/05/2021 17:29:06.199     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 07/10/2021 08:39:57.047     [Error  ] - Component Files not found : CGESCore
+ <-1> 07/10/2021 08:39:57.115     [Error  ] - Component Files not found : CGPCCore
+ <-1> 07/10/2021 08:39:57.201     [Error  ] - Component Files not found : CGCOCore
+ <-1> 07/10/2021 09:59:57.030     [Error  ] - Component Files not found : CGESCore
+ <-1> 07/10/2021 09:59:57.134     [Error  ] - Component Files not found : CGPCCore
+ <-1> 07/10/2021 09:59:57.199     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/10/2021 14:07:48.636     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/10/2021 14:07:48.744     [Error  ] - Component Files not found : CGPCCore
+ <-1> 08/10/2021 14:07:48.809     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/10/2021 14:19:11.955     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/10/2021 14:19:12.037     [Error  ] - Component Files not found : CGPCCore
+ <-1> 08/10/2021 14:19:12.101     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/10/2021 17:28:44.619     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/10/2021 17:28:44.706     [Error  ] - Component Files not found : CGPCCore
+ <-1> 11/10/2021 17:28:44.769     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/10/2021 17:29:30.959     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/10/2021 17:29:31.031     [Error  ] - Component Files not found : CGPCCore
+ <-1> 11/10/2021 17:29:31.093     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/10/2021 17:32:48.670     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/10/2021 17:32:48.740     [Error  ] - Component Files not found : CGPCCore
+ <-1> 11/10/2021 17:32:48.802     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/10/2021 17:33:30.351     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/10/2021 17:33:30.411     [Error  ] - Component Files not found : CGPCCore
+ <-1> 11/10/2021 17:33:30.474     [Error  ] - Component Files not found : CGCOCore
+ <-1> 13/10/2021 09:10:13.893     [Error  ] - Component Files not found : CGESCore
+ <-1> 13/10/2021 09:10:15.886     [Error  ] - Component Files not found : CGESCore
+ <-1> 13/10/2021 09:10:15.951     [Error  ] - Component Files not found : CGPCCore
+ <-1> 13/10/2021 09:10:16.014     [Error  ] - Component Files not found : CGCOCore
+ <-1> 13/10/2021 11:05:44.865     [Error  ] - Component Files not found : CGESCore
+ <-1> 13/10/2021 11:05:47.177     [Error  ] - Component Files not found : CGESCore
+ <-1> 13/10/2021 11:05:47.246     [Error  ] - Component Files not found : CGPCCore
+ <-1> 13/10/2021 11:05:47.309     [Error  ] - Component Files not found : CGCOCore
+ <-1> 13/10/2021 11:34:37.604     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 13/10/2021 11:34:49.211     [Error  ] - Error: "Cannot connect to the middleware" (-150)
+ <-1> 13/10/2021 11:34:49.219     [Error  ] - Could not find the broker. Runtime engine cannot run as a server.
+ <-1> 14/10/2021 15:24:16.688     [Error  ] - Component Files not found : CGESCore
+ <-1> 14/10/2021 15:24:19.039     [Error  ] - Component Files not found : CGESCore
+ <-1> 14/10/2021 15:24:19.102     [Error  ] - Component Files not found : CGPCCore
+ <-1> 14/10/2021 15:24:19.170     [Error  ] - Component Files not found : CGCOCore
+ <-1> 15/10/2021 14:28:40.303     [Error  ] - Component Files not found : CGESCore
+ <-1> 15/10/2021 14:28:42.304     [Error  ] - Component Files not found : CGESCore
+ <-1> 15/10/2021 14:28:42.371     [Error  ] - Component Files not found : CGPCCore
+ <-1> 15/10/2021 14:28:42.434     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/11/2021 14:37:01.273     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 14:37:03.297     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 14:37:03.366     [Error  ] - Component Files not found : CGPCCore
+ <-1> 08/11/2021 14:37:03.432     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/11/2021 15:16:00.104     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 15:16:02.097     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 15:16:02.171     [Error  ] - Component Files not found : CGPCCore
+ <-1> 08/11/2021 15:16:02.254     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/11/2021 15:30:44.012     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 15:30:46.377     [Error  ] - Component Files not found : CGESCore
+ <-1> 08/11/2021 15:30:46.442     [Error  ] - Component Files not found : CGPCCore
+ <-1> 08/11/2021 15:30:46.504     [Error  ] - Component Files not found : CGCOCore
+ <-1> 08/11/2021 15:40:39.822     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:40:39.835     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:40:39.843     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:40:39.855     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:40:39.861     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:40:39.868     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:45:15.545     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:45:15.560     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:45:15.570     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:45:15.582     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:45:15.589     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:45:15.600     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:51:29.787     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:51:29.801     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:51:29.808     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:51:29.817     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:51:29.823     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:51:29.830     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:52:54.276     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:52:54.289     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:52:54.297     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:52:54.311     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:52:54.319     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:52:54.326     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:52:56.214     [Error  ] - Program not found for 'Call By Name' operation: W:\CIGAMe11\Cab\Geral\CGReport.ecf, Program: "Filtro.Tela de Gestao de Solicitação".
+ <-1> 08/11/2021 15:53:29.697     [Error  ] - Program not found for 'Call By Name' operation: W:\CIGAMe11\Cab\Geral\CGReport.ecf, Program: "Filtro.Tela de Gestao de Solicitação".
+ <-1> 08/11/2021 15:55:03.692     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:55:03.705     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:55:03.721     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 08/11/2021 15:55:03.733     [Error  ] - Component Files not found : CGESCore, Program: "Filtro.VerificaLicenca_2212".
+ <-1> 08/11/2021 15:55:03.740     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 08/11/2021 15:55:03.748     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <512681362556597312> 01/12/2023 15:13:35.485     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "C:\Users\jhon_\Meu Drive\Projetos\Desenvolvimento\Calbos\XPA\Gestao_solicitacao\", Program: "Filtro".

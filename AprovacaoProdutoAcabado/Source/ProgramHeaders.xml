@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738797" _time="33264" date="04/10/2023" time="09:14:24"/>
+      </Header>
+      <SourceFileTimeStamp _date="738797" _time="44064" date="04/10/2023" time="12:14:24"/>
+    </Program>
+    <Program>
+      <Header Description="Pesquisa paginada aprovação PA" ISN_2="1" LastIsn="5" id="2">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="2"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738932" _time="51619" date="16/02/2024" time="14:20:19"/>
+      </Header>
+      <SourceFileTimeStamp _date="738932" _time="62419" date="16/02/2024" time="17:20:19"/>
+    </Program>
+    <Program>
+      <Header Description="lc_LOOP_PROCESSA_APROVACAO_PA" ISN_2="1" LastIsn="1" id="5">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="Y"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <PARALLEL_EXECUTION>
+          <INITIATE_MAIN_PROG val="N"/>
+          <COPY_GLOBAL_PARAMS val="N"/>
+          <SingleInstance val="N"/>
+        </PARALLEL_EXECUTION>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738797" _time="50920" date="04/10/2023" time="14:08:40"/>
+      </Header>
+      <SourceFileTimeStamp _date="738797" _time="61720" date="04/10/2023" time="17:08:40"/>
+    </Program>
+    <Program>
+      <Header Description="Listagem de SA com aprovação" ISN_2="1" LastIsn="1" id="6">
+        <Public val="LC002"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738932" _time="51510" date="16/02/2024" time="14:18:30"/>
+      </Header>
+      <SourceFileTimeStamp _date="738932" _time="62310" date="16/02/2024" time="17:18:30"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

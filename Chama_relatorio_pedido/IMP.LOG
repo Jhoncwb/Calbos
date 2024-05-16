@@ -1,0 +1,18 @@
+Import warnings from file: C:\SVN\Testes\DEFAULT_PROJECT.XML (17/01/12 09:33:13)
+================================================================================
+
+
+Import warnings from file: C:\SVN\Testes\DEFAULT_PROJECT.XML (17/01/12 09:33:24)
+================================================================================
+
+
+Converting project  (05/11/20 13:34:11)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+General - General (131) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (199) - Info - 2 - Style and Border of the controls were changed.
+General - Components (24) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (24) - Info - 74 - New transaction message was added.
+General - color 341 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 342 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000 (2) - Info - 54 - New color was assigned to the control.

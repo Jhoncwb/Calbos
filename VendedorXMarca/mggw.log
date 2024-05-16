@@ -1,0 +1,15 @@
+﻿18328  13:33:53,77281  ms7_ini(): >>>>>
+18328          ,77296  ms7_ini(): MicrosoftSQLServer , Version Magic xpa 3.3c-0 16-Dec-2018
+18328          ,77296  Version Magic xpa 3.3c, Log = mggw.log,  Level = Customer,  Sync = None,  Date = 30/08/2021
+18328  13:33:54,78343  STMT - SELECT CURRENT_USER
+18328          ,78359   
+	STMT: SELECT *
+FROM LC_CGREPORT
+WHERE Cd_relatorio = 415
+
+18328          ,78359   
+	STMT: SELECT *
+FROM LC_CGREPORT
+WHERE Cd_relatorio = 415
+
+18328          ,78359  logical cursor: using COMMAND :Default result Set

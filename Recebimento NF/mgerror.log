@@ -1,0 +1,12 @@
+﻿ <61174465725040912> 25/03/2019 10:03:53.361     [Error  ] - Bad date, program: Browse - Temp
+ <61174465725040912> 25/03/2019 10:03:54.878     [Error  ] - Bad date, program: Browse - Temp
+ <182233371129363904> 25/03/2019 10:11:59.487     [Error  ] - Only statements that retrieve data are allowed in a DSQL deferred transaction task, program: Recebimento NF.Insere Material
+ <224746902284430880> 25/03/2019 10:13:05.446     [Error  ] - Only statements that retrieve data are allowed in a DSQL deferred transaction task, program: Recebimento NF.Insere Material
+ <331125416869419840> 25/03/2019 11:27:40.953     [Error  ] - Invalid number, program: Recebimento NF.Conferencia Lote
+ <-1> 08/11/2023 14:44:03.072     [Error  ] - The environment variable JAVA_HOME ("C:\Program Files (x86)\MSE\Java\jdk1.8.0_192") is set to a non-existing folder. (Studio)
+
+==============================================
+PID 9364	08/11/2023 14:44:38
+==============================================
+
+

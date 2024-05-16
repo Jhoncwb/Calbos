@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="15"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <ModelsRepository>
+    <Models>
+      <Object id="1" name="Zebrado">
+        <PropertyList model="CTRL_RICH_CLIENT_TABLE">
+          <Placement bottom="100" id="20" right="100"/>
+          <Color id="51" val="275"/>
+          <ScrollBar id="77"/>
+          <LineDivider id="78" val="Y"/>
+          <ColumnDivider id="189" val="Y"/>
+          <RowHighlightColor id="410" val="151"/>
+          <SetTableColorBy id="428" val="2"/>
+          <AlternatingBgColor id="429" val="274"/>
+          <Border id="452"/>
+        </PropertyList>
+      </Object>
+      <Object id="2" name="Form">
+        <PropertyList model="FORM_RICH_CLIENT">
+          <Width id="23" val="254"/>
+          <Height id="24" val="420"/>
+          <FormUnits id="33" val="4"/>
+          <VerticalFactor id="34" val="1"/>
+          <HorizontalFactor id="35" val="1"/>
+          <GridX id="38" val="5"/>
+          <GridY id="39" val="13"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="101"/>
+          <_Comment id="218"/>
+          <StartupPosition id="275" val="2"/>
+          <FormName id="311"/>
+          <OrientationLock id="659" val="2"/>
+        </PropertyList>
+      </Object>
+      <Object id="4" name="Edit">
+        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+          <Placement id="20"/>
+          <Width id="23" val="80"/>
+          <Height id="24" val="30"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="106"/>
+          <Border id="452" val="Y"/>
+        </PropertyList>
+      </Object>
+      <Object id="14" name="Edit Table">
+        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+          <Placement id="20"/>
+          <Width id="23" val="80"/>
+          <Height id="24" val="30"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="101"/>
+          <Border id="452" val="Y"/>
+        </PropertyList>
+      </Object>
+      <Object id="6" name="PB">
+        <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
+          <Placement id="20"/>
+          <Width id="23" val="80"/>
+          <Height id="24" val="30"/>
+        </PropertyList>
+      </Object>
+      <Object id="7" name="Label 15">
+        <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+          <Placement id="20"/>
+          <Width id="23" val="112"/>
+          <Height id="24" val="15"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="101"/>
+        </PropertyList>
+      </Object>
+      <Object id="15" name="Label 30">
+        <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+          <Placement id="20"/>
+          <Width id="23" val="112"/>
+          <Height id="24" val="30"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="101"/>
+        </PropertyList>
+      </Object>
+      <Object id="8" name="Check box">
+        <PropertyList model="CTRL_RICH_CLIENT_CHECKBOX">
+          <Placement id="20"/>
+          <Height id="24" val="16"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="101"/>
+        </PropertyList>
+      </Object>
+      <Object id="9" name="SubForm">
+        <PropertyList model="CTRL_RICH_CLIENT_SUBFORM">
+          <Placement id="20"/>
+        </PropertyList>
+      </Object>
+      <Object id="12" name="Combo box">
+        <PropertyList model="CTRL_RICH_CLIENT_COMBOBOX">
+          <Placement id="20"/>
+          <Font id="50" val="101"/>
+          <Color id="51" val="106"/>
+        </PropertyList>
+      </Object>
+    </Models>
+  </ModelsRepository>
+
+</Application>

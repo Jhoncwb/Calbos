@@ -1,0 +1,32 @@
+Import warnings from file: C:\CIGAM\Temp\Project.xml (30/01/19 09:27:12)
+========================================================================
+
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Field 5 in File GEGERREL may lose significance. Modify the field to 8 byte length
+
+Import warnings from file: C:\CIGAM\Temp\Project.xml (30/01/19 09:30:11)
+========================================================================
+
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Cabinet File Name cannot be empty.
+Field 5 in File GEGERREL may lose significance. Modify the field to 8 byte length
+
+Converting project  (05/11/20 13:32:45)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+General - General (125) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (198) - Info - 2 - Style and Border of the controls were changed.
+General - Components (22) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (22) - Info - 74 - New transaction message was added.
+General - color 341 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 342 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000- Info - 54 - New color was assigned to the control.

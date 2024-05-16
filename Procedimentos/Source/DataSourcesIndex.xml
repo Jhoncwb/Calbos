@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="22"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_CADASTRO_SETOR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="2459" name="LC_CADASTRO_SETOR" offset="213"/>
+      <DataObject PhysicalName="LC_CADASTRO_AREA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" length="1526" name="LC_CADASTRO_AREA" offset="2673"/>
+      <DataObject PhysicalName="LC_CADASTRO_LOCAL" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="21" length="1534" name="LC_CADASTRO_LOCAL" offset="4200"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" length="11222" name="LC_NCONFORMIDADE" offset="5735"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_TIPO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="15" length="9654" name="LC_NCONFORMIDADE_TIPO" offset="16958"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_TIPO_USUARIO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="20" length="3004" name="LC_NCONFORMIDADE_TIPO_USUARIO" offset="26613"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_SETORES" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="14" length="2476" name="LC_NCONFORMIDADE_SETORES" offset="29618"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_AREA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="18" length="3126" name="LC_NCONFORMIDADE_AREA" offset="32095"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_FUNCIONARIOS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" length="2397" name="LC_NCONFORMIDADE_FUNCIONARIOS" offset="35222"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_MAQUINAS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" length="2515" name="LC_NCONFORMIDADE_MAQUINAS" offset="37620"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_EMPRESAS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="10" length="2370" name="LC_NCONFORMIDADE_EMPRESAS" offset="40136"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_MATERIAIS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="11" length="3035" name="LC_NCONFORMIDADE_MATERIAIS" offset="42507"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_LOCAIS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" length="2378" name="LC_NCONFORMIDADE_LOCAIS" offset="45543"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_PROCEDIMENTOS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" length="2545" name="LC_NCONFORMIDADE_PROCEDIMENTOS" offset="47922"/>
+      <DataObject PhysicalName="LC_NCONFORMIDADE_ANEXO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="19" length="3640" name="LC_NCONFORMIDADE_ANEXO" offset="50468"/>
+      <DataObject PhysicalName="LC_PROCEDIMENTOS" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="22" length="9068" name="LC_PROCEDIMENTOS" offset="54109"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30880441-117760483"/>
+
+</Application>

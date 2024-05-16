@@ -1,0 +1,36 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="26"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+  
+<DataObject PhysicalName="LC_BARRAS_ACABADO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_BARRAS_ACABADO" offset="214" length="14246"/> 
+<DataObject PhysicalName="LC_MATERIAL_ARQUIVO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="2" name="LC_MATERIAL_ARQUIVO" offset="14461" length="12372"/> 
+<DataObject PhysicalName="LC_LOGIN" Resident="N" UniqueISNConvState="12" data_source="Local" id="5" name="LC_LOGIN" offset="26834" length="4293"/> 
+<DataObject PhysicalName="LC_TEMP_ROMANEIO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" name="LC_TEMP_ROMANEIO" offset="31128" length="21613"/> 
+<DataObject PhysicalName="LC_BARRAS_SEPARACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" name="LC_BARRAS_SEPARACAO" offset="52742" length="14928"/> 
+<DataObject PhysicalName="LC_BARRAS_INSUMO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" name="LC_BARRAS_INSUMO" offset="67671" length="18896"/> 
+<DataObject PhysicalName="LC_VALIDADE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="15" name="LC_VALIDADE" offset="86568" length="5747"/> 
+<DataObject PhysicalName="Temp_apontamento" Resident="N" UniqueISNConvState="12" data_source="Local" id="16" name="Temp_apontamento" offset="92316" length="5190"/> 
+<DataObject PhysicalName="LC_ALOCADA_MOBILE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="18" name="LC_ALOCADA_MOBILE" offset="97507" length="5724"/> 
+<DataObject PhysicalName="LC_APP_FILA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="21" name="LC_APP_FILA" offset="103232" length="12822"/> 
+<DataObject PhysicalName="LC_NF_FOTOS" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="23" name="LC_NF_FOTOS" offset="116055" length="8424"/> 
+<DataObject PhysicalName="LC_BALANCO_SITUACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="24" name="LC_BALANCO_SITUACAO" offset="124480" length="7892"/> 
+<DataObject PhysicalName="LC_ITEM_ESBALANC" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="25" name="LC_ITEM_ESBALANC" offset="132373" length="9643"/> 
+<DataObject PhysicalName="lc_vw_gestaopedido" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="26" name="lc_vw_gestaopedido" offset="142017" length="28314"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="3110700770622924"/>  </Application>

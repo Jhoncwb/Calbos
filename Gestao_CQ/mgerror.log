@@ -1,0 +1,44 @@
+﻿ <459436383210400064> 23/08/2022 10:55:54.528     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <17624923606166050> 23/08/2022 10:58:35.874     [Error  ] - error serializing task "Itens", Program: "Especificações farmacopeicas.Itens".
+ <530876812757542720> 23/08/2022 11:00:57.931     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <355703000246562944> 23/08/2022 17:53:32.980     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <14060359273338992> 23/08/2022 17:54:54.087     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <14060359273338992> 23/08/2022 17:55:03.433     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <92003004116850816> 23/08/2022 17:55:55.684     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <201401862378010784> 23/08/2022 17:56:44.953     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <441543151967741376> 24/08/2022 08:35:46.994     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <176899298505817216> 24/08/2022 08:37:51.529     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <179957902569394080> 24/08/2022 08:45:41.539     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <334542852056688704> 24/08/2022 08:47:47.964     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <15551906725226666> 24/08/2022 08:49:41.123     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <434563263517075968> 24/08/2022 09:44:22.299     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <127180801604566112> 24/08/2022 09:47:52.802     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <127180801604566112> 24/08/2022 09:48:54.023     [Error  ] - Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <407600393797731584> 24/08/2022 10:00:35.515     [Error  ] - Initial Task mode not allowed, Program: "Certificado.Itens".
+ <70242638974473984> 24/08/2022 10:04:44.206     [Error  ] - Initial Task mode not allowed, Program: "Certificado.Itens".
+ <70242638974473984> 24/08/2022 10:04:53.582     [Error  ] - Initial Task mode not allowed, Program: "Certificado.Itens".
+ <410154447958978496> 24/08/2022 16:51:02.382     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <122772276923163744> 30/08/2022 14:17:05.985     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <18865032610325580> 30/08/2022 16:07:18.746     [Error  ] - Initial Task mode not allowed, Program: "Certificado.Controle".
+ <493413049129387904> 31/08/2022 10:40:23.631     [Error  ] - Initial Task mode not allowed, Program: "Certificado".
+ <312175224632932480> 31/08/2022 10:40:49.524     [Error  ] - Initial Task mode not allowed, Program: "Certificado".
+ <518801394274919744> 31/08/2022 10:41:19.091     [Error  ] - Initial Task mode not allowed, Program: "Certificado".
+ <235553217168628640> 31/08/2022 10:41:51.699     [Error  ] - Initial Task mode not allowed, Program: "Certificado".
+ <47390129529862944> 31/08/2022 16:08:04.555     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Certificado.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <139240791833487232> 31/08/2022 16:12:38.070     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Busca ultimo certificado".
+ <332973156198019648> 31/08/2022 16:15:08.514     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Busca ultimo certificado".
+ <318332360904473920> 31/08/2022 16:21:03.086     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Busca ultimo certificado".
+ <176965906554659296> 31/08/2022 16:22:20.237     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Busca ultimo certificado".
+ <176965906554659296> 31/08/2022 16:22:32.657     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Busca ultimo certificado".
+ <510634806276280000> 31/08/2022 17:00:52.311     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <510634806276280000> 31/08/2022 17:01:37.983     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <392539278004012096> 31/08/2022 17:02:27.612     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <392539278004012096> 31/08/2022 17:02:59.223     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <239754859458421920> 31/08/2022 17:04:54.116     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <11740516878483596> 31/08/2022 17:06:12.918     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <11740516878483596> 31/08/2022 17:06:25.551     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <400301510857073600> 31/08/2022 17:07:48.661     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <437999950109081280> 31/08/2022 17:09:07.394     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <437999950109081280> 31/08/2022 17:09:34.092     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: LC_CQ_ANALISE_SEQUENCIA, Program: "Certificado.Cria certificado.Busca ultimo certificado".
+ <66798912875625200> 01/09/2022 16:41:03.155     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Pesquisa Certificado.Certificado.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <195671849664042752> 01/09/2022 17:02:04.132     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Pesquisa Certificado.Certificado.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".

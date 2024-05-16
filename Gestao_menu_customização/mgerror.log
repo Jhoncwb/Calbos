@@ -1,0 +1,3 @@
+﻿ <284302999579426816> 05/05/2021 10:27:46.971     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Gestao_menu_customização\", Program: "Menu".
+ <371179169959792384> 05/05/2021 13:34:58.651     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Gestao_menu_customização\", Program: "Menu Customizado".
+ <-1> 05/05/2021 13:36:28.408     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

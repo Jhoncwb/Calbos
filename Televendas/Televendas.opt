@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <DebugMode Val="N"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <Breakpoints>
+    <DelAll/>
+    <Breakpoint>
+      <Condition Val=""/>
+      <Location Val="Televendas.b_pedido"/>
+      <HandlerId Val="3"/>
+      <OperationId Val="23"/>
+      <LineIndex Val="2"/>
+      <HandlerDesc Val="Event:F5 &lt;/Pedido>"/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="-1164444143"/>
+      <Component2 Val="23570"/>
+      <Component3 Val="17139"/>
+      <Component4 Val="-1312744534"/>
+      <Component5 Val="39921001"/>
+      <Prog Val="2"/>
+      <Subtask Val="5"/>
+      <Type Val="1"/>
+      <Operation Val="23"/>
+    </Breakpoint>
+  </Breakpoints>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+</Application>

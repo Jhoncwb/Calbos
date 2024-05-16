@@ -1,0 +1,4 @@
+﻿ <335669250839265792> 03/04/2023 16:55:26.563     [Error  ] - Invalid SQL command, database: CIGAM_SQL, Program: "Gera Comissão.exec LC_SP_CRIA_COMISSAO".
+ <335669250839265792> 03/04/2023 16:55:26.564     [Error  ] - SERVER : String or binary data would be truncated., Program: "Gera Comissão.exec LC_SP_CRIA_COMISSAO".
+ <368352166652740672> 03/04/2023 16:57:40.712     [Error  ] - Invalid SQL command, database: CIGAM_SQL, Program: "Gera Comissão.exec LC_SP_CRIA_COMISSAO".
+ <368352166652740672> 03/04/2023 16:57:40.712     [Error  ] - SERVER : String or binary data would be truncated., Program: "Gera Comissão.exec LC_SP_CRIA_COMISSAO".

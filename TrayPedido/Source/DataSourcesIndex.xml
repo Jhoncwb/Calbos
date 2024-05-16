@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="4"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="lc_Temp_tray_pedido" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" length="11055" name="lc_Temp_tray_pedido" offset="212"/>
+      <DataObject PhysicalName="lc_Temp_tray_pedido_itens" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="7251" name="lc_Temp_tray_pedido_itens" offset="11268"/>
+      <DataObject PhysicalName="SPARPEDDESC" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="5013" name="SPARPEDDESC" offset="18520"/>
+      <DataObject PhysicalName="LC_TRAY_ORDERS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" length="2768" name="LC_TRAY_ORDERS" offset="23534"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30986673-92399350"/>
+
+</Application>

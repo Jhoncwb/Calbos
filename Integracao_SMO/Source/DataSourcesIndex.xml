@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="6"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_Temp_Frete_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" length="6585" name="LC_Temp_Frete_%USUARIO%" offset="212"/>
+      <DataObject PhysicalName="LC_FRETE_COTADO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="7066" name="LC_FRETE_COTADO" offset="6798"/>
+      <DataObject PhysicalName="LC_REDESPACHO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="2025" name="LC_REDESPACHO" offset="13865"/>
+      <DataObject PhysicalName="LC_RASTREAMENTO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" length="7338" name="LC_RASTREAMENTO" offset="15891"/>
+      <DataObject PhysicalName="LC_FRETE_REDESPACHO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" length="1545" name="LC_FRETE_REDESPACHO" offset="23230"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="31022726-3120619"/>
+
+</Application>

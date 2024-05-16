@@ -1,0 +1,249 @@
+﻿ <552301235294029888> 18/07/2019 14:54:42.674     [Error  ] - {
+ "remetente":{
+ "cnpj":"76719525000143",
+ "local":{
+ "cidade":"CURITIBA",
+ "uf":"PR",
+ "codigoIBGE":4106902,
+"cep": "80220051"
+ },
+ "contribuinte":true
+ },
+ "destinatario":{
+ "cnpj":"33157699000157",
+ "local":{
+ "cidade":"RIVERSUL",
+ "uf"
+ <195579448273142496> 27/08/2020 14:22:58.170     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <195579448273142496> 27/08/2020 14:23:05.528     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <195579448273142496> 27/08/2020 14:23:12.563     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <195579448273142496> 27/08/2020 14:23:13.323     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <195579448273142496> 27/08/2020 14:23:13.445     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_Atualiza.Busca_dados_item.Atualiza Pedido
+ <195579448273142496> 27/08/2020 14:23:14.781     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_Atualiza.Busca_dados_item.Atualiza Pedido
+ <195579448273142496> 27/08/2020 14:23:16.113     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_Atualiza.Busca_dados_item.Atualiza Pedido
+ <195579448273142496> 27/08/2020 14:23:16.632     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_Atualiza.Busca_dados_item.Atualiza Pedido
+ <26175115146570636> 27/08/2020 14:23:36.626     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:19.472     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:20.196     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:21.525     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:22.866     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:24.206     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:25.524     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:26.851     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:28.181     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:29.512     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <446947208764063168> 27/08/2020 14:24:30.833     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Cotação Frete.Frete.Busca_dados_pedido_valor.Busca_dados_item.Busca VL Total
+ <-1> 13/05/2021 11:41:37.037     [Error  ] - Component Files not found : CGESCore
+ <-1> 13/05/2021 11:41:37.122     [Error  ] - Component Files not found : CGPCCore
+ <-1> 13/05/2021 11:41:37.212     [Error  ] - Component Files not found : CGCOCore
+ <-1> 25/06/2021 10:59:22.670     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/06/2021 10:59:22.762     [Error  ] - Component Files not found : CGPCCore
+ <-1> 25/06/2021 10:59:22.841     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 09:29:45.900     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 09:29:45.987     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 09:29:46.066     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 11:04:29.840     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 11:04:30.015     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 11:04:30.095     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 11:18:29.648     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 11:18:29.728     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 11:18:29.806     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 13:25:51.650     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 13:25:51.736     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 13:25:51.814     [Error  ] - Component Files not found : CGCOCore
+ <-1> 29/06/2021 14:46:10.268     [Error  ] - Component Files not found : CGESCore
+ <-1> 29/06/2021 14:46:10.348     [Error  ] - Component Files not found : CGPCCore
+ <-1> 29/06/2021 14:46:10.428     [Error  ] - Component Files not found : CGCOCore
+ <-1> 29/06/2021 15:21:32.007     [Error  ] - Component Files not found : CGESCore
+ <-1> 29/06/2021 15:21:32.087     [Error  ] - Component Files not found : CGPCCore
+ <-1> 29/06/2021 15:21:32.167     [Error  ] - Component Files not found : CGCOCore
+ <557366173891081408> 15/12/2021 14:28:06.024     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Integracao_SMO\", Program: "Cotação Frete.Frete".
+ <221561611272797280> 30/05/2022 15:51:20.324     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Integracao_SMO\", Program: "Cotação Frete.Frete".
+ <385896772787267328> 30/05/2022 16:24:18.964     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <385896772787267328> 30/05/2022 16:24:20.608     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <385896772787267328> 30/05/2022 16:24:21.972     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <355181709595818176> 30/05/2022 16:25:59.874     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <152234166048989792> 30/05/2022 16:29:35.447     [Error  ] - Constraint failure, data source: CIGAM_SQL, Program: "Cotação Frete.Trata retorno".
+ <130942277876745856> 30/05/2022 16:33:15.881     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <130942277876745856> 30/05/2022 16:33:17.194     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <264915235272888384> 30/05/2022 16:35:21.603     [Error  ] - Constraint failure, data source: CIGAM_SQL, Program: "Cotação Frete.Trata retorno".
+ <236151716642847232> 30/05/2022 16:36:47.266     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <236151716642847232> 30/05/2022 16:36:59.232     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Ocorreu um erro na criação de registro de uma tabela do banco de dados.
+
+Acesse o botão "Detalhes" para ter mais informações.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot insert the value NULL into column 'cnpjTransp', table 'BTESTE.dbo.LC_Temp_Frete_E98'; column does not allow nulls. INSERT fails.
+
+[Constraint failure]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <12167902135892412> 03/06/2022 13:19:06.231     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Integracao_SMO\", Program: "Cotação Frete.Frete".
+ <226917915154961024> 03/08/2022 09:45:45.310     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '279691'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '279691'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------  >> Application: "C:\CIGAM\CIGAMe11\Cab\Geral\", Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <226917915154961024> 03/08/2022 09:46:16.258     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '279691'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '279691'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------  >> Application: "C:\CIGAM\CIGAMe11\Cab\Geral\", Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <226917915154961024> 03/08/2022 09:46:16.284     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Integracao_SMO\", Program: "Cotação Frete.Frete".
+ <267524602897554944> 03/08/2022 10:05:15.847     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '279691'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '279691'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".
+ <267524602897554944> 03/08/2022 10:05:16.555     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '279691'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '279691'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cotação Frete;Trata retorno;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cotação Frete.Trata retorno.TratamentoErroCigamSql.MensagemCigam".

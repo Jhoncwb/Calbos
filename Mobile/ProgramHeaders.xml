@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39531" date="18/11/2020" time="10:58:51"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50186" date="18/11/2020" time="13:56:26"/>
+    </Program>
+    <Program>
+      <Header Description="MO07 Take Picture" ISN_2="1" LastIsn="1" id="25">
+        <Comment val="This sample requires building a custom client as follows: &#xD;&#xA;&#xD;&#xA;For Android:&#xD;&#xA;--------------------&#xD;&#xA;1. Copy the files from the SampleProjects\Rich Internet Samples\Android\ImageResize-src folder to the RIAModules\Android\Source\app\src\main\java\com\magicsoftware\magicdev folder. &#xD;&#xA;2. Build the customized Android client by running the build.bat file (under RIAModules\Android\Source). &#xD;&#xA;&#xD;&#xA;For iOS:&#xD;&#xA;--------------------&#xD;&#xA;1. Copy the files from the SampleProjects\Rich Internet Samples\iOS\ImageResize-MagicApp folder to the RIAModules\iOS\Source\MagicApp folder. &#xD;&#xA;2. Copy the files from the RIAModules\iOS\Source folder to the Mac machine.&#xD;&#xA;3. Open the project (MagicApp.xcodeproj) using Xcode and from the File menu, select Add Files to “MagicApp”. From the opened dialog box, navigate to the MagicApp folder, select the ImageResize.h and ImageResize.m files and click Add.&#xD;&#xA;4. Build the customized iOS client by running the build.sh file (under RIAModules\iOS\Source). &#xD;&#xA;&#xD;&#xA;That's it."/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="Y"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="M"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39532" date="18/11/2020" time="10:58:52"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50186" date="18/11/2020" time="13:56:26"/>
+    </Program>
+    <Program>
+      <Header Description="Shell" ISN_2="1" LastIsn="6" id="6">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <PARALLEL_EXECUTION>
+          <INITIATE_MAIN_PROG val="Y"/>
+          <COPY_GLOBAL_PARAMS val="Y"/>
+          <SingleInstance val="N"/>
+        </PARALLEL_EXECUTION>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="N"/>
+        <External val="Y"/>
+        <Offline val="N"/>
+        <FormType val="M"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39532" date="18/11/2020" time="10:58:52"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50186" date="18/11/2020" time="13:56:26"/>
+    </Program>
+    <Program>
+      <Header Description="Logoff" ISN_2="1" LastIsn="1" id="18">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="N"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="M"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39532" date="18/11/2020" time="10:58:52"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50186" date="18/11/2020" time="13:56:26"/>
+    </Program>
+    <Program>
+      <Header Description="Apontamento Produção" ISN_2="1" LastIsn="11" id="27">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="N"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="M"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39597" date="18/11/2020" time="10:59:57"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50186" date="18/11/2020" time="13:56:26"/>
+    </Program>
+    <Program>
+      <Header Description="Romaneio Expedição" ISN_2="1" LastIsn="7" id="7">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="Y"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="D"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39597" date="18/11/2020" time="10:59:57"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50187" date="18/11/2020" time="13:56:27"/>
+    </Program>
+    <Program>
+      <Header Description="Conferência" ISN_2="1" LastIsn="56" id="22">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <PARALLEL_EXECUTION>
+          <INITIATE_MAIN_PROG val="Y"/>
+          <COPY_GLOBAL_PARAMS val="Y"/>
+          <SingleInstance val="N"/>
+        </PARALLEL_EXECUTION>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="Y"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="D"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737747" _time="39597" date="18/11/2020" time="10:59:57"/>
+      </Header>
+      <SourceFileTimeStamp _date="737747" _time="50187" date="18/11/2020" time="13:56:27"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

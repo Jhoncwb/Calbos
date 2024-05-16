@@ -1,0 +1,349 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="3"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="LC_APROVACAO_PA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_APROVACAO_PA">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="2" name="Codigo Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="39"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Codigo_Material"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Codigo_Material" PIC_U="20A" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="3" name="Lote">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="400"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="14"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Lote"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Lote" PIC_U="14A" Size="14" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="11" name="Data criação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_DATE" comp="2" id="1" obj="398"/>
+        <StoredAs id="173" val="19"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Data_Criacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Data_Criacao" PIC_U="##/##/##A" Size="8" allowed_null="Y" attribute="D" context_cookies="Y" database_definition="2" id="231" storage="19" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="6" name="Usuario modificação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="243"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="3"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Usuario_modificacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Usuario_modificacao" PIC_U="3A" Size="3" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="7" name="Data modificação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_DATE" comp="2" id="1" obj="398"/>
+        <StoredAs id="173" val="19"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Data_modificacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Data_modificacao" PIC_U="##/##/##A" Size="8" allowed_null="Y" attribute="D" context_cookies="Y" database_definition="2" id="231" storage="19" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="9" name="Usuario liberação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="243"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="3"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Usuario_liberacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Usuario_liberacao" PIC_U="3A" Size="3" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="8" name="Data liberação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_DATE" comp="2" id="1" obj="398"/>
+        <StoredAs id="173" val="19"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Data_liberacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Data_liberacao" PIC_U="##/##/##A" Size="8" allowed_null="Y" attribute="D" context_cookies="Y" database_definition="2" id="231" storage="19" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="10" name="Situação">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Range id="98" valUnicode="Quarentena,Aprovado,Reprovado,Coletado"/>
+        <Picture id="157" valUnicode="1"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Situacao"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Situacao" PIC_U="1" Size="1" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="12" name="Número certificado">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="10"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="10"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Numero_certificado"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Numero_certificado" PIC_U="10" Size="10" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="K_LC_APROVACAO_PA">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="K_LC_APROVACAO_PA"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="20"/>
+          <Column val="2"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="14"/>
+          <Column val="3"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="LC_APROVACAO_PA_LAUDO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="2" name="LC_APROVACAO_PA_LAUDO">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="Codigo Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="39"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Codigo_Material"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Codigo_Material" PIC_U="20A" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="2" name="Lote">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="400"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="14"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Lote"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Lote" PIC_U="14A" Size="14" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="3" name="Nome arquivo">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="128"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="128"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Nome_arquivo"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Nome_arquivo" PIC_U="128" Size="128" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="4" name="Arquivo">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_BLOB" id="1"/>
+        <Size id="174" val="28"/>
+        <Definition id="175" val="1"/>
+        <DbColumnName id="178" val="Arquivo"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Arquivo" Size="28" allowed_null="Y" attribute="O" context_cookies="Y" database_definition="1" id="231" storage="29"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="K_LC_APROVACAO_PA_LAUDO">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="K_LC_APROVACAO_PA_ANEXO"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="20"/>
+          <Column val="1"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="14"/>
+          <Column val="2"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="LC_LISTA_SA_COM_APROVACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="LC_LISTA_SA_COM_APROVACAO">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="D"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="-1"/>
+
+  <IndexesLastIsn val="2"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="Codigo Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="2" id="1" obj="39"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Codigo_Material"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Codigo_Material" PIC_U="20A" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="K_LC_LISTA_SA_COM_APROVACAO">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="K_LC_LISTA_SA_COM_APROVACAO"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="20"/>
+          <Column val="1"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject>  </DataObjects>
+ </DataSourceRepository>
+  </Application>

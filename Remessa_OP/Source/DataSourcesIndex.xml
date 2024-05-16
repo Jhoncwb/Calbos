@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="3"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_REMESSA_PEDIDO" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="1" length="9023" name="LC_REMESSA_PEDIDO" offset="212"/>
+      <DataObject PhysicalName="LC_REMESSA_ITEM" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="2" length="13899" name="LC_REMESSA_ITEM" offset="9236"/>
+      <DataObject PhysicalName="LC_REMESSA_GRADE" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="3" length="3673" name="LC_REMESSA_GRADE" offset="23136"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30847889165436185"/>
+
+</Application>

@@ -1,0 +1,6 @@
+﻿ <405480699906055744> 12/12/2018 16:35:49.541     [Error  ] - Task without screen, program: Inicializa
+ <428505359816043456> 12/12/2018 16:37:15.114     [Error  ] - Task without screen, program: Inicializa
+ <47984048895010880> 13/12/2018 09:29:01.085     [Error  ] - Task without screen, program: teste
+ <97899910998504752> 13/12/2018 09:29:07.418     [Error  ] - Task without screen, program: teste
+ <506069283157558464> 13/12/2018 09:31:13.743     [Error  ] - Task without screen, program: teste
+ <7999742995532719> 28/01/2021 10:30:34.108     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "C:\Users\jhon_\Google Drive\Projetos\Desenvolvimento\Calbos\XPA\Inicializa_Cigam\", Program: "Inicializa".

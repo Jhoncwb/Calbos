@@ -1,0 +1,121 @@
+﻿ <-1> 19/05/2021 17:07:31.809     [Error  ] - Component Files not found : CGESCore
+ <-1> 19/05/2021 17:07:31.918     [Error  ] - Component Files not found : CGPCCore
+ <-1> 19/05/2021 17:07:32.000     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/05/2021 16:54:00.771     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/05/2021 16:54:00.895     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/05/2021 16:54:00.974     [Error  ] - Component Files not found : CGCOCore
+ <-1> 31/03/2022 11:13:16.883     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid column name 'Cd_portador'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid column name 'Cd_portador'.
+
+[SQL execution err]
+
+Programa atual em execução: Conciliação;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Conciliação.TratamentoErroCigamSql.MensagemCigam".
+ <-1> 01/04/2022 14:09:51.652     [Error  ] - Initial Task mode not allowed, Program: "Conciliação".
+ <-1> 05/04/2022 15:29:31.140     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 07/04/2022 17:42:08.202     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 11/04/2022 10:26:34.113     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 11/04/2022 10:44:57.326     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: GFLANCAM, Program: "Conciliação.Lançamento".
+ <-1> 25/04/2022 09:25:49.790     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 26/04/2022 16:18:55.026     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Conciliação.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 27/04/2022 10:14:14.356     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Conciliação.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 27/04/2022 10:23:44.935     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 27/04/2022 10:27:01.738     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 27/04/2022 10:27:14.374     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 27/04/2022 10:29:50.206     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Conciliação.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 27/04/2022 10:31:56.267     [Error  ] - Falha ao completar transação, Program: "Conciliação.Lançamento".
+ <-1> 27/04/2022 10:34:05.611     [Error  ] - Falha ao completar transação, Program: "Conciliação.Lançamento".
+ <-1> 27/04/2022 10:35:33.150     [Error  ] - Falha ao completar transação, Program: "Conciliação.Lançamento".
+ <-1> 27/04/2022 10:52:42.868     [Error  ] - Registro foi atualizado - reiniciar, Program: "Conciliação.Lançamento".
+ <-1> 27/04/2022 10:53:52.725     [Error  ] - Registro foi atualizado - reiniciar, Program: "Conciliação.Lançamento".
+ <-1> 27/04/2022 11:30:21.997     [Error  ] - Registro foi atualizado - reiniciar, Program: "Conciliação.Lançamento".
+ <-1> 28/04/2022 15:04:19.674     [Error  ] - Registro foi atualizado - reiniciar, Program: "Conciliação RDV.Lançamento".
+ <-1> 28/04/2022 15:08:21.752     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: GFLANCAM, Program: "Conciliação RDV.Lançamento".
+ <-1> 28/04/2022 15:08:23.218     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: GFLANCAM, Program: "Conciliação RDV.Lançamento".
+ <-1> 28/04/2022 15:10:39.847     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: GFLANCAM, Program: "Conciliação RDV.Lançamento".
+ <-1> 19/05/2022 14:01:32.774     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 19/05/2022 14:01:59.295     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "6" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Conciliação RDV.PesquisaPortador.Portador".
+ <-1> 19/05/2022 14:01:59.318     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Conciliação RDV.PesquisaPortador.Portador".
+ <-1> 19/05/2022 14:09:16.877     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <266600327444260608> 19/01/2023 10:58:10.197     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <194799420183706752> 28/02/2023 07:35:50.789     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <307893293780084864> 28/02/2023 07:38:12.350     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "4" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "RDV.Contas - Pesquisa.Contas - Pesquisa".
+ <307893293780084864> 28/02/2023 07:38:12.358     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "RDV.Contas - Pesquisa.Contas - Pesquisa".
+ <307893293780084864> 28/02/2023 07:39:05.388     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "4" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "RDV.Lancamento.Contas - Pesquisa.Contas - Pesquisa".
+ <307893293780084864> 28/02/2023 07:39:05.390     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "RDV.Lancamento.Contas - Pesquisa.Contas - Pesquisa".
+ <386442550623890304> 17/03/2023 09:32:50.864     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <560267491940932736> 21/03/2023 09:34:36.483     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <50973975000181560> 28/03/2023 08:59:01.173     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <31421001293787584> 29/03/2023 08:45:28.038     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <280271187588827680> 06/03/2024 13:37:42.520     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <20548525862708428> 07/03/2024 08:36:56.969     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".

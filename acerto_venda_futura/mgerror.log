@@ -1,0 +1,4 @@
+﻿ <321465498851447296> 17/01/2024 16:34:37.242     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <49951748589515168> 17/01/2024 16:41:12.598     [Error  ] - Cursor cannot park on any control, Program: "Cria acerto de remessa.Cria Financeiro".
+ <-1> 26/02/2024 09:24:09.404     [Error  ] - Sax parser fatal error :unable to open primary document entity 'g:/.shortcut-targets-by-id/1usxgqbgr2b72drgycp5sy7bkdiniwxqq/calbos/xpa/acerto_venda_futura/source/datasources.xml' at line number : 0 column number : 0 . 
+ <-1> 26/02/2024 09:24:42.862     [Error  ] - Sax parser fatal error :unable to open primary document entity 'g:/.shortcut-targets-by-id/1usxgqbgr2b72drgycp5sy7bkdiniwxqq/calbos/xpa/acerto_venda_futura/source/datasources.xml' at line number : 0 column number : 0 . 

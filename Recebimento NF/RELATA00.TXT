@@ -1,0 +1,14 @@
+
+                                  Relatório de avisos durante a efetivação de Pré Nota
+
+ +------------+----------+-----+---+------+---------------------------------------------------------------------------+
+ |Pré Nota    |NF        |Série|UN |Forn. |Detalhe                                                                    |
+ +------------+----------+-----+---+------+---------------------------------------------------------------------------+
+ |        3365|     40286|1    |010|040   |O item 1 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 2 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 3 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 4 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 5 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 6 não possui vÍnculo com alguma Ordem de Compra.                    |
+ |        3365|     40286|1    |010|040   |O item 7 não possui vÍnculo com alguma Ordem de Compra.                    |
+ +------------+----------+-----+---+------+---------------------------------------------------------------------------+

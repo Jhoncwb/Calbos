@@ -1,0 +1,258 @@
+﻿ <-1> 05/11/2020 13:44:08.208     [Error  ] - Component Files not found : CabGeralCGFunctions.ecf
+ <108211266250468464> 23/07/2021 13:00:27.803     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Validade_OP\", Program: "Lote OP".
+ <445483981245617792> 23/07/2021 13:37:31.636     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:32.439     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:33.174     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:33.907     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:35.231     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:36.569     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:37.920     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:39.250     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:39.984     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:41.332     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:42.081     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:43.473     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:44.812     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:46.207     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:46.935     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:47.661     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:49.000     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:50.335     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:51.667     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:53.000     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:53.735     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:55.135     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:56.475     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:57.809     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:59.209     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:37:59.944     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:00.674     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:01.406     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:02.804     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:04.137     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:05.466     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:06.244     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:06.987     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:08.324     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:09.661     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:11.009     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:11.745     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:13.073     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:14.413     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:15.757     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:16.501     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:17.243     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:18.577     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:19.911     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:21.304     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:22.696     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:23.428     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:24.171     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:25.503     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:26.234     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:26.996     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:28.327     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:29.666     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:31.002     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:31.733     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:33.085     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:34.420     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:35.147     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:35.289     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:36.020     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:36.760     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:37.502     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:38.841     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:40.179     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:40.908     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:42.248     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:43.587     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:44.922     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:45.658     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <445483981245617792> 23/07/2021 13:38:46.280     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <414784995807185728> 23/07/2021 13:38:53.820     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:38:55.167     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:38:56.515     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:38:57.249     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:38:58.587     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:38:59.920     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:00.651     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:01.988     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:03.325     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:04.679     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:05.433     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:06.192     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:06.938     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:07.670     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:08.423     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:09.180     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:09.908     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:11.302     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <414784995807185728> 23/07/2021 13:39:11.993     [Error  ] - Failed to open, data source: LC_SEPARACAO, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:40.491     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:41.899     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:43.252     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:43.995     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:45.332     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:46.728     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:48.059     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:49.398     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:50.160     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <163720262910490016> 23/07/2021 13:47:50.562     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <441693315986533312> 23/07/2021 13:49:13.305     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:49:23.634     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:49:33.913     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:06.997     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:08.328     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:09.721     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:11.059     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:12.390     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:13.789     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:14.533     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:15.265     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:16.005     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:16.743     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:18.076     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:19.421     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:20.150     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:21.483     [Error  ] - Registro encontra-se alocado: LC_ENG_EXPLODIDO_TMP_D08, Program: "Lote OP.Busca se existe na engenharia".
+ <441693315986533312> 23/07/2021 13:51:22.133     [Error  ] - Failed to open, data source: LC_SEPARACAO, Program: "Lote OP.Busca se existe na engenharia".
+ <64209723046865464> 23/07/2021 13:52:37.266     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <496048298678238528> 23/07/2021 13:53:15.342     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <147865515734662912> 23/07/2021 13:53:36.083     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <475101084020856448> 23/07/2021 13:55:50.232     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <325321640042481024> 23/07/2021 13:56:48.207     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <301503864014980224> 23/07/2021 14:00:28.256     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se existe na engenharia;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se existe na engenharia.TratamentoErroCigamSql.MensagemCigam".
+ <179446039261486624> 23/07/2021 14:12:18.164     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se tem PA;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se tem PA.TratamentoErroCigamSql.MensagemCigam".
+ <205478665589536064> 23/07/2021 14:15:58.441     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Must have unique key in order to open a table
+--------------------------------------------------------------------------------
+[OK] [Microsoft SQL Server Gateway: Must have unique key in order to open a table
+
+[Table open failed]
+
+Programa atual em execução: Lote OP;Busca se tem PA;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Lote OP.Busca se tem PA.TratamentoErroCigamSql.MensagemCigam".
+ <357885191065625920> 05/08/2021 10:15:17.905     [Error  ] - Registro foi atualizado - reiniciar, Program: "Lote OP".

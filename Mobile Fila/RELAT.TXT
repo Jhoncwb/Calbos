@@ -1,0 +1,13 @@
+
+                                                                        Data:19/12/2022
+                         BOLETOS NAO IMPRESSOS - INCONSISTENCIAS
+
++--------------+---------------------------------------+--------------------+-----------+
+|Nro Lancamento| Portador                              | Valor              | Inconsist |
++--------------+---------------------------------------+--------------------+-----------+
+|      2419171 | I05  - COBRANCA BRADESCO VINC CALBOS  |             587,25 |         2 |
+|      2419172 | I05  - COBRANCA BRADESCO VINC CALBOS  |             587,25 |         2 |
++--------------+---------------------------------------+--------------------+-----------+
+ 1 - Portador da impressao diferente do portador do lançamento.
+ 2 - Tipo de cobranca diferente do impresso anteriormente.
+

@@ -1,0 +1,6 @@
+﻿ <-1> 08/07/2020 11:19:19.753     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 08/07/2020 11:19:19.840     [Error  ] - Cabinet File Name cannot be empty.
+ <512324555896232000> 08/07/2020 12:57:59.682     [Error  ] - Cannot create/drop/copy a view, view: LC_PROJETO_CONTABIL, program: Browse - LC_PROJETO_CONTABIL
+ <481657709356102272> 08/07/2020 12:58:32.164     [Error  ] - Cannot create/drop/copy a view, view: LC_PROJETO_CONTABIL, program: Browse - LC_PROJETO_CONTABIL
+ <297328943273907776> 08/07/2020 12:58:42.009     [Error  ] - Cannot create/drop/copy a view, view: LC_PROJETO_CONTABIL, program: Browse - LC_PROJETO_CONTABIL
+ <88030423543001920> 08/07/2020 12:59:19.550     [Error  ] - Cannot create/drop/copy a view, view: LC_PROJETO_CONTABIL, program: Browse - LC_PROJETO_CONTABIL

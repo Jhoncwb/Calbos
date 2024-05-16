@@ -1,0 +1,232 @@
+﻿ <55408740029579872> 26/02/2024 11:14:43.576     [Error  ] - Program not found, Program: "Main Program".
+ <300976616361659456> 26/02/2024 11:17:03.061     [Error  ] - Program not found, Program: "Main Program".
+ <195863493265464000> 26/02/2024 11:17:49.845     [Error  ] - Program not found, Program: "Main Program".
+ <510451671019366336> 26/02/2024 11:19:07.235     [Error  ] - Program not found, Program: "Main Program".
+ <340418550640484224> 26/02/2024 11:20:18.490     [Error  ] - Program not found, Program: "Main Program".
+ <52727915195714608> 26/02/2024 12:45:38.222     [Error  ] - Program not found, Program: "Main Program".
+ <252958417010615648> 26/02/2024 13:33:53.681     [Error  ] - Program not found, Program: "Main Program".
+
+==============================================
+PID 13276	26/02/2024 13:35:37
+==============================================
+
+
+ <159324378943414272> 26/02/2024 13:43:18.826     [Error  ] - Program not found, Program: "Main Program".
+ <121145095856670880> 26/02/2024 13:43:39.696     [Error  ] - Program not found, Program: "Main Program".
+ <390836723499051264> 26/02/2024 13:43:45.967     [Error  ] - Program not found, Program: "Main Program".
+
+==============================================
+PID 5624	26/02/2024 15:04:34
+==============================================
+
+
+ <406763897396074496> 27/02/2024 15:23:24.715     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <325618455901282752> 27/02/2024 15:36:29.369     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <325618455901282752> 27/02/2024 15:36:29.383     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <325618455901282752> 27/02/2024 15:36:50.778     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <325618455901282752> 27/02/2024 15:36:50.779     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <325618455901282752> 27/02/2024 15:37:40.248     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <325618455901282752> 27/02/2024 15:37:40.249     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <-1> 27/02/2024 15:39:22.186     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <105044200338717888> 27/02/2024 16:23:01.147     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <280274145897057312> 27/02/2024 16:26:47.853     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <280274145897057312> 27/02/2024 16:26:47.930     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <280274145897057312> 27/02/2024 16:27:15.233     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <280274145897057312> 27/02/2024 16:27:15.234     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:45:52.758     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:45:52.759     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:46:14.229     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:46:14.230     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:47:49.013     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <538703716206486784> 27/02/2024 16:47:49.014     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <393282580600105984> 27/02/2024 17:05:41.994     [Error  ] - [MgGui.dll] DNObjectCollectionIsn: "3" Method: "CarregaTemaXml" Exception: "System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.CreateArgArray(Object[] parameters, ParameterInfo[] paramInfos)", Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".
+ <393282580600105984> 27/02/2024 17:05:41.996     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria OC de NF Devolução.Nota Fiscal 448.#.PesquisaPaginada.TelaPesquisaPaginada".

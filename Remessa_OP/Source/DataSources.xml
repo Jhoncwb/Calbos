@@ -1,0 +1,733 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="3"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="LC_REMESSA_PEDIDO" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="1" name="LC_REMESSA_PEDIDO">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="P"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <PositionIndex val="-1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="op">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Picture id="157" valUnicode="11"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="11"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="11" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="22" name="Marcado">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_LOGICAL" comp="1" id="1" obj="155"/>
+        <GuiDisplay id="158">
+          <PropertyList model="CTRL_GUI0_CHECKBOX"/>
+        </GuiDisplay>
+        <GuiDisplayTable id="159">
+          <PropertyList model="CTRL_GUI0_CHECKBOX"/>
+        </GuiDisplayTable>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="15"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="1A" Size="1" allowed_null="N" attribute="B" context_cookies="Y" database_definition="2" id="231" storage="15" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="12" name="Acao">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="U"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="U" Size="1" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="13" name="Pedido">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="87"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="12"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="12A" Size="12" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="14" name="Cliente">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="17"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="6"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="UUUUUUA" Size="6" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="15" name="Representante">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="17"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="6"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="UUUUUUA" Size="6" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="16" name="Transportadora">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="17"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="6"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="UUUUUUA" Size="6" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="17" name="CondicaoPagamento">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="279"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="3"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="3A" Size="3" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="18" name="Prazo Entrega">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="12"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="12A" Size="8" SqlType="NUMERIC(12)" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="19" name="Observacao">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="251"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="251"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="251" Size="251" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="20" name="tipoNota">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="UA"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="UA" Size="1" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="21" name="unidadeNegocio">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="391"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="3"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="3A" Size="3" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="23" name="Lista">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Picture id="157" valUnicode="3.2%"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="4"/>
+        <Definition id="175" val="2"/>
+        <_Dec id="181" val="2"/>
+        <_Whole id="182" val="3"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="3.2%" Size="4" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="INDICE_LC_REMESSA_PEDIDO">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="INDICE_LC_REMESSA_PEDIDO%USUARI"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="8"/>
+          <Column val="1"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="LC_REMESSA_ITEM" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="2" name="LC_REMESSA_ITEM">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="P"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <PositionIndex val="-1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="op">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Picture id="157" valUnicode="11"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="11"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="11" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="2" name="Acao">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="UA"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="UA" Size="1" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="3" name="Pedido">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="87"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="12"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="5"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="12A" Size="12" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="4" name="Sequencia">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="286"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="4"/>
+        <Size id="174" val="4"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="5"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="5A" Size="4" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="4" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="5" name="Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="39"/>
+        <Picture id="157" valUnicode="20"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="20" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="6" name="Especif1">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="399"/>
+        <Picture id="157" valUnicode="6A"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="6"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="6A" Size="6" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="7" name="Especif2">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="421"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="6"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181" val="6"/>
+        <_Whole id="182" val="8"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="6A" Size="6" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="8" name="Quantidade">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="44"/>
+        <Picture id="157" valUnicode="10.5CA"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181" val="5"/>
+        <_Whole id="182" val="10"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="10.5CA" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="9" name="Preco Unitario">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="233"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181" val="5"/>
+        <_Whole id="182" val="10"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="10.5CA" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="10" name="DescricaoComplementarItem">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="201"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="201"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="201" Size="201" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="11" name="TipoOeracao">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="74"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="5"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="XXX.XXA" Size="5" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="12" name="Usritpe2">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="20"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="20" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="13" name="Contrato">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="89"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="8A" Size="8" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="14" name="Tipo Pedido">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" id="1"/>
+        <Picture id="157" valUnicode="1A"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="1A" Size="1" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="15" name="Grade">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="290"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="2"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="2A" Size="2" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="16" name="Numeracao">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="417"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="4"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="4A" Size="4" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="17" name="buscarPrecoDaTabelaDePrecos">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_LOGICAL" comp="1" id="1" obj="155"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="15"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="1A" Size="1" allowed_null="N" attribute="B" context_cookies="Y" database_definition="2" id="231" storage="15" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="18" name="iniciarNaSequencia2">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_LOGICAL" comp="1" id="1" obj="155"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="15"/>
+        <Size id="174" val="1"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="1A" Size="1" allowed_null="N" attribute="B" context_cookies="Y" database_definition="2" id="231" storage="15" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="19" name="controleItemPedido">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="430"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="2"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="2A" Size="2" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="20" name="documento">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Picture id="157" valUnicode="11"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="11"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="11" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="INDICE_LC_REMESSA_ITEM">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="INDICE_LC_REMESSA_ITEM%USUARIO%"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="8"/>
+          <Column val="1"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="20"/>
+          <Column val="5"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="4"/>
+          <Column val="4"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="LC_REMESSA_GRADE" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="3" name="LC_REMESSA_GRADE">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="P"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <PositionIndex val="-1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="op">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" id="1"/>
+        <Picture id="157" valUnicode="11"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Dec id="181"/>
+        <_Whole id="182" val="11"/>
+        <_Negative id="192"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="11" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldStyle id="276" val="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="3" name="Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="39"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="20A" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="5" name="Quantidade">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="44"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="6"/>
+        <Size id="174" val="8"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="N8.6CA" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+      </PropertyList>
+    </Column>
+    <Column id="4" name="Lote">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="400"/>
+        <DatabaseDefault id="171"/>
+        <StoredAs id="173" val="1"/>
+        <Size id="174" val="14"/>
+        <Definition id="175" val="2"/>
+        <UpdateStyle id="176" val="A"/>
+        <DbColumnName id="178"/>
+        <_Flip id="194"/>
+        <_FieldPhysical PIC_U="14A" Size="14" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="1" translate="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="INDICE_LC_REMESSA_GRADE">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="INDICE_LC_REMESSA_GRADE%USUARIO"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="8"/>
+          <Column val="1"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="20"/>
+          <Column val="3"/>
+          <Order val="A"/>
+        </Segment>
+        <Segment>
+          <Size val="14"/>
+          <Column val="4"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject>  </DataObjects>
+ </DataSourceRepository>
+  </Application>

@@ -1,0 +1,14 @@
+﻿ <-1> 24/11/2023 09:39:03.371     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/11/2023 09:39:51.069     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/11/2023 10:02:06.713     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/11/2023 10:02:40.112     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <221875461331360768> 24/11/2023 10:21:46.125     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:50.649     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:51.069     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:51.424     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:51.798     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:52.145     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:52.547     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <221875461331360768> 24/11/2023 10:21:52.946     [Error  ] - Cursor cannot park on any control, Program: "Qualificação.Alimentação MP.Cadastro qualificação".
+ <524159699910782080> 24/11/2023 13:59:56.879     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Qualificação.Alimentação MP.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <252763512777603392> 28/11/2023 13:46:57.920     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Qualificação.Alimentação MP.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".

@@ -1,0 +1,183 @@
+﻿ <102117036586950496> 09/04/2021 09:39:50.169     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe10\uniPaaS\Projects\XPA\Envia_email_vendedores\", Program: "Envia Email".
+ <550087721298212096> 09/04/2021 13:24:18.029     [Warning] - W:\\CIGAMe10\\CGReport.exe -G: -M:"W:\\CIGAMe10\\Systempar\\ANDRE\\Rel_comissao_mensal.frx" -A:"X:\\Relatoriotemp\\405026490.frx" -F:PDF:"X:\\Relatoriotemp\\405026490.pdf" -P:@empresa="026490"
+ <412772475251438464> 09/04/2021 13:40:18.518     [Warning] - W:\\CIGAMe10\\CGReport.exe -G: -M:"W:\\CIGAMe10\\Systempar\\ANDRE\\Rel_comissao_mensal.frx" -A:"X:\\Relatoriotemp\\405026490.frx"-P:@empresa="026490" -F:PDF="X:\\Relatoriotemp\\405026490.pdf"
+ <465436171153461632> 09/04/2021 13:41:01.580     [Warning] - W:\\CIGAMe10\\CGReport.exe -G: -M:"W:\\CIGAMe10\\Systempar\\ANDRE\\Rel_comissao_mensal.frx" -A:"X:\\Relatoriotemp\\405026490.frx" -P:@empresa="026490" -F:PDF="X:\\Relatoriotemp\\405026490.pdf"
+ <465436171153461632> 09/04/2021 13:44:14.808     [Warning] - W:\\CIGAMe10\\CGReport.exe -G: -M:"W:\\CIGAMe10\\Systempar\\ANDRE\\Rel_comissao_mensal.frx" -A:"X:\\Relatoriotemp\\405026490.frx" -P:@empresa="026490" -F:PDF="X:\\Relatoriotemp\\405026490.pdf"
+ <-1> 10/05/2021 08:35:16.750     [Error  ] - Component Files not found : CGESCore
+ <-1> 10/05/2021 08:35:16.853     [Error  ] - Component Files not found : CGPCCore
+ <-1> 10/05/2021 08:35:16.934     [Error  ] - Component Files not found : CGCOCore
+ <-1> 01/06/2021 10:02:20.112     [Error  ] - Component Files not found : CGESCore
+ <-1> 01/06/2021 10:02:20.224     [Error  ] - Component Files not found : CGPCCore
+ <-1> 01/06/2021 10:02:20.302     [Error  ] - Component Files not found : CGCOCore
+ <-1> 09/06/2021 10:23:08.291     [Error  ] - Component Files not found : CGESCore
+ <-1> 09/06/2021 10:23:08.388     [Error  ] - Component Files not found : CGPCCore
+ <-1> 09/06/2021 10:23:08.466     [Error  ] - Component Files not found : CGCOCore
+ <-1> 09/06/2021 11:24:03.173     [Error  ] - Component Files not found : CGESCore
+ <-1> 09/06/2021 11:24:03.277     [Error  ] - Component Files not found : CGPCCore
+ <-1> 09/06/2021 11:24:03.352     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/11/2021 15:59:58.656     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/11/2021 16:00:00.697     [Error  ] - Component Files not found : CGESCore
+ <-1> 11/11/2021 16:00:00.772     [Error  ] - Component Files not found : CGPCCore
+ <-1> 11/11/2021 16:00:00.843     [Error  ] - Component Files not found : CGCOCore
+ <-1> 11/11/2021 16:38:41.037     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <-1> 11/11/2021 16:38:41.045     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 11/11/2021 16:38:41.052     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 11/11/2021 16:38:41.057     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <-1> 11/11/2021 16:38:41.061     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 11/11/2021 16:38:41.065     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 11/11/2021 16:39:11.260     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <-1> 11/11/2021 16:39:11.268     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 11/11/2021 16:39:11.275     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <-1> 11/11/2021 16:39:11.283     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <-1> 11/11/2021 16:39:11.287     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 11/11/2021 16:39:11.292     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <99580088444832096> 03/05/2024 16:30:29.462     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <439039952350760576> 03/05/2024 16:31:41.893     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <516344187272867904> 03/05/2024 16:32:15.301     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <516344187272867904> 03/05/2024 16:33:16.469     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <516344187272867904> 03/05/2024 16:33:16.505     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <516344187272867904> 03/05/2024 16:33:16.509     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <516344187272867904> 03/05/2024 16:33:16.517     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <516344187272867904> 03/05/2024 16:33:16.518     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <516344187272867904> 03/05/2024 16:33:16.525     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <516344187272867904> 03/05/2024 16:33:16.526     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:39:46.925     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <478789731314003328> 03/05/2024 16:41:17.924     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <478789731314003328> 03/05/2024 16:41:17.961     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:41:17.963     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:41:17.971     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:41:17.972     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:41:17.980     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <478789731314003328> 03/05/2024 16:41:17.980     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".

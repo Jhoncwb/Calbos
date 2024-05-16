@@ -1,0 +1,953 @@
+﻿ <339314122522840384> 03/04/2020 17:59:36.911     [Error  ] - Cannot modify Read Only, data source: FAPEDIDO, program: Rotina de Separacao.tela de rotina de separacao
+ <380240637932528704> 15/04/2020 12:49:45.896     [Error  ] - Warning - Modify operation canceled due to task Query mode, program: Rotina de Separacao.tela de rotina de separacao.ImprimeRomaneio
+ <351707345751946496> 15/04/2020 12:50:10.735     [Error  ] - Initial Task mode not allowed, program: Rotina de Separacao.tela de rotina de separacao.ImprimeRomaneio
+ <203074949293387008> 15/04/2020 12:54:07.615     [Error  ] - Cannot modify Read Only, data source:, program: Rotina de Separacao.tela de rotina de separacao.ImprimeRomaneio
+ <25669147152422652> 16/04/2020 09:23:00.913     [Error  ] - Failed to open, data source: Ambiente, program: Cria Pedido Remessa.Cria Temp
+ <571435788737455552> 16/04/2020 09:34:17.781     [Error  ] - Only statements that retrieve data are allowed in a DSQL deferred transaction task, program: Cria Pedido Remessa.Drop Temp
+ <425262642459428160> 16/04/2020 09:35:11.436     [Error  ] - Only statements that retrieve data are allowed in a DSQL deferred transaction task, program: Cria Pedido Remessa.Drop Temp
+ <242840679585708160> 16/04/2020 09:35:51.494     [Error  ] - Only statements that retrieve data are allowed in a DSQL deferred transaction task, program: Cria Pedido Remessa.Drop Temp
+ <558851066091245184> 16/04/2020 10:14:34.336     [Error  ] - Bad date, program: Cria Pedido Remessa
+ <19222221518244296> 01/07/2020 09:23:05.748     [Error  ] - Update operation failed, data source: temp_remessabahia_D08, program: Browse - temp_remessabahia_%US
+ <19222221518244296> 01/07/2020 09:23:10.125     [Error  ] - Update operation failed, data source: temp_remessabahia_D08, program: Browse - temp_remessabahia_%US
+ <476613724998176768> 01/07/2020 14:18:15.280     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:16.600     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:16.976     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:17.749     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:17.953     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:19.118     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:20.218     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:21.543     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:22.866     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <476613724998176768> 01/07/2020 14:18:24.213     [Error  ] - Registro encontra-se alocado: ESPARPLA, program: Cria Pedido Bahia.Seleciona Itens.Calcula Total Peso_cubagem
+ <-1> 05/11/2020 13:49:30.354     [Error  ] - Component Files not found : CIGAMK2.ecf
+ <-1> 05/11/2020 13:49:33.736     [Error  ] - Component Files not found : CIGAMK2.ecf
+ <-1> 05/11/2020 13:49:33.865     [Error  ] - Component Files not found : CIGAMK2.ecf
+ <293391405041601536> 26/11/2020 16:26:58.249     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '%'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '%'.
+
+[Invalid SQL command]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa.Drop Temp.TratamentoErroCigamSql.MensagemCigam".
+ <24093955753827196> 26/11/2020 16:27:04.899     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid object name 'CIGAM.dbo.GEPAD'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid object name 'CIGAM.dbo.GEPAD'.
+
+[Table open failed]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa..EmpresasPesquisa_2103.Empresas - Pesquisa.Busca Padrão Rel.TratamentoErroCigamSql.MensagemCigam".
+ <40922635200570336> 26/11/2020 16:27:17.844     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid object name 'CIGAM.dbo.GEPAD'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid object name 'CIGAM.dbo.GEPAD'.
+
+[Table open failed]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa..EmpresasPesquisa_2103.Empresas - Pesquisa.Busca Padrão Rel.TratamentoErroCigamSql.MensagemCigam".
+ <360704527563982976> 26/11/2020 16:27:47.797     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid object name 'CIGAM.dbo.GEPAD'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid object name 'CIGAM.dbo.GEPAD'.
+
+[Table open failed]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa..EmpresasPesquisa_2103.Empresas - Pesquisa.Busca Padrão Rel.TratamentoErroCigamSql.MensagemCigam".
+ <360704527563982976> 26/11/2020 16:27:52.037     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid object name 'CIGAM.dbo.GEPAD'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid object name 'CIGAM.dbo.GEPAD'.
+
+[Table open failed]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa..EmpresasPesquisa_2103.Empresas - Pesquisa.2151.GravaPadraoRelatorio.AtualizaRegistro.TratamentoErroCigamSql.MensagemCigam".
+ <360704527563982976> 26/11/2020 16:27:52.417     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '%'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '%'.
+
+[Invalid SQL command]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa.Drop Temp.TratamentoErroCigamSql.MensagemCigam".
+ <360704527563982976> 26/11/2020 16:27:52.435     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '%'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '%'.
+
+[Invalid SQL command]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <360704527563982976> 26/11/2020 16:27:52.534     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid object name 'CIGAM.dbo.temp_faturafutura_'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid object name 'CIGAM.dbo.temp_faturafutura_'.
+
+[Table open failed]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa.Seleciona Itens.TratamentoErroCigamSql.MensagemCigam".
+ <535793423806254784> 26/11/2020 16:29:24.951     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '%'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '%'.
+
+[Invalid SQL command]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Bahia.Drop Temp.TratamentoErroCigamSql.MensagemCigam".
+ <535793423806254784> 26/11/2020 16:29:24.967     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near '%'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near '%'.
+
+[Invalid SQL command]]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Bahia.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <249685675220721440> 14/06/2022 17:33:30.136     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <218529366213602880> 15/06/2022 14:31:05.291     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <218529366213602880> 15/06/2022 14:31:05.509     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+--------------------------------------------------------------------------------
+[OK] [SERVER : An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cria Pedido entre empresa;Cria Temp;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <48531966435545360> 15/06/2022 14:32:03.547     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+--------------------------------------------------------------------------------
+[OK] [SERVER : An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cria Pedido entre empresa;Cria Temp;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <203548211873933600> 15/06/2022 14:33:37.499     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+--------------------------------------------------------------------------------
+[OK] [SERVER : An object or column name is missing or empty. For SELECT INTO statements, verify each column has a name. For other statements, look for empty alias names. Aliases defined as "" or [] are not allowed. Change the alias to a valid name.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cria Pedido entre empresa;Cria Temp;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <466642205590375936> 15/06/2022 14:38:40.307     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid column name 'cd_material'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid column name 'cd_material'.
+
+[Table open failed]
+
+Programa atual em execução: Cria Pedido entre empresa;Seleciona Itens;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Seleciona Itens.TratamentoErroCigamSql.MensagemCigam".
+ <358654839599230464> 15/06/2022 14:39:06.884     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid column name 'cd_material'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid column name 'cd_material'.
+
+[Table open failed]
+
+Programa atual em execução: Cria Pedido entre empresa;Seleciona Itens;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Seleciona Itens.TratamentoErroCigamSql.MensagemCigam".
+ <263991436192049056> 15/06/2022 14:39:38.810     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid column name 'cd_material'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid column name 'cd_material'.
+
+[Table open failed]
+
+Programa atual em execução: Cria Pedido entre empresa;Seleciona Itens;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Seleciona Itens.TratamentoErroCigamSql.MensagemCigam".
+ <80617985130884912> 15/06/2022 14:41:47.398     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Invalid column name 'cd_material'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Invalid column name 'cd_material'.
+
+[Table open failed]
+
+Programa atual em execução: Cria Pedido entre empresa;Seleciona Itens;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido entre empresa.Seleciona Itens.TratamentoErroCigamSql.MensagemCigam".
+ <535727393995316416> 26/07/2022 14:28:24.269     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <498918860412662144> 04/08/2022 09:42:08.803     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Cannot find the object "temp_faturafutura_A00" because it does not exist or you do not have permissions.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Cannot find the object "temp_faturafutura_A00" because it does not exist or you do not have permissions.
+
+[Invalid SQL command]
+
+Programa atual em execução: Cria Pedido Remessa;Cria Temp;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Cria Pedido Remessa.Cria Temp.TratamentoErroCigamSql.MensagemCigam".
+ <377460677185549120> 04/08/2022 09:47:31.896     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:32.401     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:32.837     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:33.344     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:39.300     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:40.321     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:41.233     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:41.747     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:42.156     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:42.625     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:42.832     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.060     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.257     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.452     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.636     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.821     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:43.987     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:44.166     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:44.364     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:44.578     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:44.771     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:44.976     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:45.157     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:45.334     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:45.523     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <377460677185549120> 04/08/2022 09:47:45.706     [Error  ] - Advertência - modificação cancelada - Tar. em Modo Pesq., Program: "Cria Pedido Remessa.Seleciona Itens".
+ <66342882819106024> 24/10/2022 09:49:28.736     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Inicializa".
+ <66342882819106024> 24/10/2022 09:49:28.767     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Inicializa.Grava_login_atual".
+ <66342882819106024> 24/10/2022 09:49:28.917     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.MapWidget()
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Inicializa".
+ <66342882819106024> 24/10/2022 09:49:28.941     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Run()
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Invoke()
+   em com.magicsoftware.rte.RuntimeContext.MapWidgets()
+   em com.magicsoftware.rte.ContextsManager.OnContextSwitch(Int64 contextID)
+   em com.magicsoftware.rte.GuiEventsProcessor.OnFormActivate(GuiMgForm guiMgForm)
+   em com.magicsoftware.unipaas.Events.OnFormActivate(GuiMgForm guiMgForm)
+   em com.magicsoftware.unipaas.gui.low.FormHandler.OnFormActivate(Form form)
+   em com.magicsoftware.unipaas.gui.low.FormHandler.handleEvent(EventType type, Object sender, EventArgs e)
+   em com.magicsoftware.unipaas.gui.low.HandlerBase.ActivatedHandler(Object sender, EventArgs e)
+   em System.Windows.Forms.Form.OnActivated(EventArgs e)
+   em System.Windows.Forms.Form.set_Active(Boolean value)
+   em System.Windows.Forms.Form.WmActivate(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em com.magicsoftware.controls.GuiForm.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.SetForegroundWindow(HandleRef hWnd)
+   em System.Windows.Forms.Form.Activate()
+   em com.magicsoftware.unipaas.gui.low.FormHandler.handleEvent(EventType type, Object sender, EventArgs e)
+   em com.magicsoftware.unipaas.gui.low.HandlerBase.LoadHandler(Object sender, EventArgs e)
+   em System.Windows.Forms.Form.OnLoad(EventArgs e)
+   em System.Windows.Forms.Form.OnCreateControl()
+   em System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   em System.Windows.Forms.Control.CreateControl()
+   em System.Windows.Forms.Control.WmShowWindow(Message& m)
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WmShowWindow(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em com.magicsoftware.controls.GuiForm.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   em System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   em System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   em System.Windows.Forms.Control.Show()
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.ShowForm(GuiCommand guiCommand)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Inicializa".
+ <-1> 24/10/2022 09:50:06.117     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 09:50:20.860     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <310826489010129152> 24/10/2022 10:05:54.873     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <310826489010129152> 24/10/2022 10:05:54.905     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <310826489010129152> 24/10/2022 10:05:54.925     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <310826489010129152> 24/10/2022 10:05:54.947     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <-1> 24/10/2022 10:06:30.942     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 10:07:29.024     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 10:16:16.699     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 10:28:59.057     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <311438925046448768> 24/10/2022 10:33:03.401     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <311438925046448768> 24/10/2022 10:33:03.448     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <311438925046448768> 24/10/2022 10:33:03.631     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <311438925046448768> 24/10/2022 10:33:03.651     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <215188266565520544> 24/10/2022 10:35:08.024     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <215188266565520544> 24/10/2022 10:35:08.058     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <215188266565520544> 24/10/2022 10:35:08.078     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <215188266565520544> 24/10/2022 10:35:08.097     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <406815630904469824> 24/10/2022 10:44:30.473     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <406815630904469824> 24/10/2022 10:44:30.511     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <406815630904469824> 24/10/2022 10:44:30.534     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <406815630904469824> 24/10/2022 10:44:30.553     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <-1> 24/10/2022 10:45:09.918     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 10:45:25.247     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <354963968497334720> 24/10/2022 10:47:34.137     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <354963968497334720> 24/10/2022 10:47:34.174     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <354963968497334720> 24/10/2022 10:47:34.195     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <354963968497334720> 24/10/2022 10:47:34.221     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <341267741025349568> 24/10/2022 10:57:25.933     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <341267741025349568> 24/10/2022 10:57:25.967     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <341267741025349568> 24/10/2022 10:57:25.988     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <341267741025349568> 24/10/2022 10:57:26.009     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <-1> 24/10/2022 11:18:45.491     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <482229657374187136> 24/10/2022 11:23:39.131     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <482229657374187136> 24/10/2022 11:23:39.169     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <482229657374187136> 24/10/2022 11:23:39.190     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <482229657374187136> 24/10/2022 11:23:39.212     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <472289783169667968> 24/10/2022 11:26:59.774     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <472289783169667968> 24/10/2022 11:26:59.820     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <472289783169667968> 24/10/2022 11:26:59.854     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <472289783169667968> 24/10/2022 11:26:59.876     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <-1> 24/10/2022 11:27:56.998     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <162854822947924800> 24/10/2022 13:06:35.068     [Error  ] - [MgGui.dll] Control 'Browse': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <162854822947924800> 24/10/2022 13:06:35.107     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <162854822947924800> 24/10/2022 13:06:35.138     [Error  ] - [MgGui.dll] Control 'UnidadeSaida_29': O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index, Program: "Cria Pedido Jhon.Seleciona Itens".
+ <162854822947924800> 24/10/2022 13:06:35.160     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.refreshProperties(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgControlBase.RefreshDisplay(Boolean onlyRepeatableProps)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshControls(Boolean repeatableOnly)
+   em com.magicsoftware.unipaas.management.gui.MgFormBase.refreshRow(Int32 rowIdx, Boolean repeatableOnly)
+   em com.magicsoftware.rte.gui.MgForm.DisplayRow(Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em com.magicsoftware.rte.RteExecutor.DisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorEndpoint.InvokeDisplayRow(Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, String dataCtrlPairs)
+   em RteExecutorBridge.DisplayRow(RteExecutorBridge* , Int32 taskID, Int32 rowIdx, Boolean repeatableOnly, UInt16* dataCtrlPairs)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Cria Pedido Jhon.Seleciona Itens".
+ <-1> 24/10/2022 13:07:13.642     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 13:07:42.880     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 13:31:55.932     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 24/10/2022 13:32:56.959     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <40654660381842256> 03/08/2023 15:44:53.352     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Programa Principal".
+ <40654660381842256> 03/08/2023 15:44:53.360     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Programa Principal".
+ <40654660381842256> 03/08/2023 15:44:53.362     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Programa Principal".
+ <40654660381842256> 03/08/2023 15:44:53.363     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Programa Principal".
+ <-1> 03/08/2023 15:45:30.003     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 03/08/2023 15:45:46.413     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

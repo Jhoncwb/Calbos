@@ -1,0 +1,64 @@
+﻿ <-1> 10/12/2019 09:27:55.708     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 10/12/2019 09:27:55.777     [Error  ] - Cabinet File Name cannot be empty.
+ <3033339013834990> 10/12/2019 14:44:18.129     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <3033339013834990> 10/12/2019 14:50:00.514     [Error  ] - ERRO: portador deve ser informado no layout., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <368872322078191680> 11/12/2019 08:10:06.129     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <177122563701843584> 11/12/2019 08:42:01.936     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <177122563701843584> 11/12/2019 08:42:07.085     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <340699807518902016> 11/12/2019 08:45:07.014     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobrança
+ <481263501202796160> 11/12/2019 08:52:13.756     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.or
+ <49766483852970600> 11/12/2019 08:53:53.742     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.or
+ <249244347868026912> 11/12/2019 08:54:23.338     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.or
+ <133307969795709200> 11/12/2019 08:54:45.000     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.or
+ <442700929044043904> 11/12/2019 09:07:14.050     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <111449628591564064> 11/12/2019 09:11:18.826     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <178749844960420032> 11/12/2019 09:14:18.816     [Error  ] - ERRO: layout não configurado., program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <572524249807246592> 11/12/2019 09:31:55.166     [Error  ] - ERRO: Existe um arquivo com esse nome no diretório informado, program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <134218946523718144> 11/12/2019 09:43:35.133     [Error  ] - ERRO: Existe um arquivo com esse nome no diretório informado, program: * CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <42351924617142968> 12/12/2019 14:48:38.903     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <241663368918239584> 12/12/2019 15:43:44.238     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <38516309785374968> 12/12/2019 15:47:04.891     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <260224127725619520> 12/12/2019 15:53:55.683     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <102872257579500160> 12/12/2019 15:54:55.817     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <172045068405674304> 12/12/2019 15:55:43.048     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <28652576500528556> 12/12/2019 15:57:23.207     [Error  ] - Arquivo Modelo não encontrado.
+ <428600620732959360> 12/12/2019 15:57:30.907     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <206149751195365472> 12/12/2019 17:00:29.170     [Error  ] - Record has been updated - restart, program: Loop automação.Loot config Remessa.* CNAB Remessa Cobranca 157.* CNAB Remessa Cobranca 157
+ <-1> 05/11/2020 11:25:01.993     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 05/11/2020 11:25:02.001     [Error  ] - Error while opening ctl. 
+ <-1> 05/11/2020 11:25:02.509     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 05/11/2020 11:25:10.704     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 05/11/2020 11:25:10.710     [Error  ] - Error while opening ctl. 
+ <-1> 05/11/2020 11:25:10.771     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 05/11/2020 11:25:29.223     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 05/11/2020 11:25:29.229     [Error  ] - Error while opening ctl. 
+ <-1> 05/11/2020 11:25:29.720     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 05/11/2020 11:25:37.710     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 05/11/2020 11:25:37.716     [Error  ] - Error while opening ctl. 
+ <-1> 05/11/2020 11:25:37.775     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 13/04/2023 10:39:50.833     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 13/04/2023 10:39:50.849     [Error  ] - Error while opening ctl. 
+ <-1> 13/04/2023 10:39:51.288     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 13/04/2023 10:39:59.814     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 13/04/2023 10:39:59.815     [Error  ] - Error while opening ctl. 
+ <-1> 13/04/2023 10:39:59.879     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 08/11/2023 14:45:20.720     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 08/11/2023 14:45:20.721     [Error  ] - Error while opening ctl. 
+ <-1> 08/11/2023 14:45:21.162     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 08/11/2023 14:45:29.710     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 08/11/2023 14:45:29.710     [Error  ] - Error while opening ctl. 
+ <-1> 08/11/2023 14:45:29.779     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 08/11/2023 14:45:49.376     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 08/11/2023 14:45:49.376     [Error  ] - Error while opening ctl. 
+ <-1> 08/11/2023 14:45:49.813     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 08/11/2023 14:45:58.572     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 08/11/2023 14:45:58.573     [Error  ] - Error while opening ctl. 
+ <-1> 08/11/2023 14:45:58.637     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 17/04/2024 09:10:00.315     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 17/04/2024 09:10:00.331     [Error  ] - Error while opening ctl. 
+ <-1> 17/04/2024 09:10:00.789     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 17/04/2024 09:10:00.854     [Error  ] - Component Files not found : CabDsDskData.ecf
+ <-1> 17/04/2024 09:10:09.376     [Error  ] - The Licenca was built in an older version and will not be loaded
+ <-1> 17/04/2024 09:10:09.376     [Error  ] - Error while opening ctl. 
+ <-1> 17/04/2024 09:10:09.437     [Error  ] - Component Files not found : TABSIGNES.ecf
+ <-1> 17/04/2024 09:10:09.499     [Error  ] - Component Files not found : CabDsDskData.ecf

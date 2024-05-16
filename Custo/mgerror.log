@@ -1,0 +1,96 @@
+﻿ <184972012868742176> 11/05/2020 14:06:15.839     [Error  ] - No records within defined range, program: Gestão de custo
+ <349705685257223680> 11/05/2020 14:08:39.631     [Error  ] - No records within defined range, program: Gestão de custo
+ <556685537242149056> 07/07/2020 17:15:01.475     [Error  ] - No records within defined range, program: Gestão de custo
+ <58111368402374112> 07/07/2020 17:15:51.407     [Error  ] - No records within defined range, program: Gestão de custo
+ <58111368402374112> 07/07/2020 17:16:02.311     [Error  ] - No records within defined range, program: Gestão de custo.Consulta Materiais.Consulta Materiais
+ <-1> 05/11/2020 13:13:33.892     [Error  ] - Failed to Load Assembly : "W:\CIGAMe10\uniPaaS\Projects\XPA\Custo\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll"
+"Não foi possível carregar arquivo ou assembly 'System.Windows.Forms.dll' ou uma de suas dependências. O sistema não pode encontrar o caminho especificado."
+ <424626960980642880> 05/01/2021 13:03:51.020     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "C:\Users\jhon_\Google Drive\Projetos\Desenvolvimento\Calbos\XPA\Custo\", Program: "Gestão de custo".
+ <249846146087687488> 24/02/2021 13:18:09.730     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe10\uniPaaS\Projects\XPA\Custo\", Program: "Gestão de custo".
+ <-1> 14/06/2021 08:43:26.537     [Error  ] - Component Files not found : CGESCore
+ <-1> 14/06/2021 08:43:26.634     [Error  ] - Component Files not found : CGPCCore
+ <-1> 14/06/2021 08:43:26.712     [Error  ] - Component Files not found : CGCOCore
+ <311781480496211840> 14/06/2021 09:43:32.335     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <311781480496211840> 14/06/2021 09:43:32.375     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <311781480496211840> 14/06/2021 09:43:32.390     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <311781480496211840> 14/06/2021 09:43:32.405     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <311781480496211840> 14/06/2021 09:43:32.417     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <311781480496211840> 14/06/2021 09:43:32.429     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <327390710605310656> 14/06/2021 09:46:22.161     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <327390710605310656> 14/06/2021 09:46:22.178     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <327390710605310656> 14/06/2021 09:46:22.192     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <327390710605310656> 14/06/2021 09:46:22.208     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <327390710605310656> 14/06/2021 09:46:22.230     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <327390710605310656> 14/06/2021 09:46:22.242     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <573365896382917568> 14/06/2021 09:47:37.338     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <573365896382917568> 14/06/2021 09:47:37.355     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <573365896382917568> 14/06/2021 09:47:37.368     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <573365896382917568> 14/06/2021 09:47:37.383     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <573365896382917568> 14/06/2021 09:47:37.394     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <573365896382917568> 14/06/2021 09:47:37.410     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <350970436396310976> 14/06/2021 09:48:32.673     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <350970436396310976> 14/06/2021 09:48:32.689     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <350970436396310976> 14/06/2021 09:48:32.704     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <350970436396310976> 14/06/2021 09:48:32.719     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <350970436396310976> 14/06/2021 09:48:32.731     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <350970436396310976> 14/06/2021 09:48:32.741     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <484107060035949376> 14/06/2021 09:49:03.149     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <484107060035949376> 14/06/2021 09:49:03.166     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <484107060035949376> 14/06/2021 09:49:03.183     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <484107060035949376> 14/06/2021 09:49:03.199     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <484107060035949376> 14/06/2021 09:49:03.212     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <484107060035949376> 14/06/2021 09:49:03.226     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <102148709609017984> 14/06/2021 09:49:58.698     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <102148709609017984> 14/06/2021 09:49:58.714     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <102148709609017984> 14/06/2021 09:49:58.729     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <102148709609017984> 14/06/2021 09:49:58.745     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <102148709609017984> 14/06/2021 09:49:58.758     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <102148709609017984> 14/06/2021 09:49:58.770     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <440778074809423680> 14/06/2021 09:51:37.347     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <440778074809423680> 14/06/2021 09:51:37.363     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <440778074809423680> 14/06/2021 09:51:37.378     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <440778074809423680> 14/06/2021 09:51:37.393     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <440778074809423680> 14/06/2021 09:51:37.405     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <440778074809423680> 14/06/2021 09:51:37.416     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <334332225881900672> 14/06/2021 09:58:04.090     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <334332225881900672> 14/06/2021 09:58:04.106     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <334332225881900672> 14/06/2021 09:58:04.122     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <334332225881900672> 14/06/2021 09:58:04.139     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <334332225881900672> 14/06/2021 09:58:04.160     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <334332225881900672> 14/06/2021 09:58:04.172     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <120919628595119152> 14/06/2021 10:08:41.460     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <120919628595119152> 14/06/2021 10:08:41.477     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <120919628595119152> 14/06/2021 10:08:41.493     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <120919628595119152> 14/06/2021 10:08:41.509     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <120919628595119152> 14/06/2021 10:08:41.523     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <120919628595119152> 14/06/2021 10:08:41.535     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <144470065087101152> 14/06/2021 10:10:35.751     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <144470065087101152> 14/06/2021 10:10:35.767     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <144470065087101152> 14/06/2021 10:10:35.782     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <144470065087101152> 14/06/2021 10:10:35.797     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <144470065087101152> 14/06/2021 10:10:35.810     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <144470065087101152> 14/06/2021 10:10:35.821     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 14/06/2021 10:23:24.556     [Error  ] - Component Files not found : CGESCore
+ <-1> 14/06/2021 10:23:24.649     [Error  ] - Component Files not found : CGPCCore
+ <-1> 14/06/2021 10:23:24.729     [Error  ] - Component Files not found : CGCOCore
+ <310844526785619776> 14/06/2021 10:24:13.964     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <310844526785619776> 14/06/2021 10:24:13.981     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <310844526785619776> 14/06/2021 10:24:13.996     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <310844526785619776> 14/06/2021 10:24:14.011     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <310844526785619776> 14/06/2021 10:24:14.024     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <310844526785619776> 14/06/2021 10:24:14.036     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 15/06/2021 08:41:32.777     [Error  ] - Component Files not found : CGESCore
+ <-1> 15/06/2021 08:41:32.881     [Error  ] - Component Files not found : CGPCCore
+ <-1> 15/06/2021 08:41:32.959     [Error  ] - Component Files not found : CGCOCore
+ <-1> 16/06/2021 08:48:05.941     [Error  ] - Component Files not found : CGESCore
+ <-1> 16/06/2021 08:48:06.026     [Error  ] - Component Files not found : CGPCCore
+ <-1> 16/06/2021 08:48:06.105     [Error  ] - Component Files not found : CGCOCore
+ <-1> 17/06/2021 08:27:50.871     [Error  ] - Component Files not found : CGESCore
+ <-1> 17/06/2021 08:27:50.978     [Error  ] - Component Files not found : CGPCCore
+ <-1> 17/06/2021 08:27:51.058     [Error  ] - Component Files not found : CGCOCore
+ <134731256060028480> 17/06/2021 08:34:48.698     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <134731256060028480> 17/06/2021 08:34:48.731     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <134731256060028480> 17/06/2021 08:34:48.771     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <134731256060028480> 17/06/2021 08:34:48.802     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <134731256060028480> 17/06/2021 08:34:48.820     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <134731256060028480> 17/06/2021 08:34:48.833     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".

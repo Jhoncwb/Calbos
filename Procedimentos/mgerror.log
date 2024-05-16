@@ -1,0 +1,46 @@
+﻿ <-1> 16/04/2021 08:53:49.878     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 16/04/2021 09:06:44.139     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <410627305324806720> 16/04/2021 09:15:01.628     [Error  ] - Initial Task mode not allowed, Program: "Chama Procedimentos.Procedimentos".
+ <28897712628864756> 16/04/2021 09:51:06.705     [Error  ] - Initial Task mode not allowed, Program: "Chama Procedimentos.Procedimentos".
+ <256745729774032288> 05/05/2021 15:33:42.897     [Error  ] - Initial Task mode not allowed, Program: "Chama Procedimentos.Procedimentos".
+ <-1> 17/05/2021 14:45:51.680     [Error  ] - Component Files not found : CGESCore
+ <-1> 17/05/2021 14:45:51.791     [Error  ] - Component Files not found : CGPCCore
+ <-1> 17/05/2021 14:45:51.868     [Error  ] - Component Files not found : CGCOCore
+ <393143008162171392> 17/05/2021 14:46:24.270     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Procedimentos\", Program: "Chama Procedimentos.Procedimentos".
+ <-1> 17/05/2021 14:52:49.971     [Error  ] - Component Files not found : CGESCore
+ <-1> 17/05/2021 14:52:50.070     [Error  ] - Component Files not found : CGPCCore
+ <-1> 17/05/2021 14:52:50.148     [Error  ] - Component Files not found : CGCOCore
+ <7471445723412919> 17/05/2021 14:53:47.774     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <7471445723412919> 17/05/2021 14:53:47.790     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <7471445723412919> 17/05/2021 14:53:47.805     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <7471445723412919> 17/05/2021 14:53:47.819     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <7471445723412919> 17/05/2021 14:53:47.835     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <7471445723412919> 17/05/2021 14:53:47.847     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <7471445723412919> 17/05/2021 14:53:48.150     [Error  ] - Initial Task mode not allowed, Program: "Chama Procedimentos.Procedimentos".
+ <-1> 17/05/2021 14:54:29.381     [Error  ] - Component Files not found : CGESCore
+ <-1> 17/05/2021 14:54:29.458     [Error  ] - Component Files not found : CGPCCore
+ <-1> 17/05/2021 14:54:29.536     [Error  ] - Component Files not found : CGCOCore
+ <-1> 17/05/2021 14:55:53.742     [Error  ] - Component Files not found : CGESCore
+ <-1> 17/05/2021 14:55:53.848     [Error  ] - Component Files not found : CGPCCore
+ <-1> 17/05/2021 14:55:53.928     [Error  ] - Component Files not found : CGCOCore
+ <195973994757810240> 17/05/2021 14:56:29.937     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <195973994757810240> 17/05/2021 14:56:29.956     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <195973994757810240> 17/05/2021 14:56:29.972     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <195973994757810240> 17/05/2021 14:56:29.989     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <195973994757810240> 17/05/2021 14:56:30.002     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <195973994757810240> 17/05/2021 14:56:30.013     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <236223300271776736> 17/05/2021 14:58:43.335     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <236223300271776736> 17/05/2021 14:58:43.363     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <236223300271776736> 17/05/2021 14:58:43.398     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <236223300271776736> 17/05/2021 14:58:43.431     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <236223300271776736> 17/05/2021 14:58:43.448     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <236223300271776736> 17/05/2021 14:58:43.465     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <324015838354146560> 17/05/2021 15:00:08.869     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <324015838354146560> 17/05/2021 15:00:08.889     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <324015838354146560> 17/05/2021 15:00:08.906     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <324015838354146560> 17/05/2021 15:00:08.945     [Error  ] - Component Files not found : CGESCore, Program: "Chama Procedimentos.VerificaLicenca_2212".
+ <324015838354146560> 17/05/2021 15:00:08.960     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <324015838354146560> 17/05/2021 15:00:08.975     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 20/05/2021 16:55:17.751     [Error  ] - Component Files not found : CGESCore
+ <-1> 20/05/2021 16:55:17.848     [Error  ] - Component Files not found : CGPCCore
+ <-1> 20/05/2021 16:55:17.926     [Error  ] - Component Files not found : CGCOCore

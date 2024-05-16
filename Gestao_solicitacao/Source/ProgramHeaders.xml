@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737511" _time="51330" date="27/03/2020" time="14:15:30"/>
+      </Header>
+      <SourceFileTimeStamp _date="737734" _time="62021" date="05/11/2020" time="17:13:41"/>
+    </Program>
+    <Program>
+      <Header Description="Filtro" ISN_2="1" LastIsn="4" id="2">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738993" _time="32242" date="17/04/2024" time="08:57:22"/>
+      </Header>
+      <SourceFileTimeStamp _date="738875" _time="59661" date="21/12/2023" time="16:34:21"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

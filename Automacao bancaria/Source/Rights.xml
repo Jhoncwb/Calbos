@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="11009"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="900"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <RightsRepository>
+    <Rights>
+      <Right id="1" name="FINANCEIRO">
+        <PublicRight val="Y"/>
+        <Key val="FINANCEIRO"/>
+      </Right>
+      <Right id="2" name="ESTOQUE">
+        <PublicRight val="Y"/>
+        <Key val="ESTOQUE"/>
+      </Right>
+      <Right id="3" name="FATURAMENTO">
+        <PublicRight val="Y"/>
+        <Key val="FATURA"/>
+      </Right>
+      <Right id="4" name="VENDAS">
+        <PublicRight val="Y"/>
+        <Key val="VENDAS"/>
+      </Right>
+      <Right id="5" name="GERENTE DO SISTEMA">
+        <PublicRight val="Y"/>
+        <Key val="GERENTE"/>
+      </Right>
+      <Right id="6" name="USUARIO DE CONSULTA">
+        <PublicRight val="Y"/>
+        <Key val="CONSULTA"/>
+      </Right>
+      <Right id="7" name="USUARIO DE CADASTRO">
+        <PublicRight val="Y"/>
+        <Key val="CADASTRO"/>
+      </Right>
+      <Right id="8" name="USUARIO DE RELATORIO">
+        <PublicRight val="Y"/>
+        <Key val="RELATORIO"/>
+      </Right>
+      <Right id="9" name="USUARIO DE ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="ROTINAS"/>
+      </Right>
+      <Right id="10" name="USUARIO DE MANUTENCAO">
+        <PublicRight val="Y"/>
+        <Key val="MANUTENCAO"/>
+      </Right>
+      <Right id="11" name="CADASTRA EMPRESAS">
+        <PublicRight val="Y"/>
+        <Key val="EMPRESAS"/>
+      </Right>
+      <Right id="12" name="CADASTRA MATERIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MATERIAIS"/>
+      </Right>
+      <Right id="13" name="CADASTRA CONTAS">
+        <PublicRight val="Y"/>
+        <Key val="CONTAS"/>
+      </Right>
+      <Right id="14" name="CADASTRA C.CUSTOS">
+        <PublicRight val="Y"/>
+        <Key val="C_CUSTOS"/>
+      </Right>
+      <Right id="15" name="CADASTRA NOTA FISCAL">
+        <PublicRight val="Y"/>
+        <Key val="NOTA_FIS"/>
+      </Right>
+      <Right id="16" name="CADASTRA ENTRADAS">
+        <PublicRight val="Y"/>
+        <Key val="ENTRADAS"/>
+      </Right>
+      <Right id="17" name="CADASTRA TIPO OPERACAO">
+        <PublicRight val="Y"/>
+        <Key val="TIPO_FAT"/>
+      </Right>
+      <Right id="18" name="CADASTRA LANCAMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="LANCAMENTO"/>
+      </Right>
+      <Right id="19" name="CADASTRA MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MOVIMENTOS"/>
+      </Right>
+      <Right id="20" name="CADASTRA PEDIDOS">
+        <PublicRight val="Y"/>
+        <Key val="CADPEDIDO"/>
+      </Right>
+      <Right id="21" name="CADASTRA ORDENS">
+        <PublicRight val="Y"/>
+        <Key val="CADORDENS"/>
+      </Right>
+      <Right id="22" name="LIVROS FISCAIS">
+        <PublicRight val="Y"/>
+        <Key val="ESCRITA"/>
+      </Right>
+      <Right id="23" name="EXTRATO DE BANCO">
+        <PublicRight val="Y"/>
+        <Key val="EXTRATO"/>
+      </Right>
+      <Right id="24" name="COMPRAS">
+        <PublicRight val="Y"/>
+        <Key val="COMPRAS"/>
+      </Right>
+      <Right id="25" name="CONTRATOS">
+        <PublicRight val="Y"/>
+        <Key val="CONTRATOS"/>
+      </Right>
+      <Right id="26" name="CUSTOS">
+        <PublicRight val="Y"/>
+        <Key val="CUSTOS"/>
+      </Right>
+      <Right id="27" name="ORCAMENTO">
+        <PublicRight val="Y"/>
+        <Key val="ORCAMENTO"/>
+      </Right>
+      <Right id="28" name="SELECAO DE EMPRESA">
+        <PublicRight val="Y"/>
+        <Key val="SELECAO"/>
+      </Right>
+      <Right id="29" name="ORDENS DE SERVIÇO">
+        <PublicRight val="Y"/>
+        <Key val="ORDENS"/>
+      </Right>
+      <Right id="30" name="ALTERA ESTOQUE">
+        <PublicRight val="Y"/>
+        <Key val="ALTER-EST"/>
+      </Right>
+      <Right id="31" name="PLANEJAMENTO FINANCEIRO">
+        <PublicRight val="Y"/>
+        <Key val="PLANEJAM"/>
+      </Right>
+      <Right id="32" name="USA ITENS">
+        <PublicRight val="Y"/>
+        <Key val="ITENS"/>
+      </Right>
+      <Right id="33" name="QUITACAO ORDENS">
+        <PublicRight val="Y"/>
+        <Key val="QUITACAO"/>
+      </Right>
+      <Right id="34" name="FICHAS DE SERVICOS">
+        <PublicRight val="Y"/>
+        <Key val="FICHAS"/>
+      </Right>
+      <Right id="35" name="PEDIDOS NO ESTOQUE">
+        <PublicRight val="Y"/>
+        <Key val="PEDIDOS"/>
+      </Right>
+      <Right id="36" name="MUTUOS">
+        <PublicRight val="Y"/>
+        <Key val="MUTUOS"/>
+      </Right>
+      <Right id="37" name="IMPOSTO">
+        <PublicRight val="Y"/>
+        <Key val="IMPOSTO"/>
+      </Right>
+      <Right id="38" name="EDLO">
+        <PublicRight val="Y"/>
+        <Key val="EDLO"/>
+      </Right>
+      <Right id="39" name="MULTIEMPRESA">
+        <PublicRight val="Y"/>
+        <Key val="MULTI"/>
+      </Right>
+      <Right id="40" name="COMPOSICAO">
+        <PublicRight val="Y"/>
+        <Key val="COMPOSICAO"/>
+      </Right>
+      <Right id="41" name="DIVISAO">
+        <PublicRight val="Y"/>
+        <Key val="DIVISAO"/>
+      </Right>
+      <Right id="42" name="PEDIDO SIMPLES">
+        <PublicRight val="Y"/>
+        <Key val="PED_SIMP"/>
+      </Right>
+      <Right id="43" name="FAIXA EMPRESAS">
+        <PublicRight val="Y"/>
+        <Key val="FAIXA_EMP"/>
+      </Right>
+      <Right id="44" name="FAIXA MATERIAIS">
+        <PublicRight val="Y"/>
+        <Key val="FAIXA_MAT"/>
+      </Right>
+      <Right id="45" name="FAIXA GERAL">
+        <PublicRight val="Y"/>
+        <Key val="FAIXA_GER"/>
+      </Right>
+      <Right id="46" name="SCI">
+        <PublicRight val="Y"/>
+        <Key val="SCI"/>
+      </Right>
+      <Right id="47" name="SQL">
+        <PublicRight val="Y"/>
+        <Key val="SQL"/>
+      </Right>
+      <Right id="48" name="PNEUS">
+        <PublicRight val="Y"/>
+        <Key val="PNEUS"/>
+      </Right>
+      <Right id="49" name="LIMITES">
+        <PublicRight val="Y"/>
+        <Key val="LIMITES"/>
+      </Right>
+      <Right id="50" name="USA LIMITE">
+        <PublicRight val="Y"/>
+        <Key val="USA_LIMITE"/>
+      </Right>
+      <Right id="51" name="INFORMA REDUZIDO">
+        <PublicRight val="Y"/>
+        <Key val="REDUZIDO"/>
+      </Right>
+      <Right id="52" name="PDV">
+        <PublicRight val="Y"/>
+        <Key val="PDV"/>
+      </Right>
+      <Right id="53" name="VARIAS NATUREZAS">
+        <PublicRight val="Y"/>
+        <Key val="NATUREZAS"/>
+      </Right>
+      <Right id="54" name="EDI">
+        <PublicRight val="Y"/>
+        <Key val="EDI"/>
+      </Right>
+      <Right id="55" name="NÃO USAR - GRADE">
+        <PublicRight val="Y"/>
+        <Key val="GRADE"/>
+      </Right>
+      <Right id="56" name="PCP">
+        <PublicRight val="Y"/>
+        <Key val="PCP"/>
+      </Right>
+      <Right id="57" name="FEBRABAN">
+        <PublicRight val="Y"/>
+        <Key val="FEBRABAN"/>
+      </Right>
+      <Right id="58" name="DIRF">
+        <PublicRight val="Y"/>
+        <Key val="DIRF"/>
+      </Right>
+      <Right id="59" name="BLOQUEAR CONTABILIZACAO">
+        <PublicRight val="Y"/>
+        <Key val="FACTORING"/>
+      </Right>
+      <Right id="60" name="COBRANCA">
+        <PublicRight val="Y"/>
+        <Key val="COBRANCA"/>
+      </Right>
+      <Right id="61" name="TRANSPORTE">
+        <PublicRight val="Y"/>
+        <Key val="TRANSPORTE"/>
+      </Right>
+      <Right id="62" name="EMITE OS">
+        <PublicRight val="Y"/>
+        <Key val="EMITE_OS"/>
+      </Right>
+      <Right id="63" name="APAGA PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="APAGA_PED"/>
+      </Right>
+      <Right id="64" name="NÃO USAR - CENTRO ARMAZENAGEM">
+        <PublicRight val="Y"/>
+        <Key val="CENTRO_ARM"/>
+      </Right>
+      <Right id="65" name="VEICULOS">
+        <PublicRight val="Y"/>
+        <Key val="VEICULOS"/>
+      </Right>
+      <Right id="66" name="MANIFESTADOR">
+        <PublicRight val="Y"/>
+        <Key val="MANIFESTA"/>
+      </Right>
+      <Right id="67" name="COMISSIONADO">
+        <PublicRight val="Y"/>
+        <Key val="COMISSION"/>
+      </Right>
+      <Right id="68" name="FILIAL">
+        <PublicRight val="Y"/>
+        <Key val="FILIAL"/>
+      </Right>
+      <Right id="69" name="PAGAMENTO CONHECIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="PGTO CONHE"/>
+      </Right>
+      <Right id="70" name="EFETIVACAO CONTROLES">
+        <PublicRight val="Y"/>
+        <Key val="EFETIVAR"/>
+      </Right>
+      <Right id="71" name="FATURAR CONHECIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="FATURA TRA"/>
+      </Right>
+      <Right id="72" name="CONTROLE CHEQUES">
+        <PublicRight val="Y"/>
+        <Key val="CONT_CHEQ"/>
+      </Right>
+      <Right id="73" name="SINCRONIZA DADOS">
+        <PublicRight val="Y"/>
+        <Key val="NOTEBOOK"/>
+      </Right>
+      <Right id="74" name="MENU">
+        <PublicRight val="Y"/>
+        <Key val="MENU"/>
+      </Right>
+      <Right id="75" name="USA MENU">
+        <PublicRight val="Y"/>
+        <Key val="USA_MENU"/>
+      </Right>
+      <Right id="76" name="AUDITORIA">
+        <PublicRight val="Y"/>
+        <Key val="AUDITORIA"/>
+      </Right>
+      <Right id="77" name="BLOQUEIA CONDICAO">
+        <PublicRight val="Y"/>
+        <Key val="CONDICAO"/>
+      </Right>
+      <Right id="78" name="GERENTE PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="GERPED"/>
+      </Right>
+      <Right id="79" name="GERENTE FATURAMENTO">
+        <PublicRight val="Y"/>
+        <Key val="GERFAT"/>
+      </Right>
+      <Right id="80" name="GERENTE FINANCEIRO">
+        <PublicRight val="Y"/>
+        <Key val="GERFIN"/>
+      </Right>
+      <Right id="81" name="GERENTE COMPRAS">
+        <PublicRight val="Y"/>
+        <Key val="GERCOM"/>
+      </Right>
+      <Right id="82" name="GERENTE ESTOQUE">
+        <PublicRight val="Y"/>
+        <Key val="GEREST"/>
+      </Right>
+      <Right id="83" name="GERENTE PCP">
+        <PublicRight val="Y"/>
+        <Key val="GERPCP"/>
+      </Right>
+      <Right id="84" name="GERENTE CONTRATOS">
+        <PublicRight val="Y"/>
+        <Key val="GERCTR"/>
+      </Right>
+      <Right id="85" name="GERENTE ESCRITA">
+        <PublicRight val="Y"/>
+        <Key val="GERESCR"/>
+      </Right>
+      <Right id="86" name="GERENTE GESMAN">
+        <PublicRight val="Y"/>
+        <Key val="GERGM"/>
+      </Right>
+      <Right id="87" name="GESTAO MANUTENCAO">
+        <PublicRight val="Y"/>
+        <Key val="GESMAN"/>
+      </Right>
+      <Right id="88" name="GESTAO CONTRATOS">
+        <PublicRight val="Y"/>
+        <Key val="GESCONT"/>
+      </Right>
+      <Right id="89" name="EXCLUI NOTA FISCAL">
+        <PublicRight val="Y"/>
+        <Key val="EXCLUINF"/>
+      </Right>
+      <Right id="90" name="GERENTE COMEXT">
+        <PublicRight val="Y"/>
+        <Key val="GERCOMEXT"/>
+      </Right>
+      <Right id="91" name="LOTES">
+        <PublicRight val="Y"/>
+        <Key val="LOTES"/>
+      </Right>
+      <Right id="92" name="OBSOLETO">
+        <PublicRight val="Y"/>
+        <Key val="OBSOLETO"/>
+      </Right>
+      <Right id="93" name="MODIFICA MATERIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MODMATER"/>
+      </Right>
+      <Right id="94" name="APAGA MATERIAIS">
+        <PublicRight val="Y"/>
+        <Key val="APAMATER"/>
+      </Right>
+      <Right id="95" name="MODIFICA MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MODMOVIM"/>
+      </Right>
+      <Right id="96" name="APAGA MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="APAMOVIM"/>
+      </Right>
+      <Right id="97" name="ALTERA DIVISAO">
+        <PublicRight val="Y"/>
+        <Key val="ALTDIVISAO"/>
+      </Right>
+      <Right id="98" name="APROVAR PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="APRPEDIDO"/>
+      </Right>
+      <Right id="99" name="LIBERAR PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="LIBPEDIDO"/>
+      </Right>
+      <Right id="100" name="CANCELAR PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="CANPEDIDO"/>
+      </Right>
+      <Right id="101" name="ORACLE">
+        <PublicRight val="Y"/>
+        <Key val="ORACLE"/>
+      </Right>
+      <Right id="102" name="ALTERAR CONCEITO">
+        <PublicRight val="Y"/>
+        <Key val="ALTCONCEI"/>
+      </Right>
+      <Right id="103" name="ALTERAR PRECO">
+        <PublicRight val="Y"/>
+        <Key val="ALTPRECO"/>
+      </Right>
+      <Right id="104" name="AUTO-AUTENTICAR">
+        <PublicRight val="Y"/>
+        <Key val="AUTO-AUTEN"/>
+      </Right>
+      <Right id="105" name="DB2">
+        <PublicRight val="Y"/>
+        <Key val="DB2"/>
+      </Right>
+      <Right id="106" name="APROVAR ORDEM">
+        <PublicRight val="Y"/>
+        <Key val="APRORDEM"/>
+      </Right>
+      <Right id="107" name="CANCELAR ORDEM">
+        <PublicRight val="Y"/>
+        <Key val="CANCORDEM"/>
+      </Right>
+      <Right id="108" name="GERENTE CONTABIL">
+        <PublicRight val="Y"/>
+        <Key val="GERCONT"/>
+      </Right>
+      <Right id="109" name="ENGENHARIA PCP">
+        <PublicRight val="Y"/>
+        <Key val="ENGPCP"/>
+      </Right>
+      <Right id="110" name="PLANEJAMENTO PCP">
+        <PublicRight val="Y"/>
+        <Key val="PLANPCP"/>
+      </Right>
+      <Right id="111" name="CONTROLE PCP">
+        <PublicRight val="Y"/>
+        <Key val="CONTRPCP"/>
+      </Right>
+      <Right id="112" name="ACESSAR PRG PRÓ-FORMAS">
+        <PublicRight val="Y"/>
+        <Key val="SC949K4454"/>
+      </Right>
+      <Right id="113" name="ACESSAR RELAT PRÓ-FORMAS">
+        <PublicRight val="Y"/>
+        <Key val="SC83JFJJF3"/>
+      </Right>
+      <Right id="114" name="CRIAR PRÓ-FORMAS">
+        <PublicRight val="Y"/>
+        <Key val="SCS249FKF3"/>
+      </Right>
+      <Right id="115" name="ALTERAR PRÓ-FORMAS">
+        <PublicRight val="Y"/>
+        <Key val="SCPDJRFUR7"/>
+      </Right>
+      <Right id="116" name="SOMENTE ACESSAR ADIANTAMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="SC94MMNXNB"/>
+      </Right>
+      <Right id="117" name="SERVER">
+        <PublicRight val="Y"/>
+        <Key val="SERVER"/>
+      </Right>
+      <Right id="118" name="CONFIGURADOR">
+        <PublicRight val="Y"/>
+        <Key val="CONFIGURAD"/>
+      </Right>
+      <Right id="119" name="MENU GF MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFMOV"/>
+      </Right>
+      <Right id="120" name="MENU GF CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFCAD"/>
+      </Right>
+      <Right id="121" name="MENU GF RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFREL"/>
+      </Right>
+      <Right id="122" name="MENU GF REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFRELOPE"/>
+      </Right>
+      <Right id="123" name="MENU GF REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFRELLEG"/>
+      </Right>
+      <Right id="124" name="MENU GF REL GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFRELGER"/>
+      </Right>
+      <Right id="125" name="MENU GF PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFPES"/>
+      </Right>
+      <Right id="126" name="MENU GF PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFPESMOV"/>
+      </Right>
+      <Right id="127" name="MENU GF PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFPESCAD"/>
+      </Right>
+      <Right id="128" name="MENU GF PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNGFPESCON"/>
+      </Right>
+      <Right id="129" name="MENU GF ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFROT"/>
+      </Right>
+      <Right id="130" name="MENU GF ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFROTOPE"/>
+      </Right>
+      <Right id="131" name="MENU GF ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGFROTLEG"/>
+      </Right>
+      <Right id="132" name="MENU GF ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNGFROTEDI"/>
+      </Right>
+      <Right id="133" name="MENU GF CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNGFCON"/>
+      </Right>
+      <Right id="134" name="MENU PM MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMMOV"/>
+      </Right>
+      <Right id="135" name="MENU PM CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMCAD"/>
+      </Right>
+      <Right id="136" name="MENU PM RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMREL"/>
+      </Right>
+      <Right id="137" name="MENU PM REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMRELOPE"/>
+      </Right>
+      <Right id="138" name="MENU PM REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMRELLEG"/>
+      </Right>
+      <Right id="139" name="MENU PM REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMRELGER"/>
+      </Right>
+      <Right id="140" name="MENU PM PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMPES"/>
+      </Right>
+      <Right id="141" name="MENU PM PESQUISAS MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMPESMOV"/>
+      </Right>
+      <Right id="142" name="MENU PM PESQUISAS CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMPESCAD"/>
+      </Right>
+      <Right id="143" name="MENU PM PESQUISAS CONFIGURACOE">
+        <PublicRight val="Y"/>
+        <Key val="MNPMPESCON"/>
+      </Right>
+      <Right id="144" name="MENU PM ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMROT"/>
+      </Right>
+      <Right id="145" name="MENU PM ROTINAS OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMROTOPE"/>
+      </Right>
+      <Right id="146" name="MENU PM ROTINAS LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMROTLEG"/>
+      </Right>
+      <Right id="147" name="MENU PM ROTINAS GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPMROTGER"/>
+      </Right>
+      <Right id="148" name="MENU PM ROTINAS EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNPMROTEDI"/>
+      </Right>
+      <Right id="149" name="MENU PM CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPMCON"/>
+      </Right>
+      <Right id="150" name="MENU ES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNESMOV"/>
+      </Right>
+      <Right id="151" name="MENU ES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNESCAD"/>
+      </Right>
+      <Right id="152" name="MENU ES RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNESREL"/>
+      </Right>
+      <Right id="153" name="MENU ES RELATORIOS OPERACIONAI">
+        <PublicRight val="Y"/>
+        <Key val="MNESRELOPE"/>
+      </Right>
+      <Right id="154" name="MENU ES RELATORIOS LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESRELLEG"/>
+      </Right>
+      <Right id="155" name="MENU ES REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESRELGER"/>
+      </Right>
+      <Right id="156" name="MENU ES PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNESPES"/>
+      </Right>
+      <Right id="157" name="MENU ES PESQUISAS MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNESPESMOV"/>
+      </Right>
+      <Right id="158" name="MENU ES PESQUISAS CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNESPESCAD"/>
+      </Right>
+      <Right id="159" name="MENU ES PESQUISAS CONFIGURACOE">
+        <PublicRight val="Y"/>
+        <Key val="MNESPESCON"/>
+      </Right>
+      <Right id="160" name="MENU ES ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNESROT"/>
+      </Right>
+      <Right id="161" name="MENU ES ROTINAS OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESROTOPE"/>
+      </Right>
+      <Right id="162" name="MENU ES ROTINAS LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESROTLEG"/>
+      </Right>
+      <Right id="163" name="MENU ES ROTINAS GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESROTGER"/>
+      </Right>
+      <Right id="164" name="MENU ES ROTINAS EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNESROTEDI"/>
+      </Right>
+      <Right id="165" name="MENU ES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNESCON"/>
+      </Right>
+      <Right id="166" name="MENU FA MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAMOV"/>
+      </Right>
+      <Right id="167" name="MENU FA CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNFACAD"/>
+      </Right>
+      <Right id="168" name="MENU FA RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAREL"/>
+      </Right>
+      <Right id="169" name="MENU FA REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNFARELOPE"/>
+      </Right>
+      <Right id="170" name="MENU FA REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNFARELLEG"/>
+      </Right>
+      <Right id="171" name="MENU FA REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNFARELGER"/>
+      </Right>
+      <Right id="172" name="MENU FA PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAPES"/>
+      </Right>
+      <Right id="173" name="MENU FA PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAPESMOV"/>
+      </Right>
+      <Right id="174" name="MENU FA PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAPESCAD"/>
+      </Right>
+      <Right id="175" name="MENU FA PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNFAPESCON"/>
+      </Right>
+      <Right id="176" name="MENU FA ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAROT"/>
+      </Right>
+      <Right id="177" name="MENU FA ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAROTOPE"/>
+      </Right>
+      <Right id="178" name="MENU FA ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNFAROTLEG"/>
+      </Right>
+      <Right id="179" name="MENU FA ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNFAROTEDI"/>
+      </Right>
+      <Right id="180" name="MENU FA CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNFACON"/>
+      </Right>
+      <Right id="181" name="MENU VE MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEMOV"/>
+      </Right>
+      <Right id="182" name="MENU VE CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNVECAD"/>
+      </Right>
+      <Right id="183" name="MENU VE RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEREL"/>
+      </Right>
+      <Right id="184" name="MENU VE REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNVERELOPE"/>
+      </Right>
+      <Right id="185" name="MENU VE REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNVERELLEG"/>
+      </Right>
+      <Right id="186" name="MENU VE REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNVERELGER"/>
+      </Right>
+      <Right id="187" name="MENU VE PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEPES"/>
+      </Right>
+      <Right id="188" name="MENU VE PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEPESMOV"/>
+      </Right>
+      <Right id="189" name="MENU VE PES CADSTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEPESCAD"/>
+      </Right>
+      <Right id="190" name="MENU VE PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNVEPESCON"/>
+      </Right>
+      <Right id="191" name="MENU VE ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEROT"/>
+      </Right>
+      <Right id="192" name="MENU VE ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEROTOPE"/>
+      </Right>
+      <Right id="193" name="MENU VE ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNVEROTLEG"/>
+      </Right>
+      <Right id="194" name="MENU VE ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNVEROTEDI"/>
+      </Right>
+      <Right id="195" name="MENU VE CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNVECON"/>
+      </Right>
+      <Right id="196" name="MENU CO MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOMOV"/>
+      </Right>
+      <Right id="197" name="MENU CO CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOCAD"/>
+      </Right>
+      <Right id="198" name="MENU CO RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOREL"/>
+      </Right>
+      <Right id="199" name="MENU CO REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCORELOPE"/>
+      </Right>
+      <Right id="200" name="MENU CO REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCORELLEG"/>
+      </Right>
+      <Right id="201" name="MENU CO REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCORELGER"/>
+      </Right>
+      <Right id="202" name="MENU CO PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOPES"/>
+      </Right>
+      <Right id="203" name="MENU CO PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOPESMOV"/>
+      </Right>
+      <Right id="204" name="MENU CO PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOPESCAD"/>
+      </Right>
+      <Right id="205" name="MENU CO PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCOPESCON"/>
+      </Right>
+      <Right id="206" name="MENU CO ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOROT"/>
+      </Right>
+      <Right id="207" name="MENU CO ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOROTOPE"/>
+      </Right>
+      <Right id="208" name="MENU CO ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCOROTLEG"/>
+      </Right>
+      <Right id="209" name="MENU CO ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNCOROTEDI"/>
+      </Right>
+      <Right id="210" name="MENU CO CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCOCON"/>
+      </Right>
+      <Right id="211" name="MENU LF MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFMOV"/>
+      </Right>
+      <Right id="212" name="MENU LF CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFCAD"/>
+      </Right>
+      <Right id="213" name="MENU LF RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFREL"/>
+      </Right>
+      <Right id="214" name="MENU LF REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFRELOPE"/>
+      </Right>
+      <Right id="215" name="MENU LF REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFRELLEG"/>
+      </Right>
+      <Right id="216" name="MENU LF REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFRELGER"/>
+      </Right>
+      <Right id="217" name="MENU LF PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFPES"/>
+      </Right>
+      <Right id="218" name="MENU LF PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFPESMOV"/>
+      </Right>
+      <Right id="219" name="MENU LF PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFPESCAD"/>
+      </Right>
+      <Right id="220" name="MENU LF PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNLFPESCON"/>
+      </Right>
+      <Right id="221" name="MENU LF ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFROT"/>
+      </Right>
+      <Right id="222" name="MENU LF ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFROTOPE"/>
+      </Right>
+      <Right id="223" name="MENU LF ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNLFROTLEG"/>
+      </Right>
+      <Right id="224" name="MENU LF ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNLFROTEDI"/>
+      </Right>
+      <Right id="225" name="MENU LF CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNLFCON"/>
+      </Right>
+      <Right id="226" name="MENU CT MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTMOV"/>
+      </Right>
+      <Right id="227" name="MENU CT CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTCAD"/>
+      </Right>
+      <Right id="228" name="MENU CT RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTREL"/>
+      </Right>
+      <Right id="229" name="MENU CT REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTRELOPE"/>
+      </Right>
+      <Right id="230" name="MENU CT REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MECTRELLEG"/>
+      </Right>
+      <Right id="231" name="MENU CT REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTRELGER"/>
+      </Right>
+      <Right id="232" name="MENU CT PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTPES"/>
+      </Right>
+      <Right id="233" name="MENU CT PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTPESMOV"/>
+      </Right>
+      <Right id="234" name="MENU CT PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTPESCAD"/>
+      </Right>
+      <Right id="235" name="MENU CT PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCTPESCON"/>
+      </Right>
+      <Right id="236" name="MENU CT ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTROT"/>
+      </Right>
+      <Right id="237" name="MENU CT ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTROTOPE"/>
+      </Right>
+      <Right id="238" name="MENU CT ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCTROTLEG"/>
+      </Right>
+      <Right id="239" name="MENU CT ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNCTROTEDI"/>
+      </Right>
+      <Right id="240" name="MENU CT CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCTCON"/>
+      </Right>
+      <Right id="241" name="MENU DI MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIMOV"/>
+      </Right>
+      <Right id="242" name="MENU DI CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNDICAD"/>
+      </Right>
+      <Right id="243" name="MENU DI RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIREL"/>
+      </Right>
+      <Right id="244" name="MENU DI REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIRELOPE"/>
+      </Right>
+      <Right id="245" name="MENU DI REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIRELLEG"/>
+      </Right>
+      <Right id="246" name="MENU DI REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIRELGER"/>
+      </Right>
+      <Right id="247" name="MENU DI PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIPES"/>
+      </Right>
+      <Right id="248" name="MENU DI PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIPESMOV"/>
+      </Right>
+      <Right id="249" name="MENU DI PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNDIPESCAD"/>
+      </Right>
+      <Right id="250" name="MENU DI PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNDIPESCON"/>
+      </Right>
+      <Right id="251" name="MENU DI CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNDICON"/>
+      </Right>
+      <Right id="252" name="MENU GM MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMMOV"/>
+      </Right>
+      <Right id="253" name="MENU GM CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMCAD"/>
+      </Right>
+      <Right id="254" name="MENU GM RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMREL"/>
+      </Right>
+      <Right id="255" name="MENU GM REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMRELOPE"/>
+      </Right>
+      <Right id="256" name="MENU GM REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMRELLEG"/>
+      </Right>
+      <Right id="257" name="MENU GM REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMRELGER"/>
+      </Right>
+      <Right id="258" name="MENU GM PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMPES"/>
+      </Right>
+      <Right id="259" name="MENU GM PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMPESMOV"/>
+      </Right>
+      <Right id="260" name="MENU GM PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMPESCAD"/>
+      </Right>
+      <Right id="261" name="MENU GM PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNGMPESCON"/>
+      </Right>
+      <Right id="262" name="MENU GM ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMROT"/>
+      </Right>
+      <Right id="263" name="MENU GM ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMROTOPE"/>
+      </Right>
+      <Right id="264" name="MENU GM ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGMROTLEG"/>
+      </Right>
+      <Right id="265" name="MENU GM ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNGMROTEDI"/>
+      </Right>
+      <Right id="266" name="MENU GM CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNGMCON"/>
+      </Right>
+      <Right id="267" name="MENU PC MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCMOV"/>
+      </Right>
+      <Right id="268" name="MENU PC CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCCAD"/>
+      </Right>
+      <Right id="269" name="MENU PC RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCREL"/>
+      </Right>
+      <Right id="270" name="MENU PC REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCRELOPE"/>
+      </Right>
+      <Right id="271" name="MENU PC REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCRELLEG"/>
+      </Right>
+      <Right id="272" name="MENU PC REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCRELGER"/>
+      </Right>
+      <Right id="273" name="MENU PC PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCPES"/>
+      </Right>
+      <Right id="274" name="MENU PC PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCPESMOV"/>
+      </Right>
+      <Right id="275" name="MENU PC PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCPESCAD"/>
+      </Right>
+      <Right id="276" name="MENU PC PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPCPESCON"/>
+      </Right>
+      <Right id="277" name="MENU PC ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCROT"/>
+      </Right>
+      <Right id="278" name="MENU PC ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCROTOPE"/>
+      </Right>
+      <Right id="279" name="MENU PC ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPCROTLEG"/>
+      </Right>
+      <Right id="280" name="MENU PC ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNPCROTEDI"/>
+      </Right>
+      <Right id="281" name="MENU PC CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPCCON"/>
+      </Right>
+      <Right id="282" name="MENU PE MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEMOV"/>
+      </Right>
+      <Right id="283" name="MENU PE CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPECAD"/>
+      </Right>
+      <Right id="284" name="MENU PE RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEREL"/>
+      </Right>
+      <Right id="285" name="MENU PE REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPERELOPE"/>
+      </Right>
+      <Right id="286" name="MENU PE REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPERELLEG"/>
+      </Right>
+      <Right id="287" name="MENU PE REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPERELGER"/>
+      </Right>
+      <Right id="288" name="MENU PE PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEPES"/>
+      </Right>
+      <Right id="289" name="MENU PE PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEPESMOV"/>
+      </Right>
+      <Right id="290" name="MENU PE PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEPESCAD"/>
+      </Right>
+      <Right id="291" name="MENU PE PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPEPESCON"/>
+      </Right>
+      <Right id="292" name="MENU PE ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEROT"/>
+      </Right>
+      <Right id="293" name="MENU PE ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEROTOPE"/>
+      </Right>
+      <Right id="294" name="MENU PE ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPEROTLEG"/>
+      </Right>
+      <Right id="295" name="MENU PE ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNPEROTEDI"/>
+      </Right>
+      <Right id="296" name="MENU PE CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPECON"/>
+      </Right>
+      <Right id="297" name="MENU PP MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPMOV"/>
+      </Right>
+      <Right id="298" name="MENU PP CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPCAD"/>
+      </Right>
+      <Right id="299" name="MENU PP RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPREL"/>
+      </Right>
+      <Right id="300" name="MENU PP REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPRELOPE"/>
+      </Right>
+      <Right id="301" name="MENU PP REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPRELLEG"/>
+      </Right>
+      <Right id="302" name="MENU PP REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPRELGER"/>
+      </Right>
+      <Right id="303" name="MENU PP PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPPES"/>
+      </Right>
+      <Right id="304" name="MENU PP PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPPESMOV"/>
+      </Right>
+      <Right id="305" name="MENU PP PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPPESCAD"/>
+      </Right>
+      <Right id="306" name="MENU PP PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPPPESCON"/>
+      </Right>
+      <Right id="307" name="MENU PP ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPROT"/>
+      </Right>
+      <Right id="308" name="MENU PP ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPROTOPE"/>
+      </Right>
+      <Right id="309" name="MENU PP ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNPPROTLEG"/>
+      </Right>
+      <Right id="310" name="MENU PP ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNPPROTEDI"/>
+      </Right>
+      <Right id="311" name="MENU PP CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNPPCON"/>
+      </Right>
+      <Right id="312" name="MENU CE MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEMOV"/>
+      </Right>
+      <Right id="313" name="MENU CE CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCECAD"/>
+      </Right>
+      <Right id="314" name="MENU CE RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEREL"/>
+      </Right>
+      <Right id="315" name="MENU CE REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCERELOPE"/>
+      </Right>
+      <Right id="316" name="MENU CE REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCERELLEG"/>
+      </Right>
+      <Right id="317" name="MENU CE REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCERELGER"/>
+      </Right>
+      <Right id="318" name="MENU CE PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEPES"/>
+      </Right>
+      <Right id="319" name="MENU CE PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEPESMOV"/>
+      </Right>
+      <Right id="320" name="MENU CE PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEPESCAD"/>
+      </Right>
+      <Right id="321" name="MENU CE PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCEPESCON"/>
+      </Right>
+      <Right id="322" name="MENU CE ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEROT"/>
+      </Right>
+      <Right id="323" name="MENU CE ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEROTOPE"/>
+      </Right>
+      <Right id="324" name="MENU CE ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCEROTLEG"/>
+      </Right>
+      <Right id="325" name="MENU CE ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNCEROTEDI"/>
+      </Right>
+      <Right id="326" name="MENU CE CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCECON"/>
+      </Right>
+      <Right id="327" name="MENU EX MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXMOV"/>
+      </Right>
+      <Right id="328" name="MENU EX CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXCAD"/>
+      </Right>
+      <Right id="329" name="MENU EX RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXREL"/>
+      </Right>
+      <Right id="330" name="MENU EX REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXRELOPE"/>
+      </Right>
+      <Right id="331" name="MENU EX REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXRELLEG"/>
+      </Right>
+      <Right id="332" name="MENU EX REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXRELGER"/>
+      </Right>
+      <Right id="333" name="MENU EX PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXPES"/>
+      </Right>
+      <Right id="334" name="MENU EX PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXPESMOV"/>
+      </Right>
+      <Right id="335" name="MENU EX PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXPESCAD"/>
+      </Right>
+      <Right id="336" name="MENU EX PES CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNEXPESCON"/>
+      </Right>
+      <Right id="337" name="MENU EX ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXROT"/>
+      </Right>
+      <Right id="338" name="MENU EX ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXROTOPE"/>
+      </Right>
+      <Right id="339" name="MENU EX ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNEXROTLEG"/>
+      </Right>
+      <Right id="340" name="MENU EX ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNEXROTEDI"/>
+      </Right>
+      <Right id="341" name="MENU EX CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNEXCON"/>
+      </Right>
+      <Right id="342" name="MENU GENERICO">
+        <PublicRight val="Y"/>
+        <Key val="MNGE"/>
+      </Right>
+      <Right id="343" name="MENU GENERICO CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGECAD"/>
+      </Right>
+      <Right id="344" name="MENU GENERICO RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGEREL"/>
+      </Right>
+      <Right id="345" name="MENU GENERICO REL CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGERELCAD"/>
+      </Right>
+      <Right id="346" name="MENU GENERICO REL CONFIGURACOE">
+        <PublicRight val="Y"/>
+        <Key val="MNGERELCON"/>
+      </Right>
+      <Right id="347" name="MENU GENERICO PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGEPES"/>
+      </Right>
+      <Right id="348" name="MENU GENERICO PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGEPESCAD"/>
+      </Right>
+      <Right id="349" name="MENU GENERICO PES CONFIGURACOE">
+        <PublicRight val="Y"/>
+        <Key val="MNGEPESCON"/>
+      </Right>
+      <Right id="350" name="MENU GENERICO CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNGECON"/>
+      </Right>
+      <Right id="351" name="MENU UTILITARIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNUTI"/>
+      </Right>
+      <Right id="352" name="MENU ESPECIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNESPECIAL"/>
+      </Right>
+      <Right id="353" name="MENU OBSOLETO">
+        <PublicRight val="Y"/>
+        <Key val="MNOBSOLETO"/>
+      </Right>
+      <Right id="354" name="BLOQUEIA ALTERAR PRECO PEDIDO">
+        <PublicRight val="Y"/>
+        <Key val="BLOALTPPED"/>
+      </Right>
+      <Right id="355" name="BLOQUEIA ALTERAR PRECO NF">
+        <PublicRight val="Y"/>
+        <Key val="BLOALTPNF"/>
+      </Right>
+      <Right id="356" name="USA MENU ESPECIFICO">
+        <PublicRight val="Y"/>
+        <Key val="MENUESPEC"/>
+      </Right>
+      <Right id="357" name="GMPRODUT_C">
+        <PublicRight val="Y"/>
+        <Key val="GMPRODUT_C"/>
+      </Right>
+      <Right id="358" name="GMPRODUT_P">
+        <PublicRight val="Y"/>
+        <Key val="GMPRODUT_P"/>
+      </Right>
+      <Right id="359" name="GMPRODUT_M">
+        <PublicRight val="Y"/>
+        <Key val="GMPRODUT_M"/>
+      </Right>
+      <Right id="360" name="GMPRODUT_E">
+        <PublicRight val="Y"/>
+        <Key val="GMPRODUT_E"/>
+      </Right>
+      <Right id="361" name="LIMITES TIPO OPERACAO">
+        <PublicRight val="Y"/>
+        <Key val="LIMITESTOP"/>
+      </Right>
+      <Right id="362" name="MENU CP MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPMOV"/>
+      </Right>
+      <Right id="363" name="MENU CP CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPCAD"/>
+      </Right>
+      <Right id="364" name="MENU CP RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPREL"/>
+      </Right>
+      <Right id="365" name="MENU CP REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPRELOPE"/>
+      </Right>
+      <Right id="366" name="MENU CP REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPRELLEG"/>
+      </Right>
+      <Right id="367" name="MENU CP REL PES GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPRELGER"/>
+      </Right>
+      <Right id="368" name="MENU CP PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPPES"/>
+      </Right>
+      <Right id="369" name="MENU CP PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPPESMOV"/>
+      </Right>
+      <Right id="370" name="MENU CP PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPPESCAD"/>
+      </Right>
+      <Right id="371" name="MENU CP PES PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPPESCON"/>
+      </Right>
+      <Right id="372" name="MENU CP ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPROT"/>
+      </Right>
+      <Right id="373" name="MENU CP ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPROTOPE"/>
+      </Right>
+      <Right id="374" name="MENU CP ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNCPROTLEG"/>
+      </Right>
+      <Right id="375" name="MENU CP ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNCPROTEDI"/>
+      </Right>
+      <Right id="376" name="MENU CP CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="MNCPCON"/>
+      </Right>
+      <Right id="377" name="CADASTRA USUARIO">
+        <PublicRight val="Y"/>
+        <Key val="CADUSUARIO"/>
+      </Right>
+      <Right id="378" name="MANUTENCAO USUARIO E DIREITOS">
+        <PublicRight val="Y"/>
+        <Key val="MANUTUSU"/>
+      </Right>
+      <Right id="379" name="IMPEDIR LIQUIDAR">
+        <PublicRight val="Y"/>
+        <Key val="IMPEDLIQ"/>
+      </Right>
+      <Right id="380" name="MENU WP MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNWPMOV"/>
+      </Right>
+      <Right id="381" name="MENU WP PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNWPPAR"/>
+      </Right>
+      <Right id="382" name="MODIFICA CONFIGURADOR BENS">
+        <PublicRight val="Y"/>
+        <Key val="PACON63758"/>
+      </Right>
+      <Right id="383" name="UTILIZA CONTROLE DE QUALIDADE">
+        <PublicRight val="Y"/>
+        <Key val="UTILCTLQUA"/>
+      </Right>
+      <Right id="384" name="GERENTE VENDAS">
+        <PublicRight val="Y"/>
+        <Key val="GERVENDAS"/>
+      </Right>
+      <Right id="385" name="GERENCIA COMISSOES">
+        <PublicRight val="Y"/>
+        <Key val="GERCOMIS"/>
+      </Right>
+      <Right id="386" name="PE ENGENHARIA CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="PEENG_C"/>
+      </Right>
+      <Right id="387" name="PE ENGENHARIA PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="PEENG_P"/>
+      </Right>
+      <Right id="388" name="PE ENGENHARIA MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="PEENG_M"/>
+      </Right>
+      <Right id="389" name="PE ENGENHARIA EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="PEENG_E"/>
+      </Right>
+      <Right id="390" name="AUTORIZA LIQUIDAR">
+        <PublicRight val="Y"/>
+        <Key val="AUTLIQUID"/>
+      </Right>
+      <Right id="391" name="GM ORDEM SERVICO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="GMOSERV_C"/>
+      </Right>
+      <Right id="392" name="GM ORDEM SERVICO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="GMOSERV_P"/>
+      </Right>
+      <Right id="393" name="GM ORDEM SERVICO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="GMOSERV_M"/>
+      </Right>
+      <Right id="394" name="GM ORDEM SERVICO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="GMOSERV_E"/>
+      </Right>
+      <Right id="395" name="GERENTE CREDITO">
+        <PublicRight val="Y"/>
+        <Key val="GERCREDITO"/>
+      </Right>
+      <Right id="396" name="GF LANCAMENTO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="GFLANCTO_C"/>
+      </Right>
+      <Right id="397" name="GF LANCAMENTO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="GFLANCTO_P"/>
+      </Right>
+      <Right id="398" name="GF LANCAMENTO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="GFLANCTO_M"/>
+      </Right>
+      <Right id="399" name="GF LANCAMENTO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="GFLANCTO_E"/>
+      </Right>
+      <Right id="400" name="PM PLANEJAMENTO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="PMPLAJTO_C"/>
+      </Right>
+      <Right id="401" name="PM PLANEJAMENTO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="PMPLAJTO_P"/>
+      </Right>
+      <Right id="402" name="PM PLANEJAMENTO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="PMPLAJTO_M"/>
+      </Right>
+      <Right id="403" name="PM PLANEJAMENTO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="PMPLAJTO_E"/>
+      </Right>
+      <Right id="404" name="ES MATERIAIS CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMAT_C"/>
+      </Right>
+      <Right id="405" name="ES MATERIAIS PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMAT_P"/>
+      </Right>
+      <Right id="406" name="ES MATERIAIS MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMAT_M"/>
+      </Right>
+      <Right id="407" name="ES MATERIAIS EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="ESMAT_E"/>
+      </Right>
+      <Right id="408" name="ES MOVIMENTO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMOVTO_C"/>
+      </Right>
+      <Right id="409" name="ES MOVIMENTO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMOVTO_P"/>
+      </Right>
+      <Right id="410" name="ES MOVIMENTO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="ESMOVTO_M"/>
+      </Right>
+      <Right id="411" name="ES MOVIMENTO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="ESMOVTO_E"/>
+      </Right>
+      <Right id="412" name="FA NOTA FISCAL CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="FANFISCA_C"/>
+      </Right>
+      <Right id="413" name="FA NOTA FISCAL PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="FANFISCA_P"/>
+      </Right>
+      <Right id="414" name="FA NOTA FISCAL MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="FANFISCA_M"/>
+      </Right>
+      <Right id="415" name="FA NOTA FISCAL EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="FANFISCA_E"/>
+      </Right>
+      <Right id="416" name="FA PEDIDO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="FAPEDIDO_C"/>
+      </Right>
+      <Right id="417" name="FA PEDIDO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="FAPEDIDO_P"/>
+      </Right>
+      <Right id="418" name="FA PEDIDO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="FAPEDIDO_M"/>
+      </Right>
+      <Right id="419" name="FA PEDIDO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="FAPEDIDO_E"/>
+      </Right>
+      <Right id="420" name="FA ECF CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="FAECF_C"/>
+      </Right>
+      <Right id="421" name="FA ECF PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="FAECF_P"/>
+      </Right>
+      <Right id="422" name="FA ECF MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="FAECF_M"/>
+      </Right>
+      <Right id="423" name="FA ECF EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="FAECF_E"/>
+      </Right>
+      <Right id="424" name="CO ENTRADA CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="COENTRA_C"/>
+      </Right>
+      <Right id="425" name="CO ENTRADA PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="COENTRA_P"/>
+      </Right>
+      <Right id="426" name="CO ENTRADA MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="COENTRA_M"/>
+      </Right>
+      <Right id="427" name="CO ENTRADA EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="COENTRA_E"/>
+      </Right>
+      <Right id="428" name="CO ORDEM COMPRA CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="COORDEMC_C"/>
+      </Right>
+      <Right id="429" name="CO ORDEM COMPRA PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="COORDEMC_P"/>
+      </Right>
+      <Right id="430" name="CO ORDEM COMPRA MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="COORDEMC_M"/>
+      </Right>
+      <Right id="431" name="CO ORDEM COMPRA EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="COORDEMC_E"/>
+      </Right>
+      <Right id="432" name="CO SOLICITACOES CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="COSOLIC_C"/>
+      </Right>
+      <Right id="433" name="CO SOLICITACOES PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="COSOLIC_P"/>
+      </Right>
+      <Right id="434" name="CO SOLICITACOES MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="COSOLIC_M"/>
+      </Right>
+      <Right id="435" name="CO SOLICITACOES EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="COSOLIC_E"/>
+      </Right>
+      <Right id="436" name="DI DIRF CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="DIDIRF_C"/>
+      </Right>
+      <Right id="437" name="DI DIRF PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="DIDIRF_P"/>
+      </Right>
+      <Right id="438" name="DI DIRF MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="DIDIRF_M"/>
+      </Right>
+      <Right id="439" name="DI DIRF EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="DIDIRF_E"/>
+      </Right>
+      <Right id="440" name="VE  CONTATOS E ORCTO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="VEVENDAS_C"/>
+      </Right>
+      <Right id="441" name="VE CONTATOS E ORCTO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="VEVENDAS_P"/>
+      </Right>
+      <Right id="442" name="VE CONTATOS E ORCTO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="VEVENDAS_M"/>
+      </Right>
+      <Right id="443" name="VE CONTATOS E ORCTO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="VEVENDAS_E"/>
+      </Right>
+      <Right id="444" name="VE TELEMARKETING CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="VETELE_C"/>
+      </Right>
+      <Right id="445" name="VE TELEMARKETING PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="VETELE_P"/>
+      </Right>
+      <Right id="446" name="VE TELEMARKETING MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="VETELE_M"/>
+      </Right>
+      <Right id="447" name="VE TELEMARKETING EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="VETELE_E"/>
+      </Right>
+      <Right id="448" name="CT CONTRATO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="CTCTTO_C"/>
+      </Right>
+      <Right id="449" name="CT CONTRATO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="CTCTTO_P"/>
+      </Right>
+      <Right id="450" name="CT CONTRATO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="CTCTTO_M"/>
+      </Right>
+      <Right id="451" name="CT CONTRATO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="CTCTTO_E"/>
+      </Right>
+      <Right id="452" name="PP CONFIGURADOR PROD CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCONFIG_C"/>
+      </Right>
+      <Right id="453" name="PP CONFIGURADOR PROD PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCONFIG_P"/>
+      </Right>
+      <Right id="454" name="PP CONFIGURADOR PROD MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCONFIG_M"/>
+      </Right>
+      <Right id="455" name="PP CONFIGURADOR PROD EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="PPCONFIG_E"/>
+      </Right>
+      <Right id="456" name="PP CARACTERISTICAS CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCARACT_C"/>
+      </Right>
+      <Right id="457" name="PP CARACTERISTICAS PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCARACT_P"/>
+      </Right>
+      <Right id="458" name="PP CARACTERISTICAS MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="PPCARACT_M"/>
+      </Right>
+      <Right id="459" name="PP CARACTERISTICAS EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="PPCARACT_E"/>
+      </Right>
+      <Right id="460" name="EX ROTAS CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="EXROTAS_C"/>
+      </Right>
+      <Right id="461" name="EX ROTAS PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="EXROTAS_P"/>
+      </Right>
+      <Right id="462" name="EX ROTAS MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="EXROTAS_M"/>
+      </Right>
+      <Right id="463" name="EX ROTAS EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="EXROTAS_E"/>
+      </Right>
+      <Right id="464" name="EX ROTAS REPRESENTANTES CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="EXRXR_C"/>
+      </Right>
+      <Right id="465" name="EX ROTAS REPRESENTANTES PESQUI">
+        <PublicRight val="Y"/>
+        <Key val="EXRXR_P"/>
+      </Right>
+      <Right id="466" name="EX ROTAS REPRESENTANTES MODIFI">
+        <PublicRight val="Y"/>
+        <Key val="EXRXR_M"/>
+      </Right>
+      <Right id="467" name="EX ROTAS REPRESENTANTES EXCLUI">
+        <PublicRight val="Y"/>
+        <Key val="EXRXR_E"/>
+      </Right>
+      <Right id="468" name="GE EMPRESA CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="GEEMP_C"/>
+      </Right>
+      <Right id="469" name="GE EMPRESA PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="GEEMP_P"/>
+      </Right>
+      <Right id="470" name="GE EMPRESA MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="GEEMP_M"/>
+      </Right>
+      <Right id="471" name="GE EMPRESA EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="GEEMP_E"/>
+      </Right>
+      <Right id="472" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="473" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="474" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="475" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="476" name="GERENTE BALANCA">
+        <PublicRight val="Y"/>
+        <Key val="GERBALANCA"/>
+      </Right>
+      <Right id="477" name="MENU GA MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAMOV"/>
+      </Right>
+      <Right id="478" name="MENU GA CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGACAD"/>
+      </Right>
+      <Right id="479" name="MENU GA RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAREL"/>
+      </Right>
+      <Right id="480" name="MENU GA REL OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGARELOPE"/>
+      </Right>
+      <Right id="481" name="MENU GA REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGARELLEG"/>
+      </Right>
+      <Right id="482" name="MENU GA REL GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGARELGER"/>
+      </Right>
+      <Right id="483" name="MENU GA PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAPES"/>
+      </Right>
+      <Right id="484" name="MENU GA PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAPESMOV"/>
+      </Right>
+      <Right id="485" name="MENU GA PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAPESCAD"/>
+      </Right>
+      <Right id="486" name="MENU GA PES PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAPESCON"/>
+      </Right>
+      <Right id="487" name="MENU GA ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAROT"/>
+      </Right>
+      <Right id="488" name="MENU GA ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAROTOPE"/>
+      </Right>
+      <Right id="489" name="MENU GA ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNGAROTLEG"/>
+      </Right>
+      <Right id="490" name="MENU GA ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNGAROTEDI"/>
+      </Right>
+      <Right id="491" name="MENU GA PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNGACON"/>
+      </Right>
+      <Right id="492" name="MENU SM MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMMOV"/>
+      </Right>
+      <Right id="493" name="MENU SM CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMCAD"/>
+      </Right>
+      <Right id="494" name="MENU SM RELATORIOS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMREL"/>
+      </Right>
+      <Right id="495" name="MENU SM OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMRELOPE"/>
+      </Right>
+      <Right id="496" name="MENU SM REL LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMRELLEG"/>
+      </Right>
+      <Right id="497" name="MENU SM REL GERENCIAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMRELGER"/>
+      </Right>
+      <Right id="498" name="MENU SM PESQUISAS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMPES"/>
+      </Right>
+      <Right id="499" name="MENU SM PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMPESMOV"/>
+      </Right>
+      <Right id="500" name="MENU SM PES CADASTROS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMPESCAD"/>
+      </Right>
+      <Right id="501" name="MENU SM PES PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMPESPAR"/>
+      </Right>
+      <Right id="502" name="MENU SM ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMROT"/>
+      </Right>
+      <Right id="503" name="MENU SM ROT OPERACIONAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMROTOPE"/>
+      </Right>
+      <Right id="504" name="MENU SM ROT LEGAIS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMROTLEG"/>
+      </Right>
+      <Right id="505" name="MENU SM ROT EDI">
+        <PublicRight val="Y"/>
+        <Key val="MNSMROTEDI"/>
+      </Right>
+      <Right id="506" name="MENU SM PARAMETROS">
+        <PublicRight val="Y"/>
+        <Key val="MNSMPAR"/>
+      </Right>
+      <Right id="507" name="MENU GENERICO ROTINAS">
+        <PublicRight val="Y"/>
+        <Key val="MNGEROT"/>
+      </Right>
+      <Right id="508" name="MENU GENERICO PES MOVIMENTOS">
+        <PublicRight val="Y"/>
+        <Key val="MNGEPESMOV"/>
+      </Right>
+      <Right id="509" name="BLOQUEAR CONFIGURACOES">
+        <PublicRight val="Y"/>
+        <Key val="BLOQCONFIG"/>
+      </Right>
+      <Right id="510" name="PC ORDEMPRODUCAO CRIAR">
+        <PublicRight val="Y"/>
+        <Key val="PCOP_C"/>
+      </Right>
+      <Right id="511" name="PC ORDEMPRODUCAO PESQUISAR">
+        <PublicRight val="Y"/>
+        <Key val="PCOP_P"/>
+      </Right>
+      <Right id="512" name="PC ORDEMPRODUCAO MODIFICAR">
+        <PublicRight val="Y"/>
+        <Key val="PCOP_M"/>
+      </Right>
+      <Right id="513" name="PC ORDEMPRODUCAO EXCLUIR">
+        <PublicRight val="Y"/>
+        <Key val="PCOP_E"/>
+      </Right>
+      <Right id="514" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="515" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="516" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="517" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="518" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="519" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="520" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="521" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="522" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="523" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="524" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="525" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="526" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="527" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="528" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="529" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="530" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="531" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="532" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="533" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="534" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="535" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="536" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="537" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="538" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="539" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="540" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="541" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="542" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="543" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="544" name="LIVRE">
+        <PublicRight val="Y"/>
+        <Key val="LIVRE"/>
+      </Right>
+      <Right id="545" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="546" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="547" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="548" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="549" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="550" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="551" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="552" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="553" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="554" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="555" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="556" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="557" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="558" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="559" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="560" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="561" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="562" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="563" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="564" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="565" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="566" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="567" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="568" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="569" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="570" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="571" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="572" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="573" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="574" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="575" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="576" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="577" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="578" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="579" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="580" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="581" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="582" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="583" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="584" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="585" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="586" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="587" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="588" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="589" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="590" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="591" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="592" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="593" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="594" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="595" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="596" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="597" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="598" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="599" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="600" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="601" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="602" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="603" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="604" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="605" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="606" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="607" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="608" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="609" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="610" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="611" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="612" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="613" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="614" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="615" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="616" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="617" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="618" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="619" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="620" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="621" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="622" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="623" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="624" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="625" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="626" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="627" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="628" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="629" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="630" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="631" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="632" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="633" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="634" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="635" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="636" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="637" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="638" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="639" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="640" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="641" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="642" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="643" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="644" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="645" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="646" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="647" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="648" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="649" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="650" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="651" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="652" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="653" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="654" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="655" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="656" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="657" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="658" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="659" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="660" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="661" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="662" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="663" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="664" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="665" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="666" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="667" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="668" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="669" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="670" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="671" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="672" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="673" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="674" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="675" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="676" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="677" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="678" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="679" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="680" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="681" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="682" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="683" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="684" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="685" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="686" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="687" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="688" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="689" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="690" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="691" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="692" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="693" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="694" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="695" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="696" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="697" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="698" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="699" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="700" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="701" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="702" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="703" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="704" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="705" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="706" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="707" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="708" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="709" name="GP">
+        <PublicRight val="Y"/>
+        <Key val="GP"/>
+      </Right>
+      <Right id="710" name="SPED FISCAL">
+        <PublicRight val="N"/>
+        <Key val="SPEDFISCAL"/>
+      </Right>
+      <Right id="711" name="MODF INFORMACOES GERENCIAIS">
+        <PublicRight val="N"/>
+        <Key val="SIG4128APG"/>
+      </Right>
+      <Right id="712" name="MODF GENERICOS">
+        <PublicRight val="N"/>
+        <Key val="GE746BEE13"/>
+      </Right>
+      <Right id="713" name="MOD GESTAO POSTOS">
+        <PublicRight val="N"/>
+        <Key val="GP777IPV54"/>
+      </Right>
+      <Right id="714" name="MODF GESTAO POSTOS">
+        <PublicRight val="N"/>
+        <Key val="GP767IRW45"/>
+      </Right>
+      <Right id="715" name="MOD COM EXTERIOR IMPORTACAO">
+        <PublicRight val="N"/>
+        <Key val="CI634ARE85"/>
+      </Right>
+      <Right id="716" name="MODF COM EXTERIOR IMPORTACAO">
+        <PublicRight val="N"/>
+        <Key val="CI321WAS17"/>
+      </Right>
+      <Right id="717" name="MOD MANUTENCAO INDUSTRIAL">
+        <PublicRight val="N"/>
+        <Key val="MI412MDC84"/>
+      </Right>
+      <Right id="718" name="MODF MANUTENCAO INDUSTRIAL">
+        <PublicRight val="N"/>
+        <Key val="MI789CCF44"/>
+      </Right>
+      <Right id="719" name="PARCEIRO CIBEK - HANXUNSLXO">
+        <PublicRight val="N"/>
+        <Key val="ACEUMMEPMB"/>
+      </Right>
+      <Right id="720" name="MOD GESTAO FROTAS">
+        <PublicRight val="N"/>
+        <Key val="FR706PQA31"/>
+      </Right>
+      <Right id="721" name="MODF GESTAO FROTAS">
+        <PublicRight val="N"/>
+        <Key val="FR709ACT65"/>
+      </Right>
+      <Right id="722" name="MOD ACERVO">
+        <PublicRight val="N"/>
+        <Key val="AC324EDM89"/>
+      </Right>
+      <Right id="723" name="MODF ACERVO">
+        <PublicRight val="N"/>
+        <Key val="AC426IST87"/>
+      </Right>
+      <Right id="724" name="MOD MPS">
+        <PublicRight val="N"/>
+        <Key val="MP212OTR13"/>
+      </Right>
+      <Right id="725" name="MODF MPS">
+        <PublicRight val="N"/>
+        <Key val="MP201EUT11"/>
+      </Right>
+      <Right id="726" name="MOD PLANEJAMENTO MATERIAIS">
+        <PublicRight val="N"/>
+        <Key val="PP108SXS74"/>
+      </Right>
+      <Right id="727" name="MODF PLANEJAMENTO MATERIAIS">
+        <PublicRight val="N"/>
+        <Key val="PP104WSA53"/>
+      </Right>
+      <Right id="728" name="MOD RECURSOS HUMANOS">
+        <PublicRight val="N"/>
+        <Key val="PM019BRI95"/>
+      </Right>
+      <Right id="729" name="MODF RECURSOS HUMANOS">
+        <PublicRight val="N"/>
+        <Key val="PM020TRE15"/>
+      </Right>
+      <Right id="730" name="MOD PLANEJAMENTO ORCAMENTARIO">
+        <PublicRight val="N"/>
+        <Key val="PM872POP45"/>
+      </Right>
+      <Right id="731" name="MODF PLANEJAMENTO ORCAMENTARIO">
+        <PublicRight val="N"/>
+        <Key val="PM543ERP62"/>
+      </Right>
+      <Right id="732" name="MOD CUSTO ABC">
+        <PublicRight val="N"/>
+        <Key val="C4632KLB66"/>
+      </Right>
+      <Right id="733" name="MODF CUSTO ABC">
+        <PublicRight val="N"/>
+        <Key val="C4832WXS96"/>
+      </Right>
+      <Right id="734" name="MOD CUSTO REAL">
+        <PublicRight val="N"/>
+        <Key val="C5742KBL86"/>
+      </Right>
+      <Right id="735" name="MODF CUSTO REAL">
+        <PublicRight val="N"/>
+        <Key val="C5457WSX12"/>
+      </Right>
+      <Right id="736" name="MOD SEQUENCIA CARGA MAQUINA">
+        <PublicRight val="N"/>
+        <Key val="SM875FEM19"/>
+      </Right>
+      <Right id="737" name="MODF SEQUENCIA CARGA MAQUINA">
+        <PublicRight val="N"/>
+        <Key val="SM222YOP31"/>
+      </Right>
+      <Right id="738" name="MOD GESTAO LOJA">
+        <PublicRight val="N"/>
+        <Key val="GL105AEH25"/>
+      </Right>
+      <Right id="739" name="MODF GESTAO LOJA">
+        <PublicRight val="N"/>
+        <Key val="GL231OAT06"/>
+      </Right>
+      <Right id="740" name="MOD GESTAO AMBIENTAL">
+        <PublicRight val="N"/>
+        <Key val="GA282CEM91"/>
+      </Right>
+      <Right id="741" name="MODF GESTAO AMBIENTAL">
+        <PublicRight val="N"/>
+        <Key val="GA412CTC82"/>
+      </Right>
+      <Right id="742" name="PARCEIRO BELLTRIX - HANXUNSLXO">
+        <PublicRight val="N"/>
+        <Key val="PBXEILRLT"/>
+      </Right>
+      <Right id="743" name="MOD CRM">
+        <PublicRight val="N"/>
+        <Key val="CR9YU56FL6"/>
+      </Right>
+      <Right id="744" name="MODF CRM">
+        <PublicRight val="N"/>
+        <Key val="CR573G88D3"/>
+      </Right>
+      <Right id="745" name="MOD PONTO">
+        <PublicRight val="N"/>
+        <Key val="CP992GFWX1"/>
+      </Right>
+      <Right id="746" name="MODF PONTO">
+        <PublicRight val="N"/>
+        <Key val="CPLSKW28DQ"/>
+      </Right>
+      <Right id="747" name="MOD PPP">
+        <PublicRight val="N"/>
+        <Key val="PP1204TR64"/>
+      </Right>
+      <Right id="748" name="MODF PPP">
+        <PublicRight val="N"/>
+        <Key val="PP4691PW57"/>
+      </Right>
+      <Right id="749" name="MOD SAQ">
+        <PublicRight val="N"/>
+        <Key val="SQ8659HJ65"/>
+      </Right>
+      <Right id="750" name="MODF SAQ">
+        <PublicRight val="N"/>
+        <Key val="SQ5327ER17"/>
+      </Right>
+      <Right id="751" name="MOD MIDIA">
+        <PublicRight val="N"/>
+        <Key val="MD6824CX54"/>
+      </Right>
+      <Right id="752" name="MODF MIDIA">
+        <PublicRight val="N"/>
+        <Key val="MD1465WG16"/>
+      </Right>
+      <Right id="753" name="OS ABYZ">
+        <PublicRight val="N"/>
+        <Key val="MN135IIBYZ"/>
+      </Right>
+      <Right id="754" name="PARCEIRO FOCOGLOBAL - HJANX8AM">
+        <PublicRight val="N"/>
+        <Key val="PFLOACBOGO"/>
+      </Right>
+      <Right id="755" name="BI - ADVANCED">
+        <PublicRight val="N"/>
+        <Key val="BI6JS7NCMT"/>
+      </Right>
+      <Right id="756" name="GERENCIADOR DE PROCESSOS">
+        <PublicRight val="N"/>
+        <Key val="BS12HXDEFG"/>
+      </Right>
+      <Right id="757" name="CIGAM FOLHA">
+        <PublicRight val="N"/>
+        <Key val="BLOOM@VIT"/>
+      </Right>
+      <Right id="758" name="EDI MARCOPOLO - PRODALY">
+        <PublicRight val="N"/>
+        <Key val="EM923487PY"/>
+      </Right>
+      <Right id="759" name="MOD WEB PEDIDOS">
+        <PublicRight val="N"/>
+        <Key val="WP8940ID54"/>
+      </Right>
+      <Right id="760" name="MODF WEB PEDIDOS">
+        <PublicRight val="N"/>
+        <Key val="WP0498EB45"/>
+      </Right>
+      <Right id="761" name="MOD WORKFLOW">
+        <PublicRight val="N"/>
+        <Key val="WF628ORL31"/>
+      </Right>
+      <Right id="762" name="MODF WORKFLOW">
+        <PublicRight val="N"/>
+        <Key val="WF178VFD13"/>
+      </Right>
+      <Right id="763" name="ABYZ INTERNO">
+        <PublicRight val="N"/>
+        <Key val="ABZZYBASGE"/>
+      </Right>
+      <Right id="764" name="RESIDUOS SOLIDOS">
+        <PublicRight val="N"/>
+        <Key val="R45IUMJSJM"/>
+      </Right>
+      <Right id="765" name="SERASA">
+        <PublicRight val="N"/>
+        <Key val="C4SESA34VR"/>
+      </Right>
+      <Right id="766" name="MOD CONTABILIDADE">
+        <PublicRight val="N"/>
+        <Key val="CC297KWA43"/>
+      </Right>
+      <Right id="767" name="MOD PATRIMONIO">
+        <PublicRight val="N"/>
+        <Key val="PA893WGH27"/>
+      </Right>
+      <Right id="768" name="PARCEIRO ABS - ASDNZM3345Z">
+        <PublicRight val="N"/>
+        <Key val="POASB"/>
+      </Right>
+      <Right id="769" name="PARCEIRO PRODALY - ASDM3SMADZ3">
+        <PublicRight val="N"/>
+        <Key val="POPYRLOAD"/>
+      </Right>
+      <Right id="770" name="PARCEIRO REPULLO - ASDJSAJ2ASD">
+        <PublicRight val="N"/>
+        <Key val="POROELPLU"/>
+      </Right>
+      <Right id="771" name="PARCEIRO 3">
+        <PublicRight val="N"/>
+        <Key val="POP3ARREC"/>
+      </Right>
+      <Right id="772" name="PARCEIRO LINHA11 - ASDNMMZX8">
+        <PublicRight val="N"/>
+        <Key val="POL1I1NAH"/>
+      </Right>
+      <Right id="773" name="PARCEIRO DE SERVE - HVF5DXVB">
+        <PublicRight val="N"/>
+        <Key val="PODEEVSRE"/>
+      </Right>
+      <Right id="774" name="PARCEIRO HUTNER - ASMNDANA72">
+        <PublicRight val="N"/>
+        <Key val="POHRUETN6"/>
+      </Right>
+      <Right id="775" name="MOD GENERICO">
+        <PublicRight val="N"/>
+        <Key val="GE190EME00"/>
+      </Right>
+      <Right id="776" name="MODF GENERICO">
+        <PublicRight val="N"/>
+        <Key val="GE193CEC00"/>
+      </Right>
+      <Right id="777" name="MOD GESTAO FINANCEIRA">
+        <PublicRight val="N"/>
+        <Key val="GF751KHM22"/>
+      </Right>
+      <Right id="778" name="MODF GESTAO FINANCEIRA">
+        <PublicRight val="N"/>
+        <Key val="GF874WEF22"/>
+      </Right>
+      <Right id="779" name="MOD PLANEJAMENTO FINANCEIRO">
+        <PublicRight val="N"/>
+        <Key val="PM367VDW32"/>
+      </Right>
+      <Right id="780" name="MODF PLANEJAMENTO FINANCEIRO">
+        <PublicRight val="N"/>
+        <Key val="PM876WCV33"/>
+      </Right>
+      <Right id="781" name="MOD GESTAO MATERIAIS">
+        <PublicRight val="N"/>
+        <Key val="ES836YMJ88"/>
+      </Right>
+      <Right id="782" name="MODF GESTAO MATERIAIS">
+        <PublicRight val="N"/>
+        <Key val="ES421MJT88"/>
+      </Right>
+      <Right id="783" name="MOD FATURAMENTO">
+        <PublicRight val="N"/>
+        <Key val="FA931VCE33"/>
+      </Right>
+      <Right id="784" name="MODF FATURAMENTO">
+        <PublicRight val="N"/>
+        <Key val="FA548VFR33"/>
+      </Right>
+      <Right id="785" name="MOD VENDAS">
+        <PublicRight val="N"/>
+        <Key val="VE671LKM66"/>
+      </Right>
+      <Right id="786" name="MODF VENDAS">
+        <PublicRight val="N"/>
+        <Key val="VE849LIO66"/>
+      </Right>
+      <Right id="787" name="MOD COMPRAS">
+        <PublicRight val="N"/>
+        <Key val="CO825RTY98"/>
+      </Right>
+      <Right id="788" name="MODF COMPRAS">
+        <PublicRight val="N"/>
+        <Key val="CO549EDC98"/>
+      </Right>
+      <Right id="789" name="MOD CUSTOS ESTRUTURAL">
+        <PublicRight val="N"/>
+        <Key val="C1736MHT54"/>
+      </Right>
+      <Right id="790" name="MODF CUSTOS ESTRUTURAL">
+        <PublicRight val="N"/>
+        <Key val="C1856PEC54"/>
+      </Right>
+      <Right id="791" name="MOD ESTRATEGIA DE PRECO">
+        <PublicRight val="N"/>
+        <Key val="C2736MHT54"/>
+      </Right>
+      <Right id="792" name="MODF ESTRATEGIA DE PRECO">
+        <PublicRight val="N"/>
+        <Key val="C2509KJH54"/>
+      </Right>
+      <Right id="793" name="MOD GESTAO DE RESULTADOS">
+        <PublicRight val="N"/>
+        <Key val="C3736MHT54"/>
+      </Right>
+      <Right id="794" name="MODF GESTAO DE RESULTADOS">
+        <PublicRight val="N"/>
+        <Key val="C3812WSX54"/>
+      </Right>
+      <Right id="795" name="MOD ESCRITA FISCAL">
+        <PublicRight val="N"/>
+        <Key val="LF159LKJ21"/>
+      </Right>
+      <Right id="796" name="MODF ESCRITA FISCAL">
+        <PublicRight val="N"/>
+        <Key val="LF398ERT21"/>
+      </Right>
+      <Right id="797" name="MOD PCP CONTROLE">
+        <PublicRight val="N"/>
+        <Key val="PC345POI32"/>
+      </Right>
+      <Right id="798" name="MODF PCP CONTROLE">
+        <PublicRight val="N"/>
+        <Key val="PC349WDS32"/>
+      </Right>
+      <Right id="799" name="MOD PCP ENGENHARIA">
+        <PublicRight val="N"/>
+        <Key val="PE243PIU32"/>
+      </Right>
+      <Right id="800" name="MODF PCP ENGENHARIA">
+        <PublicRight val="N"/>
+        <Key val="PE429TYH32"/>
+      </Right>
+      <Right id="801" name="MOD PCP PLANEJAMENTO">
+        <PublicRight val="N"/>
+        <Key val="PP923PRN32"/>
+      </Right>
+      <Right id="802" name="MODF PCP PLANEJAMENTO">
+        <PublicRight val="N"/>
+        <Key val="PP437GFD32"/>
+      </Right>
+      <Right id="803" name="MOD CONFIGURADOR DE PRODUTOS">
+        <PublicRight val="N"/>
+        <Key val="CP345POI32"/>
+      </Right>
+      <Right id="804" name="MODF CONFIGURADOR DE PRODUTOS">
+        <PublicRight val="N"/>
+        <Key val="CP761EDC32"/>
+      </Right>
+      <Right id="805" name="MOD COMPOSICAO">
+        <PublicRight val="N"/>
+        <Key val="CS654TIU32"/>
+      </Right>
+      <Right id="806" name="MODF COMPOSICAO">
+        <PublicRight val="N"/>
+        <Key val="CS629TGI32"/>
+      </Right>
+      <Right id="807" name="MOD ORCAMENTO">
+        <PublicRight val="N"/>
+        <Key val="OR781GFD54"/>
+      </Right>
+      <Right id="808" name="MODF ORCAMENTO">
+        <PublicRight val="N"/>
+        <Key val="OR074PAS54"/>
+      </Right>
+      <Right id="809" name="MOD DIRF">
+        <PublicRight val="N"/>
+        <Key val="DI642REW65"/>
+      </Right>
+      <Right id="810" name="MODF DIRF">
+        <PublicRight val="N"/>
+        <Key val="DI827FYN65"/>
+      </Right>
+      <Right id="811" name="MOD VEICULOS">
+        <PublicRight val="N"/>
+        <Key val="VE196JUJ76"/>
+      </Right>
+      <Right id="812" name="MODF VEICULOS">
+        <PublicRight val="N"/>
+        <Key val="VE436BUB76"/>
+      </Right>
+      <Right id="813" name="MOD TRANSPORTES">
+        <PublicRight val="N"/>
+        <Key val="TR252CXZ43"/>
+      </Right>
+      <Right id="814" name="MODF TRANSPORTES">
+        <PublicRight val="N"/>
+        <Key val="TR708EMN43"/>
+      </Right>
+      <Right id="815" name="MOD GESTAO SERVICOS">
+        <PublicRight val="N"/>
+        <Key val="GM648MOT87"/>
+      </Right>
+      <Right id="816" name="MODF GESTAO SERVICOS">
+        <PublicRight val="N"/>
+        <Key val="GM226OUR87"/>
+      </Right>
+      <Right id="817" name="MOD CONTRATOS">
+        <PublicRight val="N"/>
+        <Key val="CT591ASD98"/>
+      </Right>
+      <Right id="818" name="MODF CONTRATOS">
+        <PublicRight val="N"/>
+        <Key val="CT425ZXC98"/>
+      </Right>
+      <Right id="819" name="MOD COMERCIO EXTERIOR">
+        <PublicRight val="N"/>
+        <Key val="CE389OIU09"/>
+      </Right>
+      <Right id="820" name="MODF COMERCIO EXTERIOR">
+        <PublicRight val="N"/>
+        <Key val="CE233GRT09"/>
+      </Right>
+      <Right id="821" name="MOD EXPEDICAO">
+        <PublicRight val="N"/>
+        <Key val="EX785WFC01"/>
+      </Right>
+      <Right id="822" name="MODF EXPEDICAO">
+        <PublicRight val="N"/>
+        <Key val="EX587WQA01"/>
+      </Right>
+      <Right id="823" name="MOD ENGENHARIA">
+        <PublicRight val="N"/>
+        <Key val="EN667XLP45"/>
+      </Right>
+      <Right id="824" name="MODF ENGENHARIA">
+        <PublicRight val="N"/>
+        <Key val="EN666HYU45"/>
+      </Right>
+      <Right id="825" name="MOD CONTROLE PROD PROCESSOS">
+        <PublicRight val="N"/>
+        <Key val="PP836JVC69"/>
+      </Right>
+      <Right id="826" name="MODF CONTROLE PROD PROCESSOS">
+        <PublicRight val="N"/>
+        <Key val="PP686VBN69"/>
+      </Right>
+      <Right id="827" name="DESENV CIGAM - QWER4563S">
+        <PublicRight val="N"/>
+        <Key val="QWER4563S"/>
+      </Right>
+      <Right id="828" name="PARCEIRO - CVB7E567G">
+        <PublicRight val="N"/>
+        <Key val="CVB7E567G"/>
+      </Right>
+      <Right id="829" name="EXCLUSIVO4 - VOLVO">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO4"/>
+      </Right>
+      <Right id="830" name="EXCLUSIVO1 - REICHERT">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO1"/>
+      </Right>
+      <Right id="831" name="rrv.5">
+        <PublicRight val="N"/>
+        <Key val="rrv.5"/>
+      </Right>
+      <Right id="832" name="PROTECAO ABYZ - 34ERT64F4">
+        <PublicRight val="N"/>
+        <Key val="34ERT64F4"/>
+      </Right>
+      <Right id="833" name="EXCLUSIVO3 - WANDA">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO3"/>
+      </Right>
+      <Right id="834" name="MOD PEDIDOS ASP">
+        <PublicRight val="N"/>
+        <Key val="FA473MEM13"/>
+      </Right>
+      <Right id="835" name="MODF PEDIDOS ASP">
+        <PublicRight val="N"/>
+        <Key val="FA755TAM13"/>
+      </Right>
+      <Right id="836" name="MOD CONTROLE VIAGEM">
+        <PublicRight val="N"/>
+        <Key val="CV423GOU81"/>
+      </Right>
+      <Right id="837" name="MODF CONTROLE VIAGEM">
+        <PublicRight val="N"/>
+        <Key val="CV514WXL81"/>
+      </Right>
+      <Right id="838" name="FZPOKTY8UA">
+        <PublicRight val="N"/>
+        <Key val="FZPOKTY8UA"/>
+      </Right>
+      <Right id="839" name="T24XSTQ59Z">
+        <PublicRight val="N"/>
+        <Key val="T24XSTQ59Z"/>
+      </Right>
+      <Right id="840" name="F3XUQ239IW">
+        <PublicRight val="N"/>
+        <Key val="F3XUQ239IW"/>
+      </Right>
+      <Right id="841" name="FRQ2CT9MYE">
+        <PublicRight val="N"/>
+        <Key val="FRQ2CT9MYE"/>
+      </Right>
+      <Right id="842" name="FPPRW8D5AX">
+        <PublicRight val="N"/>
+        <Key val="FPPRW8D5AX"/>
+      </Right>
+      <Right id="843" name="FAH2JRE9V5">
+        <PublicRight val="N"/>
+        <Key val="FAH2JRE9V5"/>
+      </Right>
+      <Right id="844" name="FO9S2HFPYG">
+        <PublicRight val="N"/>
+        <Key val="FO9S2HFPYG"/>
+      </Right>
+      <Right id="845" name="FEPKI8VX2D">
+        <PublicRight val="N"/>
+        <Key val="FEPKI8VX2D"/>
+      </Right>
+      <Right id="846" name="FV2LWE3JKU">
+        <PublicRight val="N"/>
+        <Key val="FV2LWE3JKU"/>
+      </Right>
+      <Right id="847" name="PR3TLIYE8Q">
+        <PublicRight val="N"/>
+        <Key val="PR3TLIYE8Q"/>
+      </Right>
+      <Right id="848" name="PPHF6FSV9J">
+        <PublicRight val="N"/>
+        <Key val="PPHF6FSV9J"/>
+      </Right>
+      <Right id="849" name="PA2R9VNG23">
+        <PublicRight val="N"/>
+        <Key val="PA2R9VNG23"/>
+      </Right>
+      <Right id="850" name="POSHPYG79T">
+        <PublicRight val="N"/>
+        <Key val="POSHPYG79T"/>
+      </Right>
+      <Right id="851" name="PE1KV2X9QR">
+        <PublicRight val="N"/>
+        <Key val="PE1KV2X9QR"/>
+      </Right>
+      <Right id="852" name="PV3WJU8KS2">
+        <PublicRight val="N"/>
+        <Key val="PV3WJU8KS2"/>
+      </Right>
+      <Right id="853" name="P4STHY19JC">
+        <PublicRight val="N"/>
+        <Key val="P4STHY19JC"/>
+      </Right>
+      <Right id="854" name="GERAL - S4SCDS5AS37G4S">
+        <PublicRight val="N"/>
+        <Key val="982RCG3M4B"/>
+      </Right>
+      <Right id="855" name="ABNVSDQ6YR">
+        <PublicRight val="N"/>
+        <Key val="ABNVSDQ6YR"/>
+      </Right>
+      <Right id="856" name="VAGNER -  ASX75S8V4DABNV3WRXW9">
+        <PublicRight val="N"/>
+        <Key val="GNNV3WRXW2"/>
+      </Right>
+      <Right id="857" name="FATURAMENTO - AC4ASD56SDAFDG4">
+        <PublicRight val="N"/>
+        <Key val="DF456FDG4"/>
+      </Right>
+      <Right id="858" name="FINANCEIRO - A2ASDJ45ASDAZX4D">
+        <PublicRight val="N"/>
+        <Key val="ASLKJ454D"/>
+      </Right>
+      <Right id="859" name="BLOQUEIA CAMPOS REPRESENTANTES">
+        <PublicRight val="N"/>
+        <Key val="QYNV3AC8HP"/>
+      </Right>
+      <Right id="860" name="R7NVXDRE6F">
+        <PublicRight val="N"/>
+        <Key val="R7NVXDRE6F"/>
+      </Right>
+      <Right id="861" name="S6NVGHSNLT">
+        <PublicRight val="N"/>
+        <Key val="S6NVGHSNLT"/>
+      </Right>
+      <Right id="862" name="EXCLUSIVO2 - REIFER">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO2"/>
+      </Right>
+      <Right id="863" name="EXCLUSIVO5 - FORTIK">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO5"/>
+      </Right>
+      <Right id="864" name="EXCLUSIVO6 - BEBECE">
+        <PublicRight val="N"/>
+        <Key val="EXCLUSIVO6"/>
+      </Right>
+      <Right id="865" name="PROGRAMA OBSOLETO">
+        <PublicRight val="N"/>
+        <Key val="PCE8RIETR"/>
+      </Right>
+      <Right id="866" name="FCE843R2U">
+        <PublicRight val="N"/>
+        <Key val="FCE843R2U"/>
+      </Right>
+      <Right id="867" name="COMEXT - DFR34HKJ3">
+        <PublicRight val="N"/>
+        <Key val="DFR34HKJ3"/>
+      </Right>
+      <Right id="868" name="PARCEIRO SELLPRO - PLR983M5EP">
+        <PublicRight val="N"/>
+        <Key val="PLR983M5EP"/>
+      </Right>
+      <Right id="869" name="FLR3A4E51P">
+        <PublicRight val="N"/>
+        <Key val="FLR3A4E51P"/>
+      </Right>
+      <Right id="870" name="VOGEL - WEDDF4TFUJ76CBN66JJ7">
+        <PublicRight val="N"/>
+        <Key val="PHLP45T301"/>
+      </Right>
+      <Right id="871" name="MARCOS -  ASD3DFTR45YGH6J77K">
+        <PublicRight val="N"/>
+        <Key val="FHLP8W1420"/>
+      </Right>
+      <Right id="872" name="ROBERTO - ASDPRVM5YW3R1R4SDC">
+        <PublicRight val="N"/>
+        <Key val="PRVM5YW3R2"/>
+      </Right>
+      <Right id="873" name="COMPRAS - S3DD5GH76AS3DT65THH6">
+        <PublicRight val="N"/>
+        <Key val="YUI65XV56"/>
+      </Right>
+      <Right id="874" name="MAURICIO - EDFF4FASASDCXZ4GFVB">
+        <PublicRight val="N"/>
+        <Key val="RED24DDFS"/>
+      </Right>
+      <Right id="875" name="PETRY - ASD23EFDASR4VDFSDFDS">
+        <PublicRight val="N"/>
+        <Key val="32DEJE78O"/>
+      </Right>
+      <Right id="876" name="ROGERIO - ASDASCXZC4SDFSD4SDF">
+        <PublicRight val="N"/>
+        <Key val="56DFSJNF4"/>
+      </Right>
+      <Right id="877" name="CRISTINA - ASDSAD3GFTDFSG55T">
+        <PublicRight val="N"/>
+        <Key val="NRE45ET5D"/>
+      </Right>
+      <Right id="878" name="ANTONIO - ADSA34FRW5G56RGHTR">
+        <PublicRight val="N"/>
+        <Key val="FJE5645DL"/>
+      </Right>
+      <Right id="879" name="ROBINSON - ASDAD3CFDFVBB6R6">
+        <PublicRight val="N"/>
+        <Key val="4UIS3490P"/>
+      </Right>
+      <Right id="880" name="CESAR_HENKEL - SKFDJGH92304NKL">
+        <PublicRight val="N"/>
+        <Key val="TE191SCDT"/>
+      </Right>
+      <Right id="881" name="EMILI - SAD23CFDVCVB6UVNJNVH">
+        <PublicRight val="N"/>
+        <Key val="7HGF76GF8"/>
+      </Right>
+      <Right id="882" name="DIONATAS - MNBMN567FGHZXCS45QA">
+        <PublicRight val="N"/>
+        <Key val="ZNS9D4NGNW"/>
+      </Right>
+      <Right id="883" name="ANDRE - FGDGJHGJT78CDHSFG4B">
+        <PublicRight val="N"/>
+        <Key val="398DFJWED"/>
+      </Right>
+      <Right id="884" name="LEONARDO - BZXCV4RTDRVGH7TGJHT">
+        <PublicRight val="N"/>
+        <Key val="REWR4334E"/>
+      </Right>
+      <Right id="885" name="CAMILA - ASD34FVXCVRE65HCT5">
+        <PublicRight val="N"/>
+        <Key val="234DFHUNZ"/>
+      </Right>
+      <Right id="886" name="RODRIGO - ZCZCQVCVCXT5XBXBYY">
+        <PublicRight val="N"/>
+        <Key val="MK34JJ54M"/>
+      </Right>
+      <Right id="887" name="FILES - ZXCZXC34354465VBCBV67N">
+        <PublicRight val="N"/>
+        <Key val="ASSDA332D"/>
+      </Right>
+      <Right id="888" name="ROBERSON - BMNBMBSDADQ3QDFZZ">
+        <PublicRight val="N"/>
+        <Key val="867DFTD4F"/>
+      </Right>
+      <Right id="889" name="LEANDRO - XCBVCBR675465E65653">
+        <PublicRight val="N"/>
+        <Key val="DF7568DQW"/>
+      </Right>
+      <Right id="890" name="PROGRAMAS QUERY - VBC3Q4RDFFAB">
+        <PublicRight val="N"/>
+        <Key val="KW2CT5VFCV"/>
+      </Right>
+      <Right id="891" name="SUPERVISOR - AZGVCTVC4RNCVBHYS">
+        <PublicRight val="N"/>
+        <Key val="GETTOPFIVE"/>
+      </Right>
+      <Right id="892" name="REGIME ESPECIAL">
+        <PublicRight val="N"/>
+        <Key val="2389USADND"/>
+      </Right>
+      <Right id="893" name="FABIANO - ZOPIOULKQWQXZCMBNM">
+        <PublicRight val="N"/>
+        <Key val="KJS57ERWXS"/>
+      </Right>
+      <Right id="894" name="THOMAS - YTELZASWE23ER4FRSZ">
+        <PublicRight val="N"/>
+        <Key val="LMGERV48XC"/>
+      </Right>
+      <Right id="895" name="TESTE SUPORTE - VSR45DFX49AAW5">
+        <PublicRight val="N"/>
+        <Key val="L12379UTRE"/>
+      </Right>
+      <Right id="896" name="EQUIPE - FINANCEIRA - US231ZZS">
+        <PublicRight val="N"/>
+        <Key val="EQFLMSD61M"/>
+      </Right>
+      <Right id="897" name="EQUIPE - FISCAL - JFGHFHRZR3QW">
+        <PublicRight val="N"/>
+        <Key val="EQLGCSB49H"/>
+      </Right>
+      <Right id="898" name="EQUIPE - ESTOQUE - ASDXCXNMCC5">
+        <PublicRight val="N"/>
+        <Key val="EQENXYT43J"/>
+      </Right>
+      <Right id="899" name="EQUIPE - PCP - AERTSDQ2D5G3">
+        <PublicRight val="N"/>
+        <Key val="EQPNCAV89M"/>
+      </Right>
+      <Right id="900" name="EQUIPE - INFRA - KHGHJHFGHFGF">
+        <PublicRight val="N"/>
+        <Key val="EQINVGT29U"/>
+      </Right>
+    </Rights>
+  </RightsRepository>
+
+</Application>

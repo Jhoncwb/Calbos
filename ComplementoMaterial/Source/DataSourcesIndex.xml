@@ -1,0 +1,34 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="12"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="LC_COMP_MATERIAL" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_COMP_MATERIAL" offset="214" length="10234"/> 
+<DataObject PhysicalName="LC_MATERIAL_CAD_ATRIBUTO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="LC_MATERIAL_CAD_ATRIBUTO" offset="10449" length="1567"/> 
+<DataObject PhysicalName="LC_MATERIAL_ATRIBUTO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="LC_MATERIAL_ATRIBUTO" offset="12017" length="2797"/> 
+<DataObject PhysicalName="LC_MATERIAL_ARQUIVO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="4" name="LC_MATERIAL_ARQUIVO" offset="14815" length="10678"/> 
+<DataObject PhysicalName="LC_MATERIAL_TIPO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="5" name="LC_MATERIAL_TIPO" offset="25494" length="2062"/> 
+<DataObject PhysicalName="LC_ESPECIF_TECNICAS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" name="LC_ESPECIF_TECNICAS" offset="27557" length="3577"/> 
+<DataObject PhysicalName="LC_TIPO_ESPECIF_TECNICAS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="LC_TIPO_ESPECIF_TECNICAS" offset="31135" length="2310"/> 
+<DataObject PhysicalName="LC_MATERIAL_EAN_DUM_LOG" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" name="LC_MATERIAL_EAN_DUM_LOG" offset="33446" length="3596"/> 
+<DataObject PhysicalName="LC_ENG_EXPLODIDO_TMP_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="9" name="LC_ENG_EXPLODIDO_TMP_%USUARIO%" offset="37043" length="75499"/> 
+<DataObject PhysicalName="TMP_CRIA_ARTE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="10" name="TMP_CRIA_ARTE_%USUARIO%" offset="112543" length="3209"/> 
+<DataObject PhysicalName="LC_MATERIAL_CA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="11" name="LC_MATERIAL_CA" offset="115753" length="2428"/> 
+<DataObject PhysicalName="LC_TEMP_AUX_ARTE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" name="LC_TEMP_AUX_ARTE" offset="118182" length="3452"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31049069136982878"/>  </Application>

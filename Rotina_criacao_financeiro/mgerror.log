@@ -1,0 +1,7 @@
+﻿ <375538824756527104> 27/04/2020 14:52:33.815     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <375538824756527104> 27/04/2020 14:52:34.508     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <375538824756527104> 27/04/2020 14:52:35.068     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <199581099417748928> 27/04/2020 14:55:05.348     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <199581099417748928> 27/04/2020 14:55:10.308     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <150747734880791200> 27/04/2020 14:55:53.116     [Error  ] - Duplicate index, data source: LC_TEMP_PEDIDO, program: Cria Lançamento.Pedido Temp
+ <415993463080812288> 12/08/2022 17:43:14.055     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".

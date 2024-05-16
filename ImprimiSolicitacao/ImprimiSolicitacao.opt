@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <DebugMode Val="Y"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <Breakpoints>
+    <DelAll/>
+    <Breakpoint>
+      <Condition Val="Email"/>
+      <Location Val="B_Imprimir.Loop cotação.Busca Email unidade"/>
+      <HandlerId Val="2"/>
+      <OperationId Val="3"/>
+      <LineIndex Val="2"/>
+      <HandlerDesc Val=""/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="1800763851"/>
+      <Component2 Val="17317"/>
+      <Component3 Val="20241"/>
+      <Component4 Val="2072309180"/>
+      <Component5 Val="773604313"/>
+      <Prog Val="3"/>
+      <Subtask Val="11"/>
+      <Type Val="2"/>
+      <Var Val="1"/>
+    </Breakpoint>
+    <Breakpoint>
+      <Condition Val="Texto"/>
+      <Location Val="B_Imprimir.Loop cotação.Busca Texto email"/>
+      <HandlerId Val="2"/>
+      <OperationId Val="3"/>
+      <LineIndex Val="2"/>
+      <HandlerDesc Val=""/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="1800763851"/>
+      <Component2 Val="17317"/>
+      <Component3 Val="20241"/>
+      <Component4 Val="2072309180"/>
+      <Component5 Val="773604313"/>
+      <Prog Val="3"/>
+      <Subtask Val="9"/>
+      <Type Val="2"/>
+      <Var Val="1"/>
+    </Breakpoint>
+  </Breakpoints>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+</Application>

@@ -1,0 +1,12 @@
+Import warnings from file: C:\CIGAM\Temp\Project.xml (02/07/20 09:53:38)
+========================================================================
+
+
+Converting project  (05/11/20 11:27:09)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+General - General (5) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (5) - Info - 2 - Style and Border of the controls were changed.
+General - Components (2) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (2) - Info - 74 - New transaction message was added.
+General - color 340 instead of 10000- Info - 54 - New color was assigned to the control.

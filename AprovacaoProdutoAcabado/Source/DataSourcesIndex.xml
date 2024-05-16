@@ -1,0 +1,25 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="3"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="LC_APROVACAO_PA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_APROVACAO_PA" offset="213" length="6176"/> 
+<DataObject PhysicalName="LC_APROVACAO_PA_LAUDO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="2" name="LC_APROVACAO_PA_LAUDO" offset="6390" length="3248"/> 
+<DataObject PhysicalName="LC_LISTA_SA_COM_APROVACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="LC_LISTA_SA_COM_APROVACAO" offset="9639" length="1572"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31088892101556741"/>  </Application>

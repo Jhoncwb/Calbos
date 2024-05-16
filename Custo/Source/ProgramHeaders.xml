@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737552" _time="53653" date="07/05/2020" time="14:54:13"/>
+      </Header>
+      <SourceFileTimeStamp _date="737734" _time="58254" date="05/11/2020" time="16:10:54"/>
+    </Program>
+    <Program>
+      <Header Description="Gestão de custo" ISN_2="1" LastIsn="2" id="5">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="Y"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738993" _time="34313" date="17/04/2024" time="09:31:53"/>
+      </Header>
+      <SourceFileTimeStamp _date="738993" _time="45113" date="17/04/2024" time="12:31:53"/>
+    </Program>
+    <Program>
+      <Header Description="Cadastro de mão de obra" ISN_2="1" LastIsn="1" id="6">
+        <Public val="LC092"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="1"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737572" _time="63192" date="27/05/2020" time="17:33:12"/>
+      </Header>
+      <SourceFileTimeStamp _date="737734" _time="58254" date="05/11/2020" time="16:10:54"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

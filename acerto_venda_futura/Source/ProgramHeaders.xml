@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738902" _time="54333" date="17/01/2024" time="15:05:33"/>
+      </Header>
+      <SourceFileTimeStamp _date="738902" _time="65133" date="17/01/2024" time="18:05:33"/>
+    </Program>
+    <Program>
+      <Header Description="Cria acerto de remessa" ISN_2="1" LastIsn="3" id="2">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738903" _time="51296" date="18/01/2024" time="14:14:56"/>
+      </Header>
+      <SourceFileTimeStamp _date="738903" _time="62096" date="18/01/2024" time="17:14:56"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

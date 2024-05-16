@@ -1,0 +1,18 @@
+       // Magic ECI Generator                                          //
+       // Created by   :----No User logged in----         //
+       // Created Date :18/05/2021 Time :14:04:45              //
+       // File Name    :c:\Magic xpi 4.0\User Resources\Components\TrayPedido\TrayPedido.eci         //
+COMPID = N04457160493499
+NAME = "TrayPedido"
+DESC = "TrayPedido"
+COMPTYPE = "eDeveloper"
+IMMED = "N"
+PROJECTFILE = "TrayPedido"
+CABINETFILE = "c:\Magic xpi 4.0\User Resources\Components\TrayPedido\TrayPedido.ecf"
+VRSN = 1.2
+HLPFILE = ""
+HLPKEY = ""
+
+PRG=PUBLIC="CriaPedido" RMK="" HELPKEY=""
+
+[ENVIRONMENT]

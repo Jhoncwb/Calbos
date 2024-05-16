@@ -1,0 +1,19 @@
+﻿ <551275884049334016> 26/02/2021 09:14:17.916     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:18.884     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:19.625     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:20.480     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:21.947     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:23.282     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:24.702     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:25.410     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:27.491     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:28.972     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:31.074     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:32.575     [Error  ] - Waiting for locked row, data source: COIORDEM, program: Ajusta OC
+ <551275884049334016> 26/02/2021 09:14:43.534     [Error  ] - Update operation failed, data source: COIORDEM, program: Ajusta OC
+ <-1> 14/09/2021 17:27:10.895     [Error  ] - Error: "Cannot connect to the middleware" (-150)
+ <-1> 14/09/2021 17:27:10.903     [Error  ] - Could not find the broker. Runtime engine cannot run as a server.
+ <-1> 14/09/2021 17:29:16.293     [Error  ] - Error: "Cannot connect to the middleware" (-150)
+ <-1> 14/09/2021 17:29:16.308     [Error  ] - Could not find the broker. Runtime engine cannot run as a server.
+ <-1> 26/11/2021 17:02:37.957     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 26/11/2021 17:03:05.757     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

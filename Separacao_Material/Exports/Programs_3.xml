@@ -1,0 +1,2743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <APPLICATION val="N"/>
+    <WithIsn val="N"/>
+    <WITH_MODELS val="N"/>
+    <MAIN_PRG_VARS val="0"/>
+    <MAIN_PRG_DSPS val="1"/>
+    <Arguments END="3" START="3"/>
+  </Header>
+
+
+
+<ProgramsRepository>
+<Programs>
+
+<Task MainProgram="N">
+
+  <Header Description="Cria Movimento">
+    <Public val="LC001"/>
+    <ExecutionRight/>
+    <Resident val="N"/>
+    <SQL val="N"/>
+    <ReturnValue>
+      <ReturnValueAttr/>
+      <TSK_PARAMS val="12"/>
+      <ParametersAttributes>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="N"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="A"/>
+        <Attr MgAttr="N"/>
+        <Attr MgAttr="N"/>
+      </ParametersAttributes>
+    </ReturnValue>
+    <SqlWhereExist val="N"/>
+    <TaskType val="B"/>
+    <External val="N"/>
+    <Offline val="N"/>
+    <FormType val="N"/>
+    <DotNetObjectExists val="N"/>
+    <LastModified _date="738372" _time="37134" date="05/08/2022" time="10:18:54"/>
+  </Header>
+
+  <Resource>
+    <DB>
+      <DataObject comp="1" obj="9"/>
+      <Access val="R"/>
+      <Share val="W"/>
+      <Open val="N"/>
+      <Cache val="N"/>
+      <IdentifyRowModifications val="84"/>
+    </DB>
+    <DB>
+      <DataObject comp="1" obj="12"/>
+      <Access val="R"/>
+      <Share val="W"/>
+      <Open val="N"/>
+      <Cache val="N"/>
+      <IdentifyRowModifications val="84"/>
+    </DB>
+    <DB>
+      <DataObject comp="1" obj="104"/>
+      <Access val="R"/>
+      <Share val="W"/>
+      <Open val="N"/>
+      <Cache val="N"/>
+      <IdentifyRowModifications val="84"/>
+    </DB>
+    <DB>
+      <DataObject comp="1" obj="134"/>
+      <Access val="R"/>
+      <Share val="W"/>
+      <Open val="N"/>
+      <Cache val="N"/>
+      <IdentifyRowModifications val="84"/>
+    </DB>
+    <DB>
+      <DataObject comp="1" obj="382"/>
+      <Access val="R"/>
+      <Share val="W"/>
+      <Open val="N"/>
+      <Cache val="N"/>
+      <IdentifyRowModifications val="84"/>
+    </DB>
+    <Columns>
+      <Column id="1" name="P_Unidade Negocio">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="391"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="2" name="P_Empresa">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="17"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="3" name="P_C.A.">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="313"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="4" name="P_C.A. correlacionado">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="313"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="5" name="P_Codigo Material">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="39"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="6" name="P_Lote">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="400"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="7" name="P_Quantidade">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="44"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="8" name="P_Tipo Operacao">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="74"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="9" name="P_Descrição">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Picture id="157" valUnicode="200"/>
+          <StoredAs id="173" val="1"/>
+          <Size id="174" val="200"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Column>
+      <Column id="10" name="P_Tipo Documento">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="71"/>
+          <StoredAs id="173" val="1"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="11" name="P_OP">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_NUMERIC" id="1"/>
+          <Picture id="157" valUnicode="11"/>
+          <_Dec id="181"/>
+          <_Whole id="182" val="11"/>
+          <_Negative id="192"/>
+          <_FieldStyle id="276" val="1"/>
+        </PropertyList>
+      </Column>
+      <Column id="14" name="R_Movimento">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="36"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="12" name="Movimento">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_NUMERIC" comp="1" id="1" obj="36"/>
+          <DbColumnName id="178"/>
+          <Type id="179"/>
+          <UserType id="180"/>
+        </PropertyList>
+      </Column>
+      <Column id="13" name="erro">
+        <PropertyList model="FIELD">
+          <Model attr_obj="FIELD_ALPHA" id="1"/>
+          <Picture id="157" valUnicode="2000"/>
+          <StoredAs id="173" val="1"/>
+          <Size id="174" val="2000"/>
+          <_Flip id="194"/>
+        </PropertyList>
+      </Column>
+    </Columns>
+  </Resource>
+
+  <Information>
+    <Key>
+      <Mode val="N"/>
+    </Key>
+    <DB/>
+    <Sort>
+      <CLS val="A"/>
+    </Sort>
+    <ForceRecordDelete DEL="N"/>
+    <EndTaskCondition val="Y"/>
+    <EvaluateEndCondition val="A"/>
+    <InitialMode val="M"/>
+    <Locate Direction="A"/>
+    <Range Direction="A"/>
+    <TaskProperties>
+      <SelectionTable val="N"/>
+      <ConfirmUpdate CNFU="N"/>
+      <ConfirmCancel val="N"/>
+      <ErrorStrategy val="R"/>
+      <LockingStrategy val="M"/>
+      <CacheStrategy val="T"/>
+      <ForceRecordSuffix val="N"/>
+      <TransactionMode val="P"/>
+      <TransactionBegin val="N"/>
+      <PreloadView val="N"/>
+      <AllowEmptyDataview val="N"/>
+      <KeepCreatedContext val="N"/>
+    </TaskProperties>
+    <SIDE_WIN>
+      <AllowOptions val="N"/>
+      <AllowQuery val="Y"/>
+      <AllowModify val="Y"/>
+      <AllowCreate val="Y"/>
+      <AllowDelete val="Y"/>
+      <AllowLocate val="Y"/>
+      <AllowRange val="Y"/>
+      <AllowIndexChange val="Y"/>
+      <AllowSorting val="Y"/>
+      <AllowIOFiles val="Y"/>
+      <RecordCycle val="Y"/>
+      <AllowEvents val="Y"/>
+      <AllowIndexOptimization val="Y"/>
+      <AllowLocationInQuery val="Y"/>
+      <AllowPrintingData val="N"/>
+    </SIDE_WIN>
+    <WIN>
+      <OpenTaskWindow val="N"/>
+      <CloseTaskWindow val="Y"/>
+      <ForegroundWindow val="Y"/>
+      <FlipFld val="N"/>
+      <RefreshTaskWindow ReturnValue="N"/>
+    </WIN>
+    <BOX>
+      <Direction val="V"/>
+    </BOX>
+  </Information>
+
+  <INT_CMP_LIST_INFO>
+    <v>4</v>
+    <v>1</v>
+  </INT_CMP_LIST_INFO>
+
+  <TaskLogic>
+    <LogicUnit propagate="78">
+      <Level val="R"/>
+      <Type val="M"/>
+      <Scope val="S"/>
+      <EngineDirective val="S"/>
+      <ShowMessage val="Y"/>
+      <Condition val="89"/>
+      <_TotalVariabls val="37"/>
+      <_TotalVirtuals val="14"/>
+      <Event>
+        <EventType val="S"/>
+        <PublicObject comp="-1"/>
+      </Event>
+      <LogicLines>
+        <LogicLine>
+          <DATAVIEW_SRC Type="M">
+            <Condition val="N"/>
+            <Modifier val="B"/>
+            <Direction val="C"/>
+          </DATAVIEW_SRC>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="A">
+            <Column val="1"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <INT_RCMP_INFO>
+              <v>47</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="B">
+            <Column val="2"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="C">
+            <Column val="3"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <INT_RCMP_INFO>
+              <v>47</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="D">
+            <Column val="4"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="E">
+            <Column val="5"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <INT_RCMP_INFO>
+              <v>32</v>
+              <v>38</v>
+              <v>47</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="F">
+            <Column val="6"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <INT_RCMP_INFO>
+              <v>47</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="G">
+            <Column val="7"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="H">
+            <Column val="8"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <INT_RCMP_INFO>
+              <v>18</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="I">
+            <Column val="9"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="J">
+            <Column val="10"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="K">
+            <Column val="11"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="L">
+            <Column val="12"/>
+            <Type val="V"/>
+            <IsParameter val="Y"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="M">
+            <Column val="13"/>
+            <Type val="V"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <PartOfDataview val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="N">
+            <Column val="14"/>
+            <Type val="V"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="24" VIEW="15" VIEWS="5">
+            <DB comp="1" obj="12"/>
+            <Expanded val="1"/>
+            <Condition val="Y"/>
+          </LNK>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="O">
+            <Column val="1"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="12" MIN="12"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="P">
+            <Column val="3"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="Q">
+            <Column val="25"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <INT_RCMP_INFO>
+              <v>26</v>
+            </INT_RCMP_INFO>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="R">
+            <Column val="43"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="S">
+            <Column val="83"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <END_LINK/>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="30" VIEW="20" VIEWS="3">
+            <DB comp="1" obj="382"/>
+            <Expanded val="1"/>
+            <Condition val="Y"/>
+          </LNK>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="T">
+            <Column val="1"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="11" MIN="11"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="U">
+            <Column val="3"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="V">
+            <Column val="5"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <END_LINK/>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="36" VIEW="23" VIEWS="3">
+            <DB comp="1" obj="104"/>
+            <Expanded val="1"/>
+            <Condition val="Y"/>
+          </LNK>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="W">
+            <Column val="1"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="13" MIN="13"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="X">
+            <Column val="3"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="10" MIN="10"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="Y">
+            <Column val="10"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <END_LINK/>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="45" VIEW="26" VIEWS="6">
+            <DB comp="1" obj="9"/>
+            <Expanded val="1"/>
+            <Condition val="Y"/>
+          </LNK>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="Z">
+            <Column val="3"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="9" MIN="9"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BA">
+            <Column val="61"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BB">
+            <Column val="18"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BC">
+            <Column val="28"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <REAL_VNAME_TXT val="NCM"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BD">
+            <Column val="6"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BE">
+            <Column val="85"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <END_LINK/>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+        <LogicLine>
+          <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="54" VIEW="32" VIEWS="6">
+            <DB comp="1" obj="134"/>
+            <Expanded val="1"/>
+            <Condition val="Y"/>
+          </LNK>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BF">
+            <Column val="14"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="7" MIN="7"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BG">
+            <Column val="3"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="6" MIN="6"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BH">
+            <Column val="1"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="5" MIN="5"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BI">
+            <Column val="26"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <Locate MAX="4" MIN="4"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BJ">
+            <Column val="44"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <Select Name="BK">
+            <Column val="21"/>
+            <Type val="R"/>
+            <IsParameter val="N"/>
+            <DIFF_UPDATE val="T"/>
+            <Condition val="N"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </Select>
+        </LogicLine>
+        <LogicLine>
+          <END_LINK/>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="0"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+      </LogicLines>
+    </LogicUnit>
+    <LogicUnit propagate="78">
+      <Level val="R"/>
+      <Type val="S"/>
+      <Scope val="S"/>
+      <EngineDirective val="S"/>
+      <ShowMessage val="Y"/>
+      <Condition val="89"/>
+      <Event>
+        <EventType val="S"/>
+        <PublicObject comp="-1"/>
+      </Event>
+      <Expanded val="1"/>
+      <LogicLines>
+        <LogicLine>
+          <CallTask>
+            <OperationType val="P"/>
+            <TaskID comp="4" obj="2414"/>
+            <Lock val="N"/>
+            <Arguments>
+              <Argument>
+                <Var val="M"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Var val="A"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Var val="H"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Expression val="14"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Var val="E"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="C"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="16"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="Y"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="B"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="J"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="17"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Expression val="3"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Expression val="14"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="D"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="A"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="17"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="15"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+            </Arguments>
+            <Wait val="Y"/>
+            <SyncData val="N"/>
+            <RetainFocus val="N"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </CallTask>
+        </LogicLine>
+        <LogicLine>
+          <CallTask>
+            <OperationType val="P"/>
+            <TaskID comp="4" obj="2415"/>
+            <Lock val="N"/>
+            <Arguments>
+              <Argument>
+                <Var val="M"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="F"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="16"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Var val="BK"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Var val="N"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Expression val="15"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Skip val="Y"/>
+              </Argument>
+              <Argument>
+                <Var val="BJ"/>
+                <Skip val="N"/>
+              </Argument>
+              <Argument>
+                <Expression val="15"/>
+                <Skip val="N"/>
+              </Argument>
+            </Arguments>
+            <Wait val="Y"/>
+            <SyncData val="N"/>
+            <RetainFocus val="N"/>
+            <Condition Exp="8"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </CallTask>
+        </LogicLine>
+        <LogicLine>
+          <CallTask>
+            <OperationType val="T"/>
+            <TaskID obj="1"/>
+            <Lock val="N"/>
+            <Wait val="Y"/>
+            <SyncData val="N"/>
+            <RetainFocus val="N"/>
+            <Condition Exp="1"/>
+            <Modifier val="B"/>
+            <Direction val="C"/>
+          </CallTask>
+        </LogicLine>
+        <LogicLine>
+          <Update>
+            <Variable val="L"/>
+            <WithValue val="2"/>
+            <Incremental val="N"/>
+            <ForcedUpdate val="Y"/>
+            <Condition val="Y"/>
+            <Modifier val="B"/>
+            <Direction val="C"/>
+          </Update>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="2"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+      </LogicLines>
+    </LogicUnit>
+    <LogicUnit propagate="78">
+      <Level val="T"/>
+      <Type val="S"/>
+      <Scope val="S"/>
+      <EngineDirective val="S"/>
+      <ShowMessage val="Y"/>
+      <Condition val="89"/>
+      <Event>
+        <EventType val="S"/>
+        <PublicObject comp="-1"/>
+      </Event>
+      <Expanded val="1"/>
+      <LogicLines>
+        <LogicLine>
+          <CallTask>
+            <OperationType val="T"/>
+            <TaskID obj="2"/>
+            <Lock val="N"/>
+            <Wait val="Y"/>
+            <SyncData val="N"/>
+            <RetainFocus val="N"/>
+            <Condition val="Y"/>
+            <Modifier val="S"/>
+            <Direction val="C"/>
+          </CallTask>
+        </LogicLine>
+        <LogicLine>
+          <Remark>
+            <Type val="2"/>
+            <Text val=" "/>
+          </Remark>
+        </LogicLine>
+      </LogicLines>
+    </LogicUnit>
+  </TaskLogic>
+
+  <TaskForms>
+    <FormEntry>
+      <PropertyList model="FORM_GUI0">
+        <_Comment id="218"/>
+        <FormName id="311" valUnicode="Cria Movimento"/>
+        <PersistentFormState id="493"/>
+      </PropertyList>
+    </FormEntry>
+  </TaskForms>
+
+  <Expressions>
+    <Expression>
+      <ExpSyntax val="J = 'OP' AND K &lt;> 0"/>
+      <ExpAttribute val="B"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="M"/>
+      <ExpAttribute val="N"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="TranslateNR('%USUARIO%')"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="F"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="E"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="C"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="A"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="Trim(BE) &lt;> ''"/>
+      <ExpAttribute val="B"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="E"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="E"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="Q"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="H"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="'ENTRE'"/>
+      <ExpAttribute val="A"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="Date()"/>
+      <ExpAttribute val="D"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="'TRUE'LOG"/>
+      <ExpAttribute val="B"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="G"/>
+      <ExpAttribute val="N"/>
+    </Expression>
+    <Expression>
+      <ExpSyntax val="Time()"/>
+      <ExpAttribute val="T"/>
+    </Expression>
+  </Expressions>
+
+  <Task MainProgram="N">
+    <Header Description="Cria MOVIMENTOS X OP">
+      <ExecutionRight/>
+      <Resident val="N"/>
+      <SQL val="N"/>
+      <ReturnValue>
+        <ReturnValueAttr/>
+        <ParametersAttributes/>
+      </ReturnValue>
+      <SqlWhereExist val="N"/>
+      <TaskType val="B"/>
+      <External val="N"/>
+      <FormType val="N"/>
+      <DotNetObjectExists val="N"/>
+      <LastModified _date="737630" _time="49808" date="24/07/2020" time="13:50:08"/>
+    </Header>
+    <Resource>
+      <DB>
+        <DataObject comp="1" obj="936"/>
+        <Access val="R"/>
+        <Share val="W"/>
+        <Open val="N"/>
+        <Cache val="N"/>
+        <IdentifyRowModifications val="84"/>
+      </DB>
+      <DB>
+        <DataObject comp="1" obj="953"/>
+        <Access val="W"/>
+        <Share val="W"/>
+        <Open val="N"/>
+        <Cache val="N"/>
+        <IdentifyRowModifications val="84"/>
+      </DB>
+      <Columns/>
+    </Resource>
+    <Information>
+      <Key>
+        <Column val="1"/>
+        <Mode val="N"/>
+      </Key>
+      <DB comp="1" obj="953"/>
+      <Sort>
+        <CLS val="A"/>
+      </Sort>
+      <ForceRecordDelete DEL="N"/>
+      <EndTaskCondition val="Y"/>
+      <EvaluateEndCondition val="A"/>
+      <InitialMode val="C"/>
+      <Locate Direction="A"/>
+      <Range Direction="A"/>
+      <TaskProperties>
+        <SelectionTable val="N"/>
+        <ConfirmUpdate CNFU="N"/>
+        <ConfirmCancel val="N"/>
+        <ErrorStrategy val="A"/>
+        <LockingStrategy val="I"/>
+        <CacheStrategy val="T"/>
+        <ForceRecordSuffix val="Y"/>
+        <TransactionMode val="P"/>
+        <TransactionBegin val="T"/>
+        <PreloadView val="N"/>
+        <AllowEmptyDataview val="Y"/>
+        <KeepCreatedContext val="N"/>
+      </TaskProperties>
+      <SIDE_WIN>
+        <AllowOptions val="N"/>
+        <AllowQuery val="Y"/>
+        <AllowModify val="Y"/>
+        <AllowCreate val="Y"/>
+        <AllowDelete val="Y"/>
+        <AllowLocate val="Y"/>
+        <AllowRange val="Y"/>
+        <AllowIndexChange val="Y"/>
+        <AllowSorting val="Y"/>
+        <AllowIOFiles val="Y"/>
+        <RecordCycle val="Y"/>
+        <AllowEvents val="Y"/>
+        <AllowIndexOptimization val="Y"/>
+        <AllowLocationInQuery val="Y"/>
+        <AllowPrintingData val="N"/>
+      </SIDE_WIN>
+      <WIN>
+        <OpenTaskWindow val="N"/>
+        <CloseTaskWindow val="Y"/>
+        <ForegroundWindow val="Y"/>
+        <FlipFld val="N"/>
+        <RefreshTaskWindow ReturnValue="N"/>
+      </WIN>
+      <BOX>
+        <Direction val="V"/>
+      </BOX>
+    </Information>
+    <INT_CMP_LIST_INFO>
+      <v>1</v>
+    </INT_CMP_LIST_INFO>
+    <TaskLogic>
+      <LogicUnit propagate="78">
+        <Level val="R"/>
+        <Type val="M"/>
+        <Scope val="S"/>
+        <EngineDirective val="S"/>
+        <ShowMessage val="Y"/>
+        <Condition val="89"/>
+        <_TotalVariabls val="32"/>
+        <Event>
+          <EventType val="S"/>
+          <PublicObject comp="-1"/>
+        </Event>
+        <LogicLines>
+          <LogicLine>
+            <DATAVIEW_SRC IDX="2" Type="M">
+              <Condition val="N"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </DATAVIEW_SRC>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BL">
+              <ASS val="5"/>
+              <Column val="1"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BM">
+              <ASS val="3"/>
+              <Column val="2"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BN">
+              <ASS val="2"/>
+              <Column val="3"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BO">
+              <ASS val="1"/>
+              <Column val="4"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BP">
+              <Column val="5"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BQ">
+              <ASS val="6"/>
+              <Column val="6"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BR">
+              <Column val="7"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BS">
+              <ASS val="7"/>
+              <Column val="8"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BT">
+              <Column val="9"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BU">
+              <Column val="10"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BV">
+              <Column val="11"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BW">
+              <Column val="12"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BX">
+              <Column val="13"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BY">
+              <Column val="14"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="BZ">
+              <Column val="15"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CA">
+              <ASS val="8"/>
+              <Column val="16"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CB">
+              <Column val="17"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CC">
+              <Column val="18"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CD">
+              <Column val="19"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CE">
+              <Column val="20"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CF">
+              <Column val="21"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CG">
+              <Column val="22"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CH">
+              <Column val="23"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CI">
+              <Column val="24"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CJ">
+              <Column val="25"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CK">
+              <Column val="26"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CL">
+              <Column val="27"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CM">
+              <Column val="28"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CN">
+              <ASS val="9"/>
+              <Column val="29"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CO">
+              <Column val="30"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="Y"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Remark>
+              <Type val="0"/>
+              <Text val=" "/>
+            </Remark>
+          </LogicLine>
+          <LogicLine>
+            <LNK Direction="A" EVL_CND="R" Key="1" Mode="R" SortType="36" VIEW="31" VIEWS="2">
+              <DB comp="1" obj="936"/>
+              <Expanded val="1"/>
+              <Condition val="Y"/>
+            </LNK>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CP">
+              <Column val="2"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <Locate MAX="4" MIN="4"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="N"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <Select Name="CQ">
+              <Column val="1"/>
+              <Type val="R"/>
+              <IsParameter val="N"/>
+              <DIFF_UPDATE val="T"/>
+              <Condition val="N"/>
+              <Modifier val="S"/>
+              <Direction val="C"/>
+            </Select>
+          </LogicLine>
+          <LogicLine>
+            <END_LINK/>
+          </LogicLine>
+        </LogicLines>
+      </LogicUnit>
+      <LogicUnit propagate="78">
+        <Level val="R"/>
+        <Type val="S"/>
+        <Scope val="S"/>
+        <EngineDirective val="S"/>
+        <ShowMessage val="Y"/>
+        <Condition val="89"/>
+        <Event>
+          <EventType val="S"/>
+          <PublicObject comp="-1"/>
+        </Event>
+        <Expanded val="1"/>
+        <LogicLines>
+          <LogicLine>
+            <Update>
+              <Variable val="BL"/>
+              <WithValue val="5"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="BM"/>
+              <WithValue val="3"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="BN"/>
+              <WithValue val="2"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="BO"/>
+              <WithValue val="1"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="BQ"/>
+              <WithValue val="6"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="BS"/>
+              <WithValue val="7"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="CA"/>
+              <WithValue val="8"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+          <LogicLine>
+            <Update>
+              <Variable val="CN"/>
+              <WithValue val="9"/>
+              <Incremental val="N"/>
+              <ForcedUpdate val="Y"/>
+              <Condition val="Y"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </Update>
+          </LogicLine>
+        </LogicLines>
+      </LogicUnit>
+    </TaskLogic>
+    <TaskForms>
+      <FormEntry>
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311" valUnicode="Cria MOVIMENTOS X OP"/>
+          <PersistentFormState id="493"/>
+        </PropertyList>
+      </FormEntry>
+    </TaskForms>
+    <Expressions>
+      <Expression>
+        <ExpSyntax val="A"/>
+        <ExpAttribute val="A"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="K"/>
+        <ExpAttribute val="N"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="CQ"/>
+        <ExpAttribute val="A"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="K"/>
+        <ExpAttribute val="N"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="M"/>
+        <ExpAttribute val="N"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="TranslateNR('%USUARIO%')"/>
+        <ExpAttribute val="A"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="Date()"/>
+        <ExpAttribute val="D"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="'T'"/>
+        <ExpAttribute val="A"/>
+      </Expression>
+      <Expression>
+        <ExpSyntax val="Time()"/>
+        <ExpAttribute val="T"/>
+      </Expression>
+    </Expressions>
+  </Task>
+
+  <Task MainProgram="N">
+    <Header Description="CGPR_EST_ATUALMOVIMENTO">
+      <ExecutionRight/>
+      <Resident val="N"/>
+      <SQL val="Y"/>
+      <ReturnValue>
+        <ReturnValueAttr/>
+        <ParametersAttributes/>
+      </ReturnValue>
+      <SqlWhereExist val="N"/>
+      <TaskType val="B"/>
+      <External val="N"/>
+      <FormType val="N"/>
+      <DotNetObjectExists val="N"/>
+      <LastModified _date="738302" _time="52383" date="27/05/2022" time="14:33:03"/>
+    </Header>
+    <Resource>
+      <Columns/>
+    </Resource>
+    <Information>
+      <Key>
+        <Mode val="N"/>
+      </Key>
+      <DB/>
+      <Sort>
+        <CLS val="A"/>
+      </Sort>
+      <ForceRecordDelete DEL="N"/>
+      <EndTaskCondition val="Y"/>
+      <EvaluateEndCondition val="A"/>
+      <InitialMode val="E"/>
+      <Locate Direction="A"/>
+      <Range Direction="A"/>
+      <TaskProperties>
+        <SelectionTable val="N"/>
+        <ConfirmUpdate CNFU="N"/>
+        <ConfirmCancel val="N"/>
+        <ErrorStrategy val="A"/>
+        <LockingStrategy val="M"/>
+        <CacheStrategy val="N"/>
+        <ForceRecordSuffix val="N"/>
+        <TransactionMode val="P"/>
+        <TransactionBegin val="N"/>
+        <PreloadView val="N"/>
+        <AllowEmptyDataview val="N"/>
+        <KeepCreatedContext val="N"/>
+      </TaskProperties>
+      <SIDE_WIN>
+        <AllowOptions val="N"/>
+        <AllowQuery val="Y"/>
+        <AllowModify val="N"/>
+        <AllowCreate val="N"/>
+        <AllowDelete val="N"/>
+        <AllowLocate val="Y"/>
+        <AllowRange val="Y"/>
+        <AllowIndexChange val="N"/>
+        <AllowSorting val="Y"/>
+        <AllowIOFiles val="Y"/>
+        <RecordCycle val="Y"/>
+        <AllowEvents val="Y"/>
+        <AllowIndexOptimization val="Y"/>
+        <AllowLocationInQuery val="Y"/>
+        <AllowPrintingData val="N"/>
+      </SIDE_WIN>
+      <WIN>
+        <OpenTaskWindow val="N"/>
+        <CloseTaskWindow val="Y"/>
+        <ForegroundWindow val="Y"/>
+        <FlipFld val="N"/>
+        <RefreshTaskWindow ReturnValue="N"/>
+      </WIN>
+      <BOX>
+        <Direction val="V"/>
+      </BOX>
+    </Information>
+    <SQL_FORM DB="CIGAM_SQL" RESTAB="CIGAM_SQL">
+      <SQL_STMT_U val="DECLARE @v_db_sessionid FLOAT&#xD;&#xA;&#xD;&#xA;DECLARE Atualiza_empresa CURSOR&#xD;&#xA;FOR&#xD;&#xA;SELECT DISTINCT db_sessionid&#xD;&#xA;FROM ESMOVDIG&#xD;&#xA;&#xD;&#xA;OPEN Atualiza_empresa&#xD;&#xA;&#xD;&#xA;FETCH Atualiza_empresa&#xD;&#xA;INTO @v_db_sessionid&#xD;&#xA;&#xD;&#xA;WHILE (@@fetch_status = 0)&#xD;&#xA;BEGIN&#xD;&#xA;&#x9;EXEC CGPR_EST_ATUALMOVIMENTO 0&#xD;&#xA;&#x9;&#x9;,@v_db_sessionid&#xD;&#xA;&#xD;&#xA;&#x9;FETCH Atualiza_empresa&#xD;&#xA;&#x9;INTO @v_db_sessionid&#xD;&#xA;END&#xD;&#xA;&#xD;&#xA;CLOSE Atualiza_empresa&#xD;&#xA;&#xD;&#xA;DEALLOCATE Atualiza_empresa;&#xD;&#xA;"/>
+    </SQL_FORM>
+    <TaskLogic>
+      <LogicUnit propagate="78">
+        <Level val="R"/>
+        <Type val="M"/>
+        <Scope val="S"/>
+        <EngineDirective val="S"/>
+        <ShowMessage val="Y"/>
+        <Condition val="89"/>
+        <Event>
+          <EventType val="S"/>
+          <PublicObject comp="-1"/>
+        </Event>
+        <LogicLines>
+          <LogicLine>
+            <DATAVIEW_SRC Type="Q">
+              <Condition val="N"/>
+              <Modifier val="B"/>
+              <Direction val="C"/>
+            </DATAVIEW_SRC>
+          </LogicLine>
+        </LogicLines>
+      </LogicUnit>
+    </TaskLogic>
+    <TaskForms>
+      <FormEntry>
+        <PropertyList model="FORM_GUI0">
+          <_Comment id="218"/>
+          <FormName id="311" valUnicode="CGPR_EST_ATUALMOVIMENTO"/>
+        </PropertyList>
+      </FormEntry>
+    </TaskForms>
+  </Task>
+
+</Task>
+</Programs>
+</ProgramsRepository>
+
+</Application>

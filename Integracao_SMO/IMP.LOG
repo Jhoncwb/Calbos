@@ -1,0 +1,22 @@
+Converting project  (26/03/20 17:35:55)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+Program/Task  2.3.4 - Control Json - Info - 14 - Show Scroll Bars property for Edit control was removed. A new value named Word Wrap was added to the Horizontal Scroll property. - Program = 2; Task = 47; Form = 1; Control = 3; PropertyId = 455;  
+Program/Task  2.3.4 - Control Retorno - Info - 14 - Show Scroll Bars property for Edit control was removed. A new value named Word Wrap was added to the Horizontal Scroll property. - Program = 2; Task = 47; Form = 1; Control = 7; PropertyId = 455;  
+General - General (31) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (10) - Info - 2 - Style and Border of the controls were changed.
+General - Components - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker - Info - 74 - New transaction message was added.
+General - color 341 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000 (2) - Info - 54 - New color was assigned to the control.
+Converting project  (05/11/20 12:49:06)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+Program/Task  2.3.4 - Control Json - Info - 14 - Show Scroll Bars property for Edit control was removed. A new value named Word Wrap was added to the Horizontal Scroll property. - Program = 2; Task = 47; Form = 1; Control = 3; PropertyId = 455;  
+Program/Task  2.3.4 - Control Retorno - Info - 14 - Show Scroll Bars property for Edit control was removed. A new value named Word Wrap was added to the Horizontal Scroll property. - Program = 2; Task = 47; Form = 1; Control = 7; PropertyId = 455;  
+General - General (91) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (111) - Info - 2 - Style and Border of the controls were changed.
+General - Components (14) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (14) - Info - 74 - New transaction message was added.
+General - color 341 instead of 2- Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000 (3) - Info - 54 - New color was assigned to the control.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<DAM_Parameters Name="TrayPedido" XSDRootElement="TRAYPEDIDO">
+
+  <Method>
+    <Code>1</Code>
+    <Name>CriaPedido</Name>
+    <PublicName>CriaPedido</PublicName>
+    <Description/>
+    <OrderIndex>10</OrderIndex>
+  </Method>
+
+  <Method>
+    <Code>2</Code>
+    <Name>ChamaCriaPedido</Name>
+    <PublicName>ChamaCriaPedido</PublicName>
+    <Description/>
+    <OrderIndex>20</OrderIndex>
+  </Method>
+
+  <UserComponentDefinition>
+    <Name>TrayPedido</Name>
+    <Description/>
+    <Icon>traypedidoifc.gif</Icon>
+    <Group>User Components</Group>
+    <TransactionAbility>0</TransactionAbility>
+    <SupportedInterfaces>1,1,0</SupportedInterfaces>
+    <ComponentType>2</ComponentType>
+    <ClassType>1</ClassType>
+    <Trigger_Step_Both>S</Trigger_Step_Both>
+    <default_interface>2</default_interface>
+    <ResourceType>0</ResourceType>
+    <DDAM_ProgName/>
+    <DXML_ProgName/>
+    <ConfigModule>TrayPedido.ecf</ConfigModule>
+    <AMGSourceName/>
+    <AMG_ECFName/>
+  </UserComponentDefinition>
+
+  <Struct_ErrorsList></Struct_ErrorsList>
+
+</DAM_Parameters>

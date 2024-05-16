@@ -1,0 +1,185 @@
+﻿ <214099555432874688> 24/08/2022 09:47:31.129     [Action ] -     1,22875  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:31.137     [Action ] -     ),22890   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:31.137     [Action ] -      ,22890   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:31.137     [Action ] -      ,22890  logical cursor: using COMMAND :Default result Set
+ <214099555432874688> 24/08/2022 09:47:31.141     [Action ] -      ,22890  	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ''    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:31.141     [Action ] -      ,22890  	FETCH Range0
+ <214099555432874688> 24/08/2022 09:47:31.143     [Action ] -      ,22890  SET IMPLICIT_TRANSACTIONS OFF
+ <214099555432874688> 24/08/2022 09:47:35.849     [Action ] -       5,27593   
+	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  ? AND Lote_Interno =  ?    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <214099555432874688> 24/08/2022 09:47:35.849     [Action ] -       ),27593   
+	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  ? AND Lote_Interno =  ?    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <214099555432874688> 24/08/2022 09:47:35.849     [Action ] -        ,27593  Using CURSOR
+ <214099555432874688> 24/08/2022 09:47:35.851     [Action ] -        ,27593  	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  '025' AND Lote_Interno =  '1265/22'    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <214099555432874688> 24/08/2022 09:47:35.853     [Action ] -        ,27593  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:35.854     [Action ] -        ,27593  	FETCH Range1
+ <214099555432874688> 24/08/2022 09:47:35.856     [Action ] -        ,27593  SET IMPLICIT_TRANSACTIONS OFF
+ <214099555432874688> 24/08/2022 09:47:35.859     [Action ] -      ,27609  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:35.859     [Action ] -      ,27609   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:35.859     [Action ] -      ,27609   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:35.859     [Action ] -      ,27609  logical cursor: using COMMAND :Default result Set
+ <214099555432874688> 24/08/2022 09:47:35.861     [Action ] -      ,27609  	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  '068430'    ORDER BY Cd_empresa ASC 
+ <214099555432874688> 24/08/2022 09:47:35.863     [Action ] -      ,27609  	FETCH Range0
+ <214099555432874688> 24/08/2022 09:47:35.864     [Action ] -      ,27609  SET IMPLICIT_TRANSACTIONS OFF
+ <214099555432874688> 24/08/2022 09:47:35.869     [Action ] -        ,27609   
+	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  ?    ORDER BY Cd_unidade_de_n ASC 
+ <214099555432874688> 24/08/2022 09:47:35.869     [Action ] -        ,27609   
+	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  ?    ORDER BY Cd_unidade_de_n ASC 
+ <214099555432874688> 24/08/2022 09:47:35.869     [Action ] -        ,27609  Using CURSOR
+ <214099555432874688> 24/08/2022 09:47:35.870     [Action ] -        ,27609  	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  '025'    ORDER BY Cd_unidade_de_n ASC 
+ <214099555432874688> 24/08/2022 09:47:35.872     [Action ] -        ,27609  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:35.873     [Action ] -        ,27609  	FETCH Range1
+ <214099555432874688> 24/08/2022 09:47:35.873     [Action ] -        ,27609   
+	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ?    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:35.874     [Action ] -        ,27609   
+	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ?    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:35.874     [Action ] -        ,27609  logical cursor: using COMMAND :Default result Set
+ <214099555432874688> 24/08/2022 09:47:35.875     [Action ] -        ,27625  	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ''    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:35.877     [Action ] -        ,27625  SET IMPLICIT_TRANSACTIONS OFF
+ <214099555432874688> 24/08/2022 09:47:35.881     [Action ] -        ,27625   
+	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  ?    ORDER BY Codigo_Material DESC,Revisao DESC
+ <214099555432874688> 24/08/2022 09:47:35.881     [Action ] -        ,27625   
+	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  ?    ORDER BY Codigo_Material DESC,Revisao DESC
+ <214099555432874688> 24/08/2022 09:47:35.881     [Action ] -        ,27625  Using CURSOR
+ <214099555432874688> 24/08/2022 09:47:35.883     [Action ] -        ,27625  	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  'MP0005'    ORDER BY Codigo_Material DESC,Revisao DESC
+ <214099555432874688> 24/08/2022 09:47:35.884     [Action ] -        ,27625  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:35.885     [Action ] -        ,27625  	FETCH Range1
+ <214099555432874688> 24/08/2022 09:47:35.886     [Action ] -        ,27625  SET IMPLICIT_TRANSACTIONS OFF
+ <214099555432874688> 24/08/2022 09:47:35.887     [Action ] -          ,27625  STMT : INSERT INTO LC_CQ_ANALISE_ITEM
+SELECT '025'
+	,'0001/22       '
+	,Ordem
+	,Analise
+	,Especificacao
+	,' '
+	,Metodo_utilizado
+	,'D08'
+	,CONVERT(DATE, GETDATE())
+	,' '
+	,NULL
+FROM LC_CQ_MODELO_ANALISE_ITEM
+WHERE Codigo_Material = 'MP0005              '
+	AND Revisao =   10 
+ <214099555432874688> 24/08/2022 09:47:35.903     [Info   ] -           >> USER Message >> Event Any Error
+ <214099555432874688> 24/08/2022 09:47:35.903     [Info   ] -           >> USER Message >> ErrTableName:
+ <214099555432874688> 24/08/2022 09:47:35.903     [Info   ] -           >> USER Message >> Prog: Certificado;Busca Especificações farmacope;Link create LC_CQ_MODELO_ANALI
+ <214099555432874688> 24/08/2022 09:47:35.979     [Info   ] -                 >> USER Message >> Rights (Override)
+ <214099555432874688> 24/08/2022 09:47:36.017     [Warning] -                 CIGAM
+ <214099555432874688> 24/08/2022 09:47:39.488     [Info   ] -                 >> USER Message >> 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Cannot insert duplicate key row in object 'dbo.LC_CQ_ANALISE_ITEM' with unique index 'K_LC_CQ_ANALISE_ITEM'. The duplicate key value is (025, 0001/22       , 1).
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+[OK] [Detalhes]
+--------------------------------------------------------------------------------
+SERVER : Cannot insert duplicate key row in object 'dbo.LC_CQ_ANALISE_ITEM' with unique index 'K_LC_CQ_ANALISE_ITEM'. The duplicate key value is (025, 0001/22       , 1).
+
+[Duplicate index]
+
+Programa atual em execução: Certificado;Busca Especificações farmacope;Link create LC_CQ_MODELO_ANALI;TratamentoErroCigamSql
+--------------------------------------------------------------------------------
+Pressionado: 1
+--------------------------------------------------------------------------------
+ <214099555432874688> 24/08/2022 09:47:39.665     [Action ] -             9,31406  SET IMPLICIT_TRANSACTIONS ON
+ <214099555432874688> 24/08/2022 09:47:39.665     [Action ] -             ),31406   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM cigam.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:39.665     [Action ] -              ,31406   
+	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM cigam.dbo.GECFG WHERE Sequencia =  ?    ORDER BY Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:39.665     [Action ] -              ,31406  logical cursor: using COMMAND :Default result Set
+ <214099555432874688> 24/08/2022 09:47:39.668     [Action ] -              ,31421  	STMT: SELECT TOP 1 Sequencia,Dado_Data FROM cigam.dbo.GECFG WHERE Sequencia =  3082    ORDER BY Sequencia ASC 
+ <214099555432874688> 24/08/2022 09:47:39.668     [Action ] -              ,31421  	FETCH Range2
+ <214099555432874688> 24/08/2022 09:47:39.669     [Action ] -              ,31421  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:49.333     [Action ] -     9,41078  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:49.333     [Action ] -     ),41093   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:49.333     [Action ] -      ,41093   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:49.333     [Action ] -      ,41093  logical cursor: using COMMAND :Default result Set
+ <127180801604566112> 24/08/2022 09:47:49.335     [Action ] -      ,41093  	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ''    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:49.336     [Action ] -      ,41093  	FETCH Range0
+ <127180801604566112> 24/08/2022 09:47:49.337     [Action ] -      ,41093  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.713     [Action ] -       2,44453   
+	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  ? AND Lote_Interno =  ?    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <127180801604566112> 24/08/2022 09:47:52.713     [Action ] -       ),44453   
+	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  ? AND Lote_Interno =  ?    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <127180801604566112> 24/08/2022 09:47:52.715     [Action ] -        ,44453  Using CURSOR
+ <127180801604566112> 24/08/2022 09:47:52.716     [Action ] -        ,44453  	STMT: SELECT cd_Unidade_Negocio,Serie,Fornecedor,Nota_Fiscal,Data,cd_Material,Quantidade,Volume,Lote_Interno,Lote_Fornecedor,Validade,Observacao,Usuario,Data_criacao,Usuario_modificacao,Data_modificacao,Lote_usado,Situacao,Quantidade_fracionada,Paletizado,Etiqueta_Gerada,Numero_certificado,Data_liberacao,Nf_Criada,Ordem_Compra,Teor,Data_de_Fabricação FROM cigam.dbo.LC_LIVRO WHERE cd_Unidade_Negocio =  '025' AND Lote_Interno =  '1265/22'    ORDER BY cd_Unidade_Negocio ASC ,Lote_Interno DESC,Data ASC ,cd_Material ASC ,Nota_Fiscal ASC ,Fornecedor ASC 
+ <127180801604566112> 24/08/2022 09:47:52.717     [Action ] -        ,44468  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.718     [Action ] -        ,44468  	FETCH Range1
+ <127180801604566112> 24/08/2022 09:47:52.720     [Action ] -        ,44468  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.723     [Action ] -      ,44468  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.723     [Action ] -      ,44468   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:52.723     [Action ] -      ,44468   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:52.723     [Action ] -      ,44468  logical cursor: using COMMAND :Default result Set
+ <127180801604566112> 24/08/2022 09:47:52.724     [Action ] -      ,44468  	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  '068430'    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:52.724     [Action ] -      ,44468  	FETCH Range0
+ <127180801604566112> 24/08/2022 09:47:52.726     [Action ] -      ,44468  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.730     [Action ] -        ,44468   
+	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  ?    ORDER BY Cd_unidade_de_n ASC 
+ <127180801604566112> 24/08/2022 09:47:52.730     [Action ] -        ,44468   
+	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  ?    ORDER BY Cd_unidade_de_n ASC 
+ <127180801604566112> 24/08/2022 09:47:52.731     [Action ] -        ,44468  Using CURSOR
+ <127180801604566112> 24/08/2022 09:47:52.732     [Action ] -        ,44468  	STMT: SELECT Cd_unidade_de_n,Campo9 FROM cigam.dbo.GEUNIDNE WHERE Cd_unidade_de_n =  '025'    ORDER BY Cd_unidade_de_n ASC 
+ <127180801604566112> 24/08/2022 09:47:52.733     [Action ] -        ,44484  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.740     [Action ] -        ,44484  	FETCH Range1
+ <127180801604566112> 24/08/2022 09:47:52.740     [Action ] -        ,44484   
+	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ?    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <127180801604566112> 24/08/2022 09:47:52.740     [Action ] -        ,44484   
+	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ?    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <127180801604566112> 24/08/2022 09:47:52.740     [Action ] -        ,44484  logical cursor: using COMMAND :Default result Set
+ <127180801604566112> 24/08/2022 09:47:52.741     [Action ] -        ,44484  	STMT: SELECT TOP 1 Centralizadora,Ultima_Sequencia FROM cigam.dbo.LC_CQ_ANALISE_SEQUENCIA WHERE Centralizadora =  ''    ORDER BY Centralizadora ASC ,Ultima_Sequencia ASC 
+ <127180801604566112> 24/08/2022 09:47:52.743     [Action ] -        ,44484  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.747     [Action ] -        ,44484   
+	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  ?    ORDER BY Codigo_Material DESC,Revisao DESC
+ <127180801604566112> 24/08/2022 09:47:52.747     [Action ] -        ,44484   
+	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  ?    ORDER BY Codigo_Material DESC,Revisao DESC
+ <127180801604566112> 24/08/2022 09:47:52.747     [Action ] -        ,44484  Using CURSOR
+ <127180801604566112> 24/08/2022 09:47:52.749     [Action ] -        ,44500  	STMT: SELECT Codigo_Material,Revisao,Referencia_bibliograficas FROM cigam..LC_CQ_MODELO_ANALISE WHERE Codigo_Material =  'MP0005'    ORDER BY Codigo_Material DESC,Revisao DESC
+ <127180801604566112> 24/08/2022 09:47:52.750     [Action ] -        ,44500  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.752     [Action ] -        ,44500  	FETCH Range1
+ <127180801604566112> 24/08/2022 09:47:52.753     [Action ] -        ,44500  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.754     [Action ] -          ,44500  STMT : INSERT INTO LC_CQ_ANALISE_ITEM
+SELECT '025'
+	,'0001/22       '
+	,Ordem
+	,Analise
+	,Especificacao
+	,' '
+	,Metodo_utilizado
+	,'D08'
+	,CONVERT(DATE, GETDATE())
+	,' '
+	,NULL
+FROM LC_CQ_MODELO_ANALISE_ITEM
+WHERE Codigo_Material = 'MP0005              '
+	AND Revisao =   10 
+ <127180801604566112> 24/08/2022 09:47:52.767     [Action ] -        ,44515  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.770     [Action ] -        ,44515  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.792     [Action ] -      ,44546  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:52.792     [Action ] -      ,44546   
+	STMT: INSERT INTO cigam..LC_CQ_ANALISE (Unidade_de_negócio , Certificado , Codigo_Material , Controle , Fornecedor , Data_de_Fabricacao , Data_de_Recebimento , Quantidade_Recebida , Lote_Interno , Lote_Fornecedor , Data_de_Validade , Data_de_Analise , Nota_Fiscal , Referência_bibliográficas , Observação , Usuario_criacao , Data_criacao , Usuario_alteracao , Data_Alteracao ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+ <127180801604566112> 24/08/2022 09:47:52.793     [Action ] -      ,44546  STMT: INSERT INTO cigam..LC_CQ_ANALISE (Unidade_de_negócio , Certificado , Codigo_Material , Controle , Fornecedor , Data_de_Fabricacao , Data_de_Recebimento , Quantidade_Recebida , Lote_Interno , Lote_Fornecedor , Data_de_Validade , Data_de_Analise , Nota_Fiscal , Referência_bibliográficas , Observação , Usuario_criacao , Data_criacao , Usuario_alteracao , Data_Alteracao ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+ <127180801604566112> 24/08/2022 09:47:52.793     [Action ] -      ,44546  Using COMMAND
+ <127180801604566112> 24/08/2022 09:47:52.793     [Action ] -      ,44546  	STMT: NULL) 
+ <127180801604566112> 24/08/2022 09:47:52.799     [Action ] -      ,44546  SET IMPLICIT_TRANSACTIONS OFF
+ <127180801604566112> 24/08/2022 09:47:52.802     [Info   ] -       >> USER Message >> Event Any Error
+ <127180801604566112> 24/08/2022 09:47:52.802     [Info   ] -       >> USER Message >> ErrTableName: LC_CQ_ANALISE
+ <127180801604566112> 24/08/2022 09:47:52.802     [Info   ] -       >> USER Message >> Prog: Certificado
+ <127180801604566112> 24/08/2022 09:47:52.802     [Error  ] -     Operação de atualização falhou, fonte de dados: LC_CQ_ANALISE, Program: "Certificado".
+ <127180801604566112> 24/08/2022 09:47:53.734     [Action ] -     3,45484  SET IMPLICIT_TRANSACTIONS ON
+ <127180801604566112> 24/08/2022 09:47:53.734     [Action ] -      ,45484   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:53.734     [Action ] -      ,45484   
+	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ?    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:53.734     [Action ] -      ,45484  logical cursor: using COMMAND :Default result Set
+ <127180801604566112> 24/08/2022 09:47:53.736     [Action ] -      ,45484  	STMT: SELECT TOP 1 Cd_empresa,Nome_completo FROM cigam.dbo.GEEMPRES WHERE Cd_empresa =  ''    ORDER BY Cd_empresa ASC 
+ <127180801604566112> 24/08/2022 09:47:53.736     [Action ] -      ,45484  	FETCH Range0
+ <127180801604566112> 24/08/2022 09:47:53.737     [Action ] -      ,45484  SET IMPLICIT_TRANSACTIONS OFF

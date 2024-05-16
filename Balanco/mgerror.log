@@ -1,0 +1,216 @@
+﻿ <462139694979567872> 03/10/2019 17:39:57.079     [Error  ] - Cannot modify Read Only, data source: LC_BALANCO_SITUACAO, program: Balanço
+ <80348508934951024> 04/10/2019 08:56:57.684     [Error  ] - Initial Task mode not allowed, program: Balanço.Inventario
+ <314656178002394624> 04/10/2019 09:49:25.641     [Error  ] - Initial Task mode not allowed, program: Balanço.Inventario
+ <450821120540054784> 07/10/2019 09:25:07.339     [Error  ] - Failed to open, data source: GECPTE, program: VerificaTabelaComponentes
+ <450821120540054784> 07/10/2019 09:25:09.324     [Error  ] - Failed to open, data source: GECPTE, program: VerificaTabelaComponentes
+ <151182024275307296> 08/10/2019 11:17:04.814     [Error  ] - Bad date, program: Balanço.Inventario
+ <334787478034297536> 21/10/2019 11:41:37.097     [Error  ] - Invalid number, program: Browse - LC_BALANCO_SITUACAO
+ <334787478034297536> 21/10/2019 11:41:45.177     [Error  ] - Invalid number, program: Browse - LC_BALANCO_SITUACAO
+ <249084887583026272> 08/07/2022 09:48:13.372     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "W:\CIGAMe11\xpa\Projects\Balanco\", Program: "Ajuste estoque".
+ <128321366168463216> 08/07/2022 10:26:33.140     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: Ajuste estoque;VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <-1> 08/07/2022 10:34:08.651     [Error  ] - no such table: esmovime
+ <289065894393733504> 08/07/2022 15:17:10.770     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: Ajuste estoque;VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <350725400859319616> 08/07/2022 16:33:59.655     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: Ajuste estoque;VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <433272684617464064> 19/07/2022 13:21:17.412     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: Ajuste estoque;VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <337196207261554240> 19/07/2022 13:31:05.220     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near 'ULTMOV'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near 'ULTMOV'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Ajuste estoque;Loop Movimento;Cria Movimento;.Cria Movimento Batch;validaCriacao;criaMovimento;.Busca Ultimo Movimento;SQL;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.Loop Movimento.Cria Movimento..Cria Movimento Batch.validaCriacao.criaMovimento..Busca Ultimo Movimento.SQL.TratamentoErroCigamSql.MensagemCigam".
+
+==============================================
+PID 9396	19/07/2022 13:47:41
+==============================================
+
+
+ <564771469675566848> 19/07/2022 13:58:43.329     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <245986115739163424> 19/07/2022 13:59:05.290     [Error  ] - Program not found, Program: "Ajuste estoque.Loop Movimento.Cria Movimento".
+ <245986115739163424> 19/07/2022 13:59:05.301     [Error  ] - Program not found, Program: "Ajuste estoque.Loop Movimento.Cria Movimento".
+ <73915979845446208> 19/07/2022 14:00:10.194     [Error  ] - Program not found, Program: "Ajuste estoque.Loop Movimento.Cria Movimento".
+ <73915979845446208> 19/07/2022 14:00:10.207     [Error  ] - Program not found, Program: "Ajuste estoque.Loop Movimento.Cria Movimento".
+ <267474435665030528> 19/07/2022 14:03:05.648     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near 'ULTMOV'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near 'ULTMOV'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Ajuste estoque;Loop Movimento;Cria Movimento;.Cria Movimento Batch;validaCriacao;criaMovimento;.Busca Ultimo Movimento;SQL;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.Loop Movimento.Cria Movimento..Cria Movimento Batch.validaCriacao.criaMovimento..Busca Ultimo Movimento.SQL.TratamentoErroCigamSql.MensagemCigam".
+ <486578962894111104> 19/07/2022 14:03:59.606     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Incorrect syntax near 'ULTMOV'.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Incorrect syntax near 'ULTMOV'.
+
+[Invalid SQL command]
+
+Programa atual em execução: Ajuste estoque;Loop Movimento;Cria Movimento;.Cria Movimento Batch;validaCriacao;criaMovimento;.Busca Ultimo Movimento;SQL;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.Loop Movimento.Cria Movimento..Cria Movimento Batch.validaCriacao.criaMovimento..Busca Ultimo Movimento.SQL.TratamentoErroCigamSql.MensagemCigam".
+ <540312263912105984> 21/07/2022 13:39:30.958     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: Ajuste estoque;VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Ajuste estoque.VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <251888681641441600> 02/01/2023 10:22:21.589     [Error  ] - Failed to open, data source: GECPTE_XPI, Program: "VerificaTabelaComponentes".
+ <251888681641441600> 02/01/2023 10:22:41.609     [Error  ] - Failed to open, data source: GECPTE_XPI, Program: "VerificaTabelaComponentes".
+ <251888681641441600> 02/01/2023 10:23:04.660     [Error  ] - Failed to open, data source: GEUSUARI, Program: "BuscaParametros".
+ <251888681641441600> 02/01/2023 10:23:23.271     [Error  ] - Failed to open, data source: GEEMPRES, Program: "VerificaLicenca_2212.VerificaLicenca".
+ <251888681641441600> 02/01/2023 10:23:44.510     [Error  ] - Failed to open, data source: LC_BALANCO_SITUACAO, Program: "Balanço".
+ <495843561168678464> 02/01/2023 10:26:21.981     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <48548560529912600> 18/12/2023 10:43:09.602     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <52848171171439104> 18/12/2023 10:43:10.095     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <52848171171439104> 18/12/2023 10:43:10.103     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <52848171171439104> 18/12/2023 10:43:10.104     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <52848171171439104> 18/12/2023 10:43:10.104     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 18/12/2023 10:43:47.973     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

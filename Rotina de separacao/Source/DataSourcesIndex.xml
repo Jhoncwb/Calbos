@@ -1,0 +1,29 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="10"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+  
+<DataObject PhysicalName="temp_faturafutura_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="temp_faturafutura_%USUARIO%" offset="214" length="20719"/> 
+<DataObject PhysicalName="temp_remessabahia_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="temp_remessabahia_%USUARIO%" offset="20934" length="13282"/> 
+<DataObject PhysicalName="and_m3" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" name="and_m3" offset="34217" length="2862"/> 
+<DataObject PhysicalName="temp_venda_entre_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="temp_venda_entre_%USUARIO%" offset="37080" length="8975"/> 
+<DataObject PhysicalName="Temp_Pedido_Nf" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="8" name="Temp_Pedido_Nf" offset="46056" length="3474"/> 
+<DataObject PhysicalName="temp_venda_entreJ_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="9" name="temp_venda_entreJ_%USUARIO%" offset="49531" length="8076"/> 
+<DataObject PhysicalName="LC_COMP_MATERIAL" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="10" name="LC_COMP_MATERIAL" offset="57608" length="11668"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31049488103087304"/>  </Application>

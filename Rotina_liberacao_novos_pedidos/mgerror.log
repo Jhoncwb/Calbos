@@ -1,0 +1,59 @@
+﻿ <-1> 06/05/2020 15:02:30.019     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 06/05/2020 15:02:30.078     [Error  ] - Cabinet File Name cannot be empty.
+ <186904134894595840> 06/05/2020 17:15:40.353     [Error  ] - Task without screen, program: Rotina liberação pedidos novo.Lançamentos Financeiros
+ <186904134894595840> 06/05/2020 17:15:41.108     [Error  ] - Task without screen, program: Rotina liberação pedidos novo.Lançamentos Financeiros
+ <559811081570263168> 06/05/2020 17:16:14.642     [Error  ] - Initial Task mode not allowed, program: Rotina liberação pedidos novo.Lançamentos Financeiros
+ <539335472192355328> 08/05/2020 17:44:07.490     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <553597451640088128> 11/05/2020 09:54:53.198     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <553597451640088128> 11/05/2020 09:54:54.808     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:39.306     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:40.634     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:41.280     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:41.915     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:42.252     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:43.009     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:43.606     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:43.660     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:44.416     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:45.180     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:45.946     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <541519058866160640> 11/05/2020 09:56:47.273     [Error  ] - Registro encontra-se alocado: FAPEDIDO, program: Rotina liberação pedidos novo
+ <190322844187270816> 11/05/2020 10:26:40.686     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <301394013859301440> 11/05/2020 10:37:32.419     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <74982346873351872> 19/05/2020 13:16:08.657     [Error  ] - No records within defined range, program: Rotina liberação pedidos novo
+ <74982346873351872> 19/05/2020 13:16:24.436     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <244410562131440416> 19/05/2020 13:21:28.211     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <244410562131440416> 19/05/2020 13:21:31.860     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <300130142497863616> 19/05/2020 13:21:44.998     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <135096587049066752> 19/05/2020 13:22:52.872     [Error  ] - Record is no longer in view, program: Rotina liberação pedidos novo
+ <252466990002730656> 19/05/2020 13:24:15.150     [Error  ] - Record has been updated - restart, program: Rotina liberação pedidos novo
+ <272056515337481984> 11/08/2020 16:43:04.573     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:05.911     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:07.263     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:08.589     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:09.913     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:11.263     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:12.592     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:13.914     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:15.271     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:16.596     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:17.913     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:19.240     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.596     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.617     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.633     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.650     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.666     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.682     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.699     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <272056515337481984> 11/08/2020 16:43:20.717     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:37.927     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:39.251     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:40.577     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:41.902     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:43.239     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:43.575     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:44.899     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <380558050738620608> 11/08/2020 16:44:46.224     [Error  ] - Registro encontra-se alocado: GEEMPRES, program: Rotina liberação pedidos novo.Pedido 449.Pedido
+ <-1> 05/11/2020 13:37:19.062     [Error  ] - Component Files not found : CabGeralCGFunctions.ecf
+ <-1> 05/11/2020 13:37:19.073     [Error  ] - Component Files not found : CabGeralCGFunctions.ecf

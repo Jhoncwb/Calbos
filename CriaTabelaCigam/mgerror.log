@@ -1,0 +1,23 @@
+﻿ <273735132906779456> 13/03/2024 16:14:01.418     [Error  ] - Create error:, Program: "CriaTabela".
+ <449323398822171648> 13/03/2024 16:22:20.157     [Error  ] - Create error:, Program: "CriaTabela".
+ <408149738941455360> 13/03/2024 16:24:25.214     [Error  ] - Create error:, Program: "CriaTabela".
+ <182451671581742272> 13/03/2024 16:41:17.195     [Error  ] - Create error:, Program: "CriaTabela".
+ <145933022964400736> 13/03/2024 16:49:29.040     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <526829483567635008> 13/03/2024 16:49:41.324     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <91772906736120608> 13/03/2024 16:50:39.606     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <324032906272837312> 13/03/2024 16:50:52.063     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <335583920936370944> 13/03/2024 16:55:25.035     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <293164712012692928> 13/03/2024 16:59:37.081     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <40151618236821632> 13/03/2024 17:01:18.512     [Error  ] - Create error:, Program: "CriaTabela.CriaTabela".
+ <433087739519548992> 13/03/2024 17:03:49.217     [Error  ] - Invalid SQL command, database: CIGAM_INTEGRA, Program: "CriaTabela.CriaTabelas.GE_Genericos.Integrador_Oracle".
+ <433087739519548992> 13/03/2024 17:03:49.218     [Error  ] - SERVER : Invalid object name 'user_tables'., Program: "CriaTabela.CriaTabelas.GE_Genericos.Integrador_Oracle".
+ <433087739519548992> 13/03/2024 17:04:07.366     [Error  ] - Invalid SQL command, database: CIGAM_INTEGRA, Program: "CriaTabela.CriaTabelas.GE_Genericos.IntegradorLog_Oracle".
+ <433087739519548992> 13/03/2024 17:04:07.366     [Error  ] - SERVER : Invalid object name 'user_tables'., Program: "CriaTabela.CriaTabelas.GE_Genericos.IntegradorLog_Oracle".
+ <433087739519548992> 13/03/2024 17:04:09.748     [Error  ] - Invalid SQL command, database: CIGAM_INTEGRA, Program: "CriaTabela.CriaTabelas.GE_Genericos.PersistenciaWeb_Oracle".
+ <433087739519548992> 13/03/2024 17:04:09.748     [Error  ] - SERVER : Invalid object name 'user_tables'., Program: "CriaTabela.CriaTabelas.GE_Genericos.PersistenciaWeb_Oracle".
+ <433087739519548992> 13/03/2024 17:04:10.801     [Error  ] - Invalid SQL command, database: CIGAM_INTEGRA, Program: "CriaTabela.CriaTabelas.GE_Genericos.IntegradorLogWms_Oracle".
+ <433087739519548992> 13/03/2024 17:04:10.802     [Error  ] - SERVER : Invalid object name 'user_tables'., Program: "CriaTabela.CriaTabelas.GE_Genericos.IntegradorLogWms_Oracle".
+ <433087739519548992> 13/03/2024 17:04:11.358     [Error  ] - Invalid SQL command, database: CIGAM_SQL, Program: "CriaTabela.CriaTabelas.GE_Genericos.LogException_Oracle".
+ <433087739519548992> 13/03/2024 17:04:11.359     [Error  ] - SERVER : Invalid object name 'user_tables'., Program: "CriaTabela.CriaTabelas.GE_Genericos.LogException_Oracle".
+ <439764139883248640> 14/03/2024 11:22:59.493     [Error  ] - Failed to open, data source: CE2IMPGE, Program: "Browse - GRADE EMBARQUE IMP".
+ <521942969145768576> 14/03/2024 11:24:32.154     [Error  ] - Failed to open, data source: CVPLVIAG, Program: "Browse - PLANO DE VIAGEM".

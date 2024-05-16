@@ -1,0 +1,1363 @@
+﻿ <-1> 01/04/2020 13:06:05.336     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:06:12.238     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:06:12.251     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:06:13.714     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:06:20.952     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:06:20.962     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:07:47.515     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:07:54.893     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 13:07:54.905     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 15:59:31.148     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 15:59:37.940     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <-1> 01/04/2020 15:59:37.961     [Error  ] - Component Files not found : Integracao_SMO.ecf
+ <295275074269206400> 03/04/2020 15:36:44.533     [Error  ] - Failed to open, data source: LC_COMPLEMENTO_ITEM_PED, program: Botão Customizado Pedido
+ <47835046680549160> 12/01/2021 13:25:45.459     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:46.222     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:46.984     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:47.741     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:48.494     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:49.839     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:51.183     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:52.508     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:53.837     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:55.176     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:56.494     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <47835046680549160> 12/01/2021 13:25:57.819     [Error  ] - Registro encontra-se alocado: FAITEMPE, program: Calcular Comissão.Leitura Item Pedido Representa
+ <-1> 20/05/2021 09:02:36.024     [Error  ] - Component Files not found : CGESCore
+ <-1> 20/05/2021 09:02:36.134     [Error  ] - Component Files not found : CGPCCore
+ <-1> 20/05/2021 09:02:36.216     [Error  ] - Component Files not found : CGCOCore
+ <-1> 20/05/2021 11:05:59.359     [Error  ] - Component Files not found : CGESCore
+ <-1> 20/05/2021 11:05:59.449     [Error  ] - Component Files not found : CGPCCore
+ <-1> 20/05/2021 11:05:59.526     [Error  ] - Component Files not found : CGCOCore
+ <-1> 25/06/2021 08:33:37.094     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/06/2021 08:33:37.162     [Error  ] - Component Files not found : CGPCCore
+ <-1> 25/06/2021 08:33:37.239     [Error  ] - Component Files not found : CGCOCore
+ <466792486569149568> 25/06/2021 11:37:45.393     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <466792486569149568> 25/06/2021 11:37:45.428     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <466792486569149568> 25/06/2021 11:37:45.453     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <466792486569149568> 25/06/2021 11:37:45.478     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <466792486569149568> 25/06/2021 11:37:45.492     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <466792486569149568> 25/06/2021 11:37:45.504     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <171390064447837056> 25/06/2021 13:00:15.941     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <171390064447837056> 25/06/2021 13:00:15.957     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <171390064447837056> 25/06/2021 13:00:15.974     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <171390064447837056> 25/06/2021 13:00:15.989     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <171390064447837056> 25/06/2021 13:00:16.001     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <171390064447837056> 25/06/2021 13:00:16.013     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <1054537240831730> 25/06/2021 13:03:47.826     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <1054537240831730> 25/06/2021 13:03:47.842     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <1054537240831730> 25/06/2021 13:03:47.858     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <1054537240831730> 25/06/2021 13:03:47.874     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <1054537240831730> 25/06/2021 13:03:47.887     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <1054537240831730> 25/06/2021 13:03:47.899     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <551047351999527552> 25/06/2021 13:04:26.750     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <551047351999527552> 25/06/2021 13:04:26.767     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <551047351999527552> 25/06/2021 13:04:26.782     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <551047351999527552> 25/06/2021 13:04:26.797     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <551047351999527552> 25/06/2021 13:04:26.814     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <551047351999527552> 25/06/2021 13:04:26.825     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <184045822795742496> 25/06/2021 13:05:37.665     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <184045822795742496> 25/06/2021 13:05:37.683     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <184045822795742496> 25/06/2021 13:05:37.699     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <184045822795742496> 25/06/2021 13:05:37.714     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <184045822795742496> 25/06/2021 13:05:37.727     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <184045822795742496> 25/06/2021 13:05:37.741     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <9495006043811004> 25/06/2021 14:25:14.335     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <9495006043811004> 25/06/2021 14:25:14.352     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <9495006043811004> 25/06/2021 14:25:14.368     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <9495006043811004> 25/06/2021 14:25:14.385     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <9495006043811004> 25/06/2021 14:25:14.399     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <9495006043811004> 25/06/2021 14:25:14.412     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <313321110150368704> 25/06/2021 14:26:58.004     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <313321110150368704> 25/06/2021 14:26:58.024     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <313321110150368704> 25/06/2021 14:26:58.041     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <313321110150368704> 25/06/2021 14:26:58.058     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <313321110150368704> 25/06/2021 14:26:58.073     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <313321110150368704> 25/06/2021 14:26:58.085     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <262397081995483168> 25/06/2021 14:30:58.508     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <262397081995483168> 25/06/2021 14:30:58.529     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <262397081995483168> 25/06/2021 14:30:58.545     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <262397081995483168> 25/06/2021 14:30:58.560     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <262397081995483168> 25/06/2021 14:30:58.573     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <262397081995483168> 25/06/2021 14:30:58.586     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <130291868724432672> 25/06/2021 14:31:30.753     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <130291868724432672> 25/06/2021 14:31:30.771     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <130291868724432672> 25/06/2021 14:31:30.786     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <130291868724432672> 25/06/2021 14:31:30.801     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <130291868724432672> 25/06/2021 14:31:30.814     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <130291868724432672> 25/06/2021 14:31:30.827     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <374509606339094336> 25/06/2021 14:32:29.510     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <374509606339094336> 25/06/2021 14:32:29.527     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <374509606339094336> 25/06/2021 14:32:29.543     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <374509606339094336> 25/06/2021 14:32:29.559     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <374509606339094336> 25/06/2021 14:32:29.574     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <374509606339094336> 25/06/2021 14:32:29.590     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <369228082552569984> 25/06/2021 14:33:35.997     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <369228082552569984> 25/06/2021 14:33:36.016     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <369228082552569984> 25/06/2021 14:33:36.032     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <369228082552569984> 25/06/2021 14:33:36.047     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <369228082552569984> 25/06/2021 14:33:36.060     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <369228082552569984> 25/06/2021 14:33:36.072     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <525925438307270400> 25/06/2021 14:34:26.260     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <525925438307270400> 25/06/2021 14:34:26.279     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <525925438307270400> 25/06/2021 14:34:26.296     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <525925438307270400> 25/06/2021 14:34:26.311     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <525925438307270400> 25/06/2021 14:34:26.324     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <525925438307270400> 25/06/2021 14:34:26.337     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <191617493125279264> 25/06/2021 14:35:18.128     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <191617493125279264> 25/06/2021 14:35:18.146     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <191617493125279264> 25/06/2021 14:35:18.161     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <191617493125279264> 25/06/2021 14:35:18.176     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <191617493125279264> 25/06/2021 14:35:18.188     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <191617493125279264> 25/06/2021 14:35:18.200     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 28/06/2021 11:09:07.394     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 11:09:07.472     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 11:09:07.549     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 11:20:10.507     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 11:20:10.583     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 11:20:10.661     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 13:01:48.654     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 13:01:48.738     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 13:01:48.817     [Error  ] - Component Files not found : CGCOCore
+ <239636196991365792> 28/06/2021 13:03:24.639     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <239636196991365792> 28/06/2021 13:03:24.663     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <239636196991365792> 28/06/2021 13:03:24.684     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <239636196991365792> 28/06/2021 13:03:24.709     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <239636196991365792> 28/06/2021 13:03:24.729     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <239636196991365792> 28/06/2021 13:03:24.749     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <430781089205844160> 28/06/2021 13:14:36.087     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <430781089205844160> 28/06/2021 13:14:36.110     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <430781089205844160> 28/06/2021 13:14:36.132     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <430781089205844160> 28/06/2021 13:14:36.155     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <430781089205844160> 28/06/2021 13:14:36.172     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <430781089205844160> 28/06/2021 13:14:36.189     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <119903667065636960> 28/06/2021 13:15:12.533     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <119903667065636960> 28/06/2021 13:15:12.562     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <119903667065636960> 28/06/2021 13:15:12.591     [Error  ] - Component Files not found : CGESCore, Program: "".
+ <119903667065636960> 28/06/2021 13:15:12.624     [Error  ] - Component Files not found : CGESCore, Program: "VerificaLicenca_2212".
+ <119903667065636960> 28/06/2021 13:15:12.641     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <119903667065636960> 28/06/2021 13:15:12.682     [Error  ] - Component used by the task does not exist or could not be opened - Component CGESCore - Project CGGeral, Program: "".
+ <-1> 28/06/2021 13:27:09.859     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 13:27:09.938     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 13:27:10.032     [Error  ] - Component Files not found : CGCOCore
+ <-1> 28/06/2021 13:30:31.822     [Error  ] - Component Files not found : CGESCore
+ <-1> 28/06/2021 13:30:31.921     [Error  ] - Component Files not found : CGPCCore
+ <-1> 28/06/2021 13:30:32.001     [Error  ] - Component Files not found : CGCOCore
+ <-1> 29/06/2021 15:21:51.790     [Error  ] - Component Files not found : CGESCore
+ <-1> 29/06/2021 15:21:51.872     [Error  ] - Component Files not found : CGPCCore
+ <-1> 29/06/2021 15:21:51.951     [Error  ] - Component Files not found : CGCOCore
+ <261583490198359232> 19/07/2021 15:26:45.231     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "".
+ <261583490198359232> 19/07/2021 15:26:45.255     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Inicializa".
+ <261583490198359232> 19/07/2021 15:26:45.388     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.MapWidget()
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Inicializa".
+ <261583490198359232> 19/07/2021 15:26:45.408     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Run()
+   em com.magicsoftware.unipaas.gui.low.GuiInteractiveBase.Invoke()
+   em com.magicsoftware.rte.RuntimeContext.MapWidgets()
+   em com.magicsoftware.rte.ContextsManager.OnContextSwitch(Int64 contextID)
+   em com.magicsoftware.rte.GuiEventsProcessor.OnFormActivate(GuiMgForm guiMgForm)
+   em com.magicsoftware.unipaas.Events.OnFormActivate(GuiMgForm guiMgForm)
+   em com.magicsoftware.unipaas.gui.low.FormHandler.OnFormActivate(Form form)
+   em com.magicsoftware.unipaas.gui.low.FormHandler.handleEvent(EventType type, Object sender, EventArgs e)
+   em com.magicsoftware.unipaas.gui.low.HandlerBase.ActivatedHandler(Object sender, EventArgs e)
+   em System.Windows.Forms.Form.OnActivated(EventArgs e)
+   em System.Windows.Forms.Form.set_Active(Boolean value)
+   em System.Windows.Forms.Form.WmActivate(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em com.magicsoftware.controls.GuiForm.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.SetForegroundWindow(HandleRef hWnd)
+   em System.Windows.Forms.Form.Activate()
+   em com.magicsoftware.unipaas.gui.low.FormHandler.handleEvent(EventType type, Object sender, EventArgs e)
+   em com.magicsoftware.unipaas.gui.low.HandlerBase.LoadHandler(Object sender, EventArgs e)
+   em System.Windows.Forms.Form.OnLoad(EventArgs e)
+   em System.Windows.Forms.Form.OnCreateControl()
+   em System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   em System.Windows.Forms.Control.CreateControl()
+   em System.Windows.Forms.Control.WmShowWindow(Message& m)
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WmShowWindow(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em com.magicsoftware.controls.GuiForm.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   em System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   em System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   em System.Windows.Forms.Control.Show()
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.ShowForm(GuiCommand guiCommand)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Inicializa".
+ <-1> 19/07/2021 15:27:24.746     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 19/07/2021 15:27:39.105     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <121057205355995856> 19/07/2021 15:56:57.735     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.764     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.787     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.812     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.839     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.863     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <121057205355995856> 19/07/2021 15:56:57.887     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:05.838     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:16.301     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:17.246     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:18.618     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:19.791     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:20.826     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <367118222703857472> 19/07/2021 15:58:21.976     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:16.862     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:33.365     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:33.789     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:34.179     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:34.613     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:35.238     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <542108063597270912> 19/07/2021 16:06:35.948     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:10:53.722     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:10:54.161     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:10:54.612     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:11:00.519     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:11:01.289     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:11:01.848     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <490156734910467520> 19/07/2021 16:11:02.399     [Error  ] - Warning - Modify operation canceled due to task Query mode, Program: "Incluir brindes.Cria Temp Brinde".
+ <369334794501353792> 19/07/2021 16:11:42.543     [Error  ] - Initial Task mode not allowed, Program: "Incluir brindes.Cria Temp Brinde".
+ <103791374534973104> 19/07/2021 16:12:07.181     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <391358327272980224> 19/07/2021 16:12:35.817     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <238580033104873344> 19/07/2021 16:15:01.394     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <96841313841648112> 19/07/2021 16:16:54.761     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <357596777879210496> 19/07/2021 16:17:45.460     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <85613557834804816> 19/07/2021 16:18:18.705     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <83779510109921776> 19/07/2021 16:22:17.017     [Error  ] - Cannot modify Read Only, data source:, Program: "Incluir brindes.Cria Temp Brinde".
+ <-1> 22/02/2022 09:16:52.748     [Error  ] - Component Files not found : CGESCore
+ <-1> 22/02/2022 09:16:58.568     [Error  ] - Component Files not found : CGESCore
+ <-1> 22/02/2022 09:16:58.643     [Error  ] - Component Files not found : CGPCCore
+ <-1> 22/02/2022 09:16:58.723     [Error  ] - Component Files not found : CGCOCore
+ <-1> 25/03/2022 09:08:21.647     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <-1> 25/03/2022 09:08:22.162     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Column name or number of supplied values does not match table definition.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Column name or number of supplied values does not match table definition.
+
+[Invalid SQL command]
+
+Programa atual em execução: Controle Saida Nota Fiscal;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Controle Saida Nota Fiscal.TratamentoErroCigamSql.MensagemCigam".
+ <-1> 25/03/2022 09:11:34.619     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 25/03/2022 09:11:34.773     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+Column name or number of supplied values does not match table definition.
+--------------------------------------------------------------------------------
+[OK] [SERVER : Column name or number of supplied values does not match table definition.
+
+[Invalid SQL command]
+
+Programa atual em execução: Controle Saida Nota Fiscal;TratamentoErroCigamSql]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "Controle Saida Nota Fiscal.TratamentoErroCigamSql.MensagemCigam".
+ <-1> 28/03/2022 11:15:21.947     [Error  ] - 
+--------------------------------------------------------------------------------
+CIGAM
+--------------------------------------------------------------------------------
+A licença foi atualizada automaticamente.
+
+O sistema será reiniciado para carregar as novas informações.
+--------------------------------------------------------------------------------
+[OK] [Programa atual em execução: VerificaLicenca_2212;VerificaLicenca;LicencaInvalida]
+
+Pressionado:                     
+--------------------------------------------------------------------------------, Program: "VerificaLicenca_2212.VerificaLicenca.LicencaInvalida.MensagemCigam".
+ <-1> 28/07/2022 16:59:08.764     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/08/2022 17:11:19.342     [Error  ] - SERVER : Incorrect syntax near ':'.
+ <-1> 10/02/2023 09:16:34.311     [Error  ] - SERVER : Invalid object name 'lv_vw_log_pedido'.
+ <249367588890482048> 13/03/2023 10:37:27.685     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <439792213489338880> 13/03/2023 10:37:28.768     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <439792213489338880> 13/03/2023 10:37:28.778     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <439792213489338880> 13/03/2023 10:37:28.781     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <439792213489338880> 13/03/2023 10:37:28.784     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 13/03/2023 10:38:07.753     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 13/03/2023 10:38:22.727     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <464329474944699072> 13/03/2023 10:39:47.841     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <100990419169248848> 01/08/2023 14:05:57.944     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <98313260964752416> 01/08/2023 14:05:58.453     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <98313260964752416> 01/08/2023 14:05:58.459     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <98313260964752416> 01/08/2023 14:05:58.466     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <98313260964752416> 01/08/2023 14:05:58.467     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 01/08/2023 14:06:35.087     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 01/08/2023 14:06:57.381     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <468098008490277760> 07/08/2023 08:50:15.117     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <495053122895336768> 07/08/2023 08:50:15.599     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <495053122895336768> 07/08/2023 08:50:15.602     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <495053122895336768> 07/08/2023 08:50:15.603     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <495053122895336768> 07/08/2023 08:50:15.603     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 07/08/2023 08:50:51.824     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <204469821429524320> 07/08/2023 08:52:36.897     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <299582744909784576> 05/09/2023 08:17:21.536     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <379638038475758976> 05/09/2023 08:17:22.020     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <379638038475758976> 05/09/2023 08:17:22.023     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <379638038475758976> 05/09/2023 08:17:22.024     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <379638038475758976> 05/09/2023 08:17:22.024     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <368998591336655616> 05/09/2023 08:18:01.621     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <515149662731160832> 05/09/2023 08:34:21.933     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <522232868844440192> 13/09/2023 16:00:53.665     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <304185656146160000> 13/09/2023 16:00:54.140     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <304185656146160000> 13/09/2023 16:00:54.143     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <304185656146160000> 13/09/2023 16:00:54.144     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <304185656146160000> 13/09/2023 16:00:54.144     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 13/09/2023 16:02:50.005     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <367863818742944000> 13/09/2023 16:03:59.356     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <37373483169093888> 09/10/2023 15:21:18.525     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <396097843751832128> 09/10/2023 15:21:19.052     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <396097843751832128> 09/10/2023 15:21:19.055     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <396097843751832128> 09/10/2023 15:21:19.056     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <396097843751832128> 09/10/2023 15:21:19.056     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <385460724443315520> 09/10/2023 15:22:09.767     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <95667048078308976> 10/10/2023 10:02:13.705     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <75285083508316480> 10/10/2023 10:02:14.236     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <75285083508316480> 10/10/2023 10:02:14.239     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <75285083508316480> 10/10/2023 10:02:14.239     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <75285083508316480> 10/10/2023 10:02:14.240     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 10/10/2023 10:05:15.491     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 10/10/2023 10:05:29.285     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <3465128731760429> 10/10/2023 10:18:58.507     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <258072765232744832> 10/10/2023 10:18:59.017     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <258072765232744832> 10/10/2023 10:18:59.031     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <258072765232744832> 10/10/2023 10:18:59.033     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <258072765232744832> 10/10/2023 10:18:59.033     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <88812959152333264> 10/10/2023 10:33:27.184     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <266962628895487776> 21/12/2023 11:13:17.059     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <334436292696783040> 21/12/2023 11:13:17.563     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <334436292696783040> 21/12/2023 11:13:17.571     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <334436292696783040> 21/12/2023 11:13:17.571     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <334436292696783040> 21/12/2023 11:13:17.572     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 21/12/2023 11:13:54.819     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <56530084971987040> 21/12/2023 11:15:30.623     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <192579084947740000> 09/01/2024 15:10:27.408     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <541025872811236480> 09/01/2024 15:10:27.918     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <541025872811236480> 09/01/2024 15:10:27.925     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <541025872811236480> 09/01/2024 15:10:27.926     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <541025872811236480> 09/01/2024 15:10:27.926     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 09/01/2024 15:11:03.341     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 09/01/2024 15:11:47.075     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <260432129597273632> 09/01/2024 15:16:02.534     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <558663559637124672> 10/01/2024 09:45:46.483     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <541984276363593600> 10/01/2024 09:45:46.987     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.setMapData(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.ControlsMap.add(Object obj, Int32 idx, Object widget)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "Main Program".
+ <541984276363593600> 10/01/2024 09:45:46.993     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <541984276363593600> 10/01/2024 09:45:46.994     [Error  ] - [MgGui.dll] System.ArgumentNullException : 
+   em System.Collections.Hashtable.get_Item(Object key)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Chave não pode ser nula.
+Nome do parâmetro: key, Program: "Main Program".
+ <541984276363593600> 10/01/2024 09:45:46.994     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "Main Program".
+ <-1> 10/01/2024 10:21:05.017     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <430057399368354880> 10/01/2024 10:21:22.421     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <439984258708486528> 10/01/2024 10:33:32.500     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <41294468365147680> 26/04/2024 13:41:09.652     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <41294468365147680> 26/04/2024 13:44:18.680     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <41294468365147680> 26/04/2024 13:44:18.697     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <41294468365147680> 26/04/2024 13:44:18.699     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <41294468365147680> 26/04/2024 13:44:18.700     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <41294468365147680> 26/04/2024 13:44:18.701     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <41294468365147680> 26/04/2024 13:44:18.702     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <41294468365147680> 26/04/2024 13:44:18.702     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:16.012     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <199362061527262240> 26/04/2024 15:05:25.969     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <199362061527262240> 26/04/2024 15:05:25.981     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:25.983     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:25.985     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:25.985     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:25.986     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <199362061527262240> 26/04/2024 15:05:25.986     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+
+==============================================
+PID 14852	14/05/2024 10:17:11
+==============================================
+
+

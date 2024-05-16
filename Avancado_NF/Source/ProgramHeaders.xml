@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737271" _time="33870" date="31/07/2019" time="09:24:30"/>
+      </Header>
+      <SourceFileTimeStamp _date="737734" _time="51873" date="05/11/2020" time="14:24:33"/>
+    </Program>
+    <Program>
+      <Header Description="Botão Customizado NF Entrada" ISN_2="1" LastIsn="1" id="3">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738732" _time="47963" date="31/07/2023" time="13:19:23"/>
+      </Header>
+      <SourceFileTimeStamp _date="738732" _time="58763" date="31/07/2023" time="16:19:23"/>
+    </Program>
+    <Program>
+      <Header Description="Vinculo Custo" ISN_2="1" LastIsn="1" id="8">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="4"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+            <Attr MgAttr="N"/>
+            <Attr MgAttr="A"/>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737899" _time="54834" date="19/04/2021" time="15:13:54"/>
+      </Header>
+      <SourceFileTimeStamp _date="737899" _time="65535" date="19/04/2021" time="18:12:15"/>
+    </Program>
+    <Program>
+      <Header Description="Log Financeiro" ISN_2="1" LastIsn="1" id="9">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="4"/>
+          <ParametersAttributes>
+            <Attr MgAttr="N"/>
+            <Attr MgAttr="A"/>
+            <Attr MgAttr="A"/>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738732" _time="57824" date="31/07/2023" time="16:03:44"/>
+      </Header>
+      <SourceFileTimeStamp _date="738732" _time="68624" date="31/07/2023" time="19:03:44"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

@@ -1,0 +1,522 @@
+﻿ <-1> 25/11/2021 14:57:48.055     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/11/2021 14:57:50.215     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/11/2021 14:57:50.287     [Error  ] - Component Files not found : CGPCCore
+ <-1> 25/11/2021 14:57:50.350     [Error  ] - Component Files not found : CGCOCore
+ <-1> 12/03/2024 17:23:39.327     [Error  ] - Component Files not found : PreNota2.ecf
+ <255382155115745568> 13/03/2024 10:47:08.969     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <255382155115745568> 13/03/2024 10:47:53.434     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <255382155115745568> 13/03/2024 10:47:53.436     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <501293160178793728> 13/03/2024 10:48:07.704     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <501293160178793728> 13/03/2024 10:48:07.706     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <426919537762929024> 13/03/2024 10:48:48.700     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <426919537762929024> 13/03/2024 10:48:48.703     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <426919537762929024> 13/03/2024 10:50:36.268     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <426919537762929024> 13/03/2024 10:50:36.270     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <447215760269527552> 13/03/2024 10:53:40.926     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <447215760269527552> 13/03/2024 10:53:40.929     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <221140970796867104> 13/03/2024 11:02:03.736     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <221140970796867104> 13/03/2024 11:02:03.738     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <386229367416137280> 13/03/2024 11:03:30.966     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <386229367416137280> 13/03/2024 11:03:30.968     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <460164098759157504> 22/03/2024 15:09:00.099     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <460164098759157504> 22/03/2024 15:09:00.982     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <460164098759157504> 22/03/2024 15:11:01.570     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <460164098759157504> 22/03/2024 15:11:01.572     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <460164098759157504> 22/03/2024 15:12:32.260     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <460164098759157504> 22/03/2024 15:14:08.329     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <265567959791456160> 22/03/2024 15:19:34.638     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <265567959791456160> 22/03/2024 15:20:07.237     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <265567959791456160> 22/03/2024 15:20:35.656     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <265567959791456160> 22/03/2024 15:20:35.658     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <239078170882162560> 22/03/2024 15:24:43.906     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <239078170882162560> 22/03/2024 15:24:43.909     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <396230141145991040> 22/03/2024 15:28:16.798     [Error  ] - Unknown database, data source:, Program: ".GravaImpostoPN".
+ <396230141145991040> 22/03/2024 15:28:16.801     [Error  ] - Unknown database, data source: FIL000, Program: ".GravaImpostoPN".
+ <489196140410544256> 22/03/2024 15:32:44.603     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <489196140410544256> 22/03/2024 15:32:44.605     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <489196140410544256> 22/03/2024 15:33:01.212     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <489196140410544256> 22/03/2024 15:33:01.215     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <-1> 22/03/2024 15:33:48.628     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 22/03/2024 15:34:03.062     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <468046111912993344> 22/03/2024 15:34:21.208     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <468046111912993344> 22/03/2024 15:34:22.029     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <468046111912993344> 22/03/2024 15:34:43.796     [Error  ] - Unknown database, data source:, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <468046111912993344> 22/03/2024 15:34:43.799     [Error  ] - Unknown database, data source: FIL000, Program: "Botão avançado Nota.Serviço..GravaImpostoPN".
+ <549491074165060032> 22/03/2024 15:36:58.760     [Error  ] - Unknown database, data source:, Program: ".GravaImpostoPN".
+ <549491074165060032> 22/03/2024 15:36:58.762     [Error  ] - Unknown database, data source: FIL000, Program: ".GravaImpostoPN".
+ <258715667523309472> 28/03/2024 13:32:02.608     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <258715667523309472> 28/03/2024 13:32:03.602     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <431360556376750336> 28/03/2024 13:34:50.543     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <237764376496235776> 28/03/2024 13:38:29.089     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <288606641688493376> 28/03/2024 13:40:16.880     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <545855335566860992> 28/03/2024 13:59:08.121     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <545882445676933760> 01/04/2024 14:59:56.741     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <545882445676933760> 01/04/2024 14:59:57.671     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <545882445676933760> 01/04/2024 14:59:58.141     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <336024547842294336> 02/04/2024 13:07:09.126     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <336024547842294336> 02/04/2024 13:07:10.065     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <336024547842294336> 02/04/2024 13:07:10.526     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <471878555433685632> 02/04/2024 13:12:31.003     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <331604393805660544> 02/04/2024 13:16:40.169     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <323438147456019136> 02/04/2024 13:18:33.265     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <252769762734916800> 02/04/2024 13:20:02.204     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <252769762734916800> 02/04/2024 13:20:20.765     [Error  ] - Registro encontra-se alocado: COITPNOT, Program: "Botão avançado Nota.Serviço..GravaImpostoPN.Grava Imposto".
+ <-1> 02/04/2024 13:21:00.189     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/04/2024 13:21:19.047     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <161350960527747328> 02/04/2024 13:24:04.085     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <161350960527747328> 02/04/2024 13:24:04.992     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <161350960527747328> 02/04/2024 13:24:05.460     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <161350960527747328> 02/04/2024 13:24:56.884     [Error  ] - Registro encontra-se alocado: COITPNOT, Program: "Botão avançado Nota.Serviço..GravaImpostoPN.Grava Imposto".
+ <-1> 02/04/2024 13:25:35.466     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/04/2024 13:25:51.838     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <184757186174768800> 02/04/2024 13:26:04.062     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <184757186174768800> 02/04/2024 13:26:04.892     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <184757186174768800> 02/04/2024 13:26:05.357     [Error  ] - File not found:: C:\Program Files (x86)\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 02/04/2024 13:52:25.404     [Error  ] - SERVER : Incorrect syntax near ':'.
+ <542993228851595776> 03/04/2024 09:29:34.995     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <542993228851595776> 03/04/2024 09:29:43.999     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <542993228851595776> 03/04/2024 09:29:45.709     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <32433048149462512> 03/04/2024 09:57:47.173     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <254648328144371712> 03/04/2024 10:00:18.721     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <551754055273976576> 03/04/2024 10:00:23.281     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <409557570542365184> 03/04/2024 10:00:56.441     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <342789964937387072> 03/04/2024 10:02:57.915     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <89909119918517872> 03/04/2024 10:04:35.757     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <89909119918517872> 03/04/2024 10:04:36.647     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <89909119918517872> 03/04/2024 10:04:37.102     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <390702391963977984> 03/04/2024 10:13:01.811     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <217752268426691104> 03/04/2024 10:21:09.785     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <217752268426691104> 03/04/2024 10:21:14.555     [Error  ] - Não pode modificar Somente Leitura, fonte de dados: COIORDEM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.CriaItemPN".
+ <111155282139119520> 03/04/2024 10:22:52.786     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <176097420445863776> 03/04/2024 11:22:19.766     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <8035439487323009> 03/04/2024 11:22:42.347     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <374198132631809216> 03/04/2024 11:26:39.958     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <94698797586233072> 04/04/2024 08:53:38.589     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <94698797586233072> 04/04/2024 08:53:39.515     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <94698797586233072> 04/04/2024 08:53:39.990     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <281484129734149056> 04/04/2024 08:56:04.125     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <356969228888293312> 04/04/2024 09:10:12.433     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <389649551041348992> 04/04/2024 09:20:39.166     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <76787145975395568> 04/04/2024 09:39:49.828     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <349877147747637888> 04/04/2024 09:43:53.334     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <82327599168920368> 04/04/2024 09:51:59.733     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <165746382686343552> 04/04/2024 09:52:31.029     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <13647175329217542> 04/04/2024 09:53:29.245     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <177924144482075072> 04/04/2024 14:44:54.439     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "VerificaLicenca_2212.ModulosLiberados".
+ <177924144482075072> 04/04/2024 14:44:55.346     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <177924144482075072> 04/04/2024 14:44:55.822     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <91717562704537360> 04/04/2024 14:47:36.227     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <535657615306014336> 04/04/2024 14:48:46.621     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <64655460663326264> 04/04/2024 14:51:20.120     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <149617558382420064> 04/04/2024 14:52:30.291     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 15:37:02.950     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 15:37:03.005     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 15:43:01.404     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 15:43:01.465     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:09:41.386     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:09:41.442     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:29:55.234     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:29:55.295     [Error  ] - Component Files not found : PreNota2.ecf
+ <177081984222187136> 04/04/2024 16:42:05.552     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <177081984222187136> 04/04/2024 16:42:06.404     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 16:43:14.453     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 04/04/2024 16:43:39.194     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:43:39.251     [Error  ] - Component Files not found : PreNota2.ecf
+ <265441443907837568> 04/04/2024 16:44:44.928     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <265441443907837568> 04/04/2024 16:44:45.752     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 16:48:58.847     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <316127905339456896> 04/04/2024 16:49:17.828     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <316127905339456896> 04/04/2024 16:49:18.667     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 16:54:33.700     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 04/04/2024 16:56:05.010     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 04/04/2024 16:56:05.073     [Error  ] - Component Files not found : PreNota2.ecf
+ <544650080678297984> 04/04/2024 16:57:23.913     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <544650080678297984> 04/04/2024 16:57:24.815     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 17:09:53.622     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 04/04/2024 17:10:21.911     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <122618152544115632> 04/04/2024 17:14:17.641     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <122618152544115632> 04/04/2024 17:14:18.727     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 04/04/2024 17:16:11.816     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 04/04/2024 17:16:25.553     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <386307051493146176> 04/04/2024 17:16:40.966     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <386307051493146176> 04/04/2024 17:16:41.865     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 14:54:40.047     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 05/04/2024 14:54:40.128     [Error  ] - Component Files not found : PreNota2.ecf
+ <298470765581041152> 05/04/2024 14:56:20.593     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <298470765581041152> 05/04/2024 14:56:21.466     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:00:36.286     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:02:40.492     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:08:38.309     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 05/04/2024 15:08:38.370     [Error  ] - Component Files not found : PreNota2.ecf
+ <225034906059534784> 05/04/2024 15:11:09.559     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <225034906059534784> 05/04/2024 15:11:10.383     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:22:10.379     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:26:45.629     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:32:19.961     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 05/04/2024 15:32:20.022     [Error  ] - Component Files not found : PreNota2.ecf
+ <189794051196133728> 05/04/2024 15:33:08.972     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <189794051196133728> 05/04/2024 15:33:09.794     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:37:51.225     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:38:06.472     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <322586622026969984> 05/04/2024 15:38:38.224     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <322586622026969984> 05/04/2024 15:38:39.047     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:42:56.760     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:43:13.639     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <258970426090446464> 05/04/2024 15:43:26.217     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <258970426090446464> 05/04/2024 15:43:27.053     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:45:13.557     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 05/04/2024 15:45:13.616     [Error  ] - Component Files not found : PreNota2.ecf
+ <79681584411841456> 05/04/2024 15:45:31.999     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <79681584411841456> 05/04/2024 15:45:32.819     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <31675549015386928> 05/04/2024 15:48:03.007     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <31675549015386928> 05/04/2024 15:48:03.834     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 15:50:46.899     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 15:51:01.212     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <543019473931229504> 05/04/2024 15:51:13.634     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <543019473931229504> 05/04/2024 15:51:14.452     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <160615321459615392> 05/04/2024 15:52:50.521     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <160615321459615392> 05/04/2024 15:52:51.340     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <226865914030720096> 05/04/2024 15:54:41.343     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <226865914030720096> 05/04/2024 15:54:42.184     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <114406221165987408> 05/04/2024 15:56:29.883     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <114406221165987408> 05/04/2024 15:56:30.704     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 16:10:21.585     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 16:10:56.015     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <82370128222914656> 05/04/2024 16:16:07.187     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <82370128222914656> 05/04/2024 16:16:08.092     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 16:16:51.408     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 16:17:05.275     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <370159475651136192> 05/04/2024 16:17:19.421     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <370159475651136192> 05/04/2024 16:17:20.238     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <116521689315402800> 05/04/2024 16:24:50.439     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <116521689315402800> 05/04/2024 16:24:51.304     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 16:26:05.345     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 16:26:20.356     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <422336092881225280> 05/04/2024 16:26:43.486     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <422336092881225280> 05/04/2024 16:26:44.384     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 05/04/2024 16:37:12.140     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 05/04/2024 16:37:28.254     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <262623556656514848> 05/04/2024 16:39:50.173     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <262623556656514848> 05/04/2024 16:39:51.037     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 17/04/2024 09:12:03.354     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 17/04/2024 09:12:03.425     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 18/04/2024 10:11:11.531     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 18/04/2024 10:11:11.611     [Error  ] - Component Files not found : PreNota2.ecf
+ <490122269375050560> 18/04/2024 10:43:43.646     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <490122269375050560> 18/04/2024 10:43:44.589     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..BuscaVersaoMagic".
+ <-1> 18/04/2024 16:17:41.622     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 18/04/2024 16:17:41.679     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 22/04/2024 11:16:33.986     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 22/04/2024 11:16:34.063     [Error  ] - Component Files not found : PreNota2.ecf
+
+==============================================
+PID 2676	22/04/2024 12:56:07
+==============================================
+
+
+ <-1> 25/04/2024 13:44:52.457     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 25/04/2024 13:44:52.533     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 25/04/2024 17:45:20.496     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 25/04/2024 17:45:20.583     [Error  ] - Component Files not found : PreNota2.ecf
+ <265040645623671296> 25/04/2024 17:49:37.716     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <265040645623671296> 25/04/2024 17:49:48.690     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <265040645623671296> 25/04/2024 17:49:48.733     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <265040645623671296> 25/04/2024 17:49:48.737     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <265040645623671296> 25/04/2024 17:49:48.740     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <265040645623671296> 25/04/2024 17:49:48.740     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <265040645623671296> 25/04/2024 17:49:48.741     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <265040645623671296> 25/04/2024 17:49:48.741     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <-1> 30/04/2024 08:12:28.884     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 30/04/2024 08:12:28.971     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 02/05/2024 08:53:30.680     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 02/05/2024 08:53:30.771     [Error  ] - Component Files not found : PreNota2.ecf
+ <172312190573912544> 02/05/2024 09:53:26.028     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <172312190573912544> 02/05/2024 09:53:43.699     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <172312190573912544> 02/05/2024 09:53:43.786     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <172312190573912544> 02/05/2024 09:53:43.863     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <172312190573912544> 02/05/2024 09:53:43.865     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <172312190573912544> 02/05/2024 09:53:43.866     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <172312190573912544> 02/05/2024 09:53:43.867     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <172312190573912544> 02/05/2024 09:53:43.868     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <-1> 02/05/2024 10:00:08.220     [Error  ] - Component Files not found : PreNota2.ecf
+ <-1> 02/05/2024 10:00:08.284     [Error  ] - Component Files not found : PreNota2.ecf
+ <442843373035599040> 02/05/2024 10:00:19.849     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <442843373035599040> 02/05/2024 10:01:32.610     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <442843373035599040> 02/05/2024 10:01:32.625     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <442843373035599040> 02/05/2024 10:01:32.627     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <442843373035599040> 02/05/2024 10:01:32.628     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <442843373035599040> 02/05/2024 10:01:32.629     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <442843373035599040> 02/05/2024 10:01:32.630     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <442843373035599040> 02/05/2024 10:01:32.630     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:14.761     [Error  ] - Failed to open, data source: MODULOS CIGAM, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212.ModulosLiberados".
+ <521024584486368832> 02/05/2024 10:05:35.763     [Error  ] - File not found:: C:\MSE\Magic xpa 3.3\MgxpaRuntime.exe -ver /LogoFile=none.jpg /LicenseFile=744@nb-jhon /ini=, Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215..BuscaVersaoMagic".
+ <521024584486368832> 02/05/2024 10:05:35.777     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:35.785     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:35.787     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:35.788     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:35.789     [Error  ] - [MgGui.dll] Method: "ToString" Exception: "System.Reflection.TargetException: Método não-estático requer um destino.
+   em com.magicsoftware.unipaas.util.ReflectionServices.InvokeMethod(MethodBase methodInfo, Object obj, Object[] parameters, Boolean alwaysGuiThread)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)", Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".
+ <521024584486368832> 02/05/2024 10:05:35.789     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.WriteDotnetExceptionToLog(Exception exception, Object obj, String opcode, String memberName)
+   em com.magicsoftware.unipaas.management.exp.GuiExpressionEvaluator.eval_op_dn_method(ExpVal resVal, ExpVal[] expParams)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateDotNetOperation(Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resManagedVal)
+   em com.magicsoftware.rte.exp.RteExpressionEvaluator.EvaluateOpcode(TaskBase currTask, Int32 opcode, ManagedExpVal[] managedExpVals, ManagedExpVal& resultVal)
+   em com.magicsoftware.rte.RteExecutor.EvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorEndpoint.InvokeEvaluateOpcode(Int32 taskID, Int32 opCode, IntPtr expVals, Int32 size, IntPtr& resVal)
+   em RteExecutorBridge.EvaluateOpcode(RteExecutorBridge* , Int32 taskID, Int32 opCode, UnmanagedExpVal* expVals, Int32 size, UnmanagedExpVal* resVal)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Botão avançado Nota.Serviço.BuscaItemOC.VerificaLicenca_2212..InicializaCIGAM_2215.VerificaFlags_AmbienteMagic..VerificaTLS1.2".

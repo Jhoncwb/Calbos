@@ -1,0 +1,18 @@
+﻿ <328704973912819200> 21/05/2021 14:33:51.968     [Error  ] - Record has been lost, program: CriaPedido.Capa.Itens
+ <328704973912819200> 21/05/2021 14:33:51.980     [Error  ] - Record has been lost, program: CriaPedido.Capa
+ <189418062341342176> 21/05/2021 14:34:48.148     [Error  ] - Record has been lost, program: CriaPedido.Capa.Itens
+ <189418062341342176> 21/05/2021 14:34:48.160     [Error  ] - Record has been lost, program: CriaPedido.Capa
+ <546480690948079680> 21/05/2021 14:35:53.581     [Error  ] - Record has been lost, program: CriaPedido.Capa.Itens
+ <546480690948079680> 21/05/2021 14:35:53.592     [Error  ] - Record has been lost, program: CriaPedido.Capa
+ <486137969931208256> 21/05/2021 15:32:28.117     [Error  ] - Cannot modify Read Only, data source: SPARPEDDESC, program: CriaPedido.Calcula imposto
+ <55412312512352784> 21/05/2021 15:34:03.614     [Error  ] - Cannot modify Read Only, data source: SPARPEDDESC, program: CriaPedido.Calcula imposto
+ <-1> 08/09/2021 10:43:41.756     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 08/09/2021 10:43:54.468     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <136753366466797712> 09/09/2021 14:11:12.125     [Error  ] - Task without screen, Program: "CriaPedido".
+ <136753366466797712> 09/09/2021 14:11:12.219     [Error  ] - Task without screen, Program: "CriaPedido".
+ <-1> 07/11/2023 16:22:41.929     [Error  ] - Component Files not found : CabGeralCGData.ecf
+ <-1> 07/11/2023 16:22:42.003     [Error  ] - Component Files not found : CabGeralCIGAMK.ecf
+ <-1> 07/11/2023 16:22:42.118     [Error  ] - Component Files not found : CabGeralCGData.ecf
+ <-1> 07/11/2023 16:22:42.175     [Error  ] - Component Files not found : CabGeralCIGAMK.ecf
+ <-1> 07/11/2023 16:22:42.882     [Error  ] - Component Files not found : CabGeralCGData.ecf
+ <-1> 07/11/2023 16:22:42.938     [Error  ] - Component Files not found : CabGeralCGData.ecf

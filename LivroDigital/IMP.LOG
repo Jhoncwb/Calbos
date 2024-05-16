@@ -1,0 +1,27 @@
+Converting project  (27/03/20 08:36:12)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+Program/Task  3 - Control #.PesquisaFacil - Info - 73 - The Y value of the control was changed and the control has an Y expression. - Program = 2; Task = 1; Form = 1; Control = 37; PropertyIdExp = 22;  
+Program/Task  3 - Task mode expression: IF(Trim({0,16}) <> '','Q'MODE,'C'MODE) - Warning - 43 - Some of the task modes are not supported. Manual change in the task mode expression may be required. - Program = 2; Task = 1; PropertyName = InitialMode;  
+General - General (74) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (153) - Info - 2 - Style and Border of the controls were changed.
+General - Components (5) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (5) - Info - 74 - New transaction message was added.
+General - color 341 instead of 2 (5) - Info - 54 - New color was assigned to the control.
+General - color 342 instead of 2 (2) - Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000 (2) - Info - 54 - New color was assigned to the control.
+General - font 252 instead of 108- Info - 56 - New font was assigned to the control.
+Converting project  (05/11/20 12:51:17)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+Program/Task  3 - Control  - Info - 7 - Controls was attached to its container control. - Program = 2; Task = 1; Form = 1; Control = 62;  
+Program/Task  3 - Control Quantidade Nota Fiscal_0001 - Info - 7 - Controls was attached to its container control. - Program = 2; Task = 1; Form = 1; Control = 63;  
+Program/Task  3 - Control #.PesquisaFacil - Info - 73 - The Y value of the control was changed and the control has an Y expression. - Program = 2; Task = 1; Form = 1; Control = 37; PropertyIdExp = 22;  
+Program/Task  3 - Task mode expression: IF(Trim({0,16}) <> '','Q'MODE,'C'MODE) - Warning - 43 - Some of the task modes are not supported. Manual change in the task mode expression may be required. - Program = 2; Task = 1; PropertyName = InitialMode;  
+General - General (112) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (179) - Info - 2 - Style and Border of the controls were changed.
+General - Components (17) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (17) - Info - 74 - New transaction message was added.
+General - color 341 instead of 2 (5) - Info - 54 - New color was assigned to the control.
+General - color 342 instead of 2 (2) - Info - 54 - New color was assigned to the control.
+General - color 340 instead of 10000 (2) - Info - 54 - New color was assigned to the control.

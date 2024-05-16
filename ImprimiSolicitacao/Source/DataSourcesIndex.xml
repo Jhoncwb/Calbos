@@ -1,0 +1,23 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="5"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="LC_CGREPORT" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" name="LC_CGREPORT" offset="213" length="3371"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31104394-202622296"/>  </Application>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <DebugMode Val="Y"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <Breakpoints>
+    <DelAll/>
+    <Breakpoint>
+      <Condition Val=""/>
+      <Location Val="Envia Email vendedor"/>
+      <HandlerId Val="4"/>
+      <OperationId Val="25"/>
+      <LineIndex Val="7"/>
+      <HandlerDesc Val="Event:PB &lt;/b_confirmar_Select>"/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="1984550673"/>
+      <Component2 Val="51984"/>
+      <Component3 Val="17208"/>
+      <Component4 Val="1211700097"/>
+      <Component5 Val="64332971"/>
+      <Prog Val="2"/>
+      <Subtask Val="1"/>
+      <Type Val="1"/>
+      <Operation Val="25"/>
+    </Breakpoint>
+  </Breakpoints>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+</Application>

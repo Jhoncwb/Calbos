@@ -1,0 +1,7 @@
+﻿ <221203022905301920> 09/06/2020 13:36:38.087     [Error  ] - Initial Task mode not allowed, program: Televendas
+ <315467985450407360> 10/06/2020 08:12:05.053     [Error  ] - Initial Task mode not allowed, program: Televendas.Proposta
+ <555596152258824320> 10/06/2020 15:19:09.823     [Error  ] - Failed to commit transaction, program: Televendas.Pedido 449.Pedido
+ <555596152258824320> 10/06/2020 15:19:11.839     [Error  ] - Failed to commit transaction, program: Televendas.Pedido 449.Pedido
+ <555596152258824320> 10/06/2020 15:19:44.156     [Error  ] - Record has been deleted/updated or cannot be locked, program: Televendas
+ <555596152258824320> 10/06/2020 15:19:44.630     [Error  ] - Failed to commit transaction, program: Televendas
+ <207175799535576832> 15/06/2020 09:15:03.556     [Error  ] - Record has been updated - restart, program: Televendas

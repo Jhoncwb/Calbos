@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="19"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_SEPARACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="10017" name="LC_SEPARACAO" offset="213"/>
+      <DataObject PhysicalName="and_estoque_mps" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="4987" name="and_estoque_mps" offset="10231"/>
+      <DataObject PhysicalName="LC_TEMP_DEV_SEP_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" length="4889" name="LC_TEMP_DEV_SEP_%USUARIO%" offset="15219"/>
+      <DataObject PhysicalName="LC_BARRAS_SEPARACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" length="14212" name="LC_BARRAS_SEPARACAO" offset="20109"/>
+      <DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" length="20574" name="LC_LIVRO" offset="34322"/>
+      <DataObject PhysicalName="LC_LOG_VOLTA_LISTA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" length="4062" name="LC_LOG_VOLTA_LISTA" offset="54897"/>
+      <DataObject PhysicalName="LC_SEPARACAO_PEDIDO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" length="3441" name="LC_SEPARACAO_PEDIDO" offset="58960"/>
+      <DataObject PhysicalName="LC_MATERIAL_CA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" length="2086" name="LC_MATERIAL_CA" offset="62402"/>
+      <DataObject PhysicalName="LC_TEMP_SOLICITACAO_CA_%TEMP%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" length="3333" name="LC_TEMP_SOLICITACAO_CA_%TEMP%" offset="64489"/>
+      <DataObject PhysicalName="LC_SOLICITACAO_ENTRE_CA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="14" length="10058" name="LC_SOLICITACAO_ENTRE_CA" offset="67823"/>
+      <DataObject PhysicalName="LC_LISTA_IGNORA_FIFO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="16" length="1552" name="LC_LISTA_IGNORA_FIFO" offset="77882"/>
+      <DataObject PhysicalName="LC_TEMP_SOLICITACAO_CA_D%TEMP%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="17" length="3971" name="LC_TEMP_SOLICITACAO_CA_D%TEMP%" offset="79435"/>
+      <DataObject PhysicalName="LC_COMP_PRODUCAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="18" length="7675" name="LC_COMP_PRODUCAO" offset="83407"/>
+      <DataObject PhysicalName="LC_VALIDADE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_INTEGRA" id="19" length="3926" name="LC_VALIDADE" offset="91083"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="3107744319027587"/>
+
+</Application>

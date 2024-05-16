@@ -1,0 +1,36 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="19"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+   
+<DataObject PhysicalName="LC_TMP_PROD%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_TMP_PROD%USUARIO%" offset="214" length="6120"/> 
+<DataObject PhysicalName="LC_RESPONSAVEL_PROCESSO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="LC_RESPONSAVEL_PROCESSO" offset="6335" length="2972"/> 
+<DataObject PhysicalName="LC_COMP_PRODUCAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="LC_COMP_PRODUCAO" offset="9308" length="6324"/> 
+<DataObject PhysicalName="LC_COMP_PRODUCAO_LOG" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" name="LC_COMP_PRODUCAO_LOG" offset="15633" length="6291"/> 
+<DataObject PhysicalName="Temp_reprograma_OP" Resident="N" UniqueISNConvState="12" data_source="Banco Memoria" id="9" name="Temp_reprograma_OP" offset="21925" length="2840"/> 
+<DataObject PhysicalName="LC_TAMANHO_TANQUE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="10" name="LC_TAMANHO_TANQUE" offset="24766" length="2949"/> 
+<DataObject PhysicalName="demandamedia" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="11" name="demandamedia" offset="27716" length="2529"/> 
+<DataObject PhysicalName="LC_ENG_EXPLODIDO_TMP_%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" name="LC_ENG_EXPLODIDO_TMP_%USUARIO%" offset="30246" length="61981"/> 
+<DataObject PhysicalName="LC_COMP_TANQUE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" name="LC_COMP_TANQUE" offset="92228" length="1533"/> 
+<DataObject PhysicalName="LC_PROGRAMACAO_OP%USUARIO%" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="14" name="LC_PROGRAMACAO_OP%USUARIO%" offset="93762" length="32625"/> 
+<DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="15" name="LC_LIVRO" offset="126388" length="26657"/> 
+<DataObject PhysicalName="LC_TEMPO_ANALISE_MPME" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="16" name="LC_TEMPO_ANALISE_MPME" offset="153046" length="2977"/> 
+<DataObject PhysicalName="LC_LISTA_IGNORA_SEPARACAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="17" name="LC_LISTA_IGNORA_SEPARACAO" offset="156024" length="1576"/> 
+<DataObject PhysicalName="LC_APOIO_PRODUCAO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="19" name="LC_APOIO_PRODUCAO" offset="157601" length="26316"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="3110073571956219"/>  </Application>

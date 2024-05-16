@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <DebugMode Val="Y"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <Breakpoints>
+    <DelAll/>
+    <Breakpoint>
+      <Condition Val=""/>
+      <Location Val="Pesquisa paginada aprovação PA.Aprovação produto acabado"/>
+      <HandlerId Val="5"/>
+      <OperationId Val="66"/>
+      <LineIndex Val="10"/>
+      <HandlerDesc Val="Event:PB &lt;/b_anexo>"/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="-838032320"/>
+      <Component2 Val="21742"/>
+      <Component3 Val="16533"/>
+      <Component4 Val="-542206845"/>
+      <Component5 Val="1694401279"/>
+      <Prog Val="2"/>
+      <Subtask Val="3"/>
+      <Type Val="1"/>
+      <Operation Val="66"/>
+    </Breakpoint>
+  </Breakpoints>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+</Application>

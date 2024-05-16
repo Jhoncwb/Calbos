@@ -1,0 +1,30 @@
+USE [BTESTE]
+GO
+/****** Object:  Trigger [dbo].[SPAR_Z_Atualiza_Bonificado]    Script Date: 21/07/2016 14:58:09 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER TRIGGER [dbo].[SPAR_Z_Atualiza_Bonificado] ON [dbo].[FAPEDIDO]
+FOR UPDATE
+AS
+IF TRIGGER_NESTLEVEL()>1
+RETURN
+IF NOT(UPDATE(Vl_total_descon))
+BEGIN
+DECLARE 
+	@SEQ_ITEM int
+	
+	DECLARE Atualiza_pedido_bonific CURSOR FOR
+		  select sequencia from FAITEMPE where Cd_pedido = (select cd_pedido from inserted)
+	  OPEN Atualiza_pedido_bonific
+	  FETCH Atualiza_pedido_bonific INTO @SEQ_ITEM
+	  WHILE(@@fetch_status = 0)
+	  BEGIN
+			update FAITEMPE set Controle = Controle where Sequencia = @SEQ_ITEM and Cd_pedido = (select Cd_pedido from inserted) and Cd_especie  ='R';
+			update CECPEDID set campo34 = (select (Vl_total_descon/(Total_pedido+Vl_total_descon)*100) from inserted) where pedido = (select Cd_pedido from inserted) and Seq_pedido = 0;
+		FETCH Atualiza_pedido_bonific INTO @SEQ_ITEM
+	  END
+	CLOSE Atualiza_pedido_bonific
+	DEALLOCATE Atualiza_pedido_bonific;
+END

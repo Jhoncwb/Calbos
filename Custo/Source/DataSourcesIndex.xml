@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="3"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="LC_CUSTO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="13732" name="LC_CUSTO" offset="212"/>
+      <DataObject PhysicalName="LC_MAO_OBRA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="2045" name="LC_MAO_OBRA" offset="13945"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30860157-25939276"/>
+
+</Application>

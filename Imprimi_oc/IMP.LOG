@@ -1,0 +1,13 @@
+Import warnings from file: C:\CIGAM\Temp\Project.xml (10/01/19 15:58:29)
+========================================================================
+
+Field 5 in File GEGERREL may lose significance. Modify the field to 8 byte length
+
+Converting project  (05/11/20 12:40:36)
+======================================================================
+Program/Task  1 - Main program form - Info - 6 - MDI form was created. - Program = 1; Task = 1; Form = 1;  
+General - General (23) - Info - 1 - User State Persistency changed from Name to Yes/No.
+General - General (12) - Info - 2 - Style and Border of the controls were changed.
+General - Components (5) - Info - 63 - The end user functionality component was added to the project.
+General - Syntax checker (5) - Info - 74 - New transaction message was added.
+General - color 340 instead of 10000- Info - 54 - New color was assigned to the control.

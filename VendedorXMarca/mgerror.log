@@ -1,0 +1,39 @@
+﻿ <451911459214422720> 26/03/2021 11:35:54.390     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Documento Colaborador
+ <451911459214422720> 26/03/2021 11:36:08.621     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Documento Colaborador
+ <451911459214422720> 26/03/2021 11:36:36.426     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Documento Colaborador
+ <451911459214422720> 26/03/2021 11:37:50.985     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Documento Colaborador
+ <300669450776307072> 26/03/2021 11:39:13.299     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Browse - LC_DOC_COLABORADOR
+ <300669450776307072> 26/03/2021 11:39:20.881     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Browse - LC_DOC_COLABORADOR
+ <345218388295328256> 29/03/2021 08:53:18.398     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Browse - LC_DOC_COLABORADOR
+ <274700930176011584> 29/03/2021 09:15:50.325     [Error  ] - Update operation failed, data source: LC_DOC_COLABORADOR, program: Browse - LC_DOC_COLABORADOR
+ <56825160101916760> 30/03/2021 15:11:10.549     [Error  ] - Failed to open, data source: GECPTE, program: VerificaTabelaComponentes
+ <56825160101916760> 30/03/2021 15:11:23.150     [Error  ] - Failed to open, data source: GECPTE, program: VerificaTabelaComponentes
+ <-1> 31/03/2021 10:53:12.815     [Error  ] - Component Files not found : CabGeralCGFunctions.ecf
+ <-1> 15/04/2021 10:31:14.736     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <111946352634915264> 07/07/2021 14:31:52.248     [Error  ] - Record has been lost, Program: "Documento Colaborador".
+ <113771139005489024> 30/09/2021 13:29:06.204     [Error  ] - File not found:: CGReport.exe -G: -M:"W:\CIGAMe11\Systempar\ANDRE\quematende.frx" -A:"X:\Relatoriotemp\415%USUARIO%.frx" -P:@empresa=@@"empresa", Program: "Botão avançado Empresa.Chama relatorio 415".
+ <281160756650437984> 30/09/2021 14:09:47.009     [Error  ] - File not found:: CGReport.exe -G: -M:"W:\CIGAMe11\Systempar\ANDRE\quematende.frx" -A:"X:\Relatoriotemp\415%USUARIO%.frx" -P:@empresa="000019", Program: "Botão avançado Empresa.Chama relatorio 415".
+ <-1> 22/02/2022 09:20:44.036     [Error  ] - Component Files not found : CGESCore
+ <-1> 22/02/2022 09:20:49.743     [Error  ] - Component Files not found : CGESCore
+ <-1> 22/02/2022 09:20:49.814     [Error  ] - Component Files not found : CGPCCore
+ <-1> 22/02/2022 09:20:49.895     [Error  ] - Component Files not found : CGCOCore
+ <-1> 25/02/2022 15:48:47.152     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/02/2022 15:48:52.955     [Error  ] - Component Files not found : CGESCore
+ <-1> 25/02/2022 15:48:53.023     [Error  ] - Component Files not found : CGPCCore
+ <-1> 25/02/2022 15:48:53.103     [Error  ] - Component Files not found : CGCOCore
+ <-1> 02/03/2022 13:26:54.688     [Error  ] - Component Files not found : CGESCore
+ <-1> 02/03/2022 13:27:00.688     [Error  ] - Component Files not found : CGESCore
+ <-1> 02/03/2022 13:27:00.762     [Error  ] - Component Files not found : CGPCCore
+ <-1> 02/03/2022 13:27:00.859     [Error  ] - Component Files not found : CGCOCore
+ <-1> 05/02/2024 15:52:02.053     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:52:05.076     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:52:05.087     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:52:28.876     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:52:31.709     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:52:31.711     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:38.537     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:41.301     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:41.303     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:53.360     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:55.672     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf
+ <-1> 05/02/2024 15:53:55.674     [Error  ] - Component Files not found : QualificacaoFornecedor.ecf

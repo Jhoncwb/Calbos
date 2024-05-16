@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737875" _time="34419" date="26/03/2021" time="09:33:39"/>
+      </Header>
+      <SourceFileTimeStamp _date="737880" _time="49923" date="31/03/2021" time="13:52:03"/>
+    </Program>
+    <Program>
+      <Header Description="Vendedor por marca" ISN_2="1" LastIsn="1" id="2">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738208" _time="39254" date="22/02/2022" time="10:54:14"/>
+      </Header>
+      <SourceFileTimeStamp _date="738208" _time="50055" date="22/02/2022" time="13:54:15"/>
+    </Program>
+    <Program>
+      <Header Description="Botão avançado Empresa" ISN_2="1" LastIsn="4" id="4">
+        <Public val="LC001"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738993" _time="38584" date="17/04/2024" time="10:43:04"/>
+      </Header>
+      <SourceFileTimeStamp _date="738921" _time="72398" date="05/02/2024" time="20:06:38"/>
+    </Program>
+    <Program>
+      <Header Description="Documento Colaborador" ISN_2="1" LastIsn="3" id="5">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="1"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="737978" _time="64486" date="07/07/2021" time="17:54:46"/>
+      </Header>
+      <SourceFileTimeStamp _date="737978" _time="75133" date="07/07/2021" time="20:52:13"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>
