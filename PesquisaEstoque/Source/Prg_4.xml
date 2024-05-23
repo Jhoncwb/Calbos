@@ -50,7 +50,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738944" _time="60574" date="28/02/2024" time="16:49:34"/>
+          <LastModified _date="739023" _time="50291" date="17/05/2024" time="13:58:11"/>
         </Header>
         <ItemIsn val="90"/>
         <Resource>
@@ -93,8 +93,7 @@
                 <SelectProgram id="58"/>
                 <GuiDisplay id="158">
                   <PropertyList model="CTRL_GUI0_EDIT">
-                    <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Model comp="2" id="1" obj="703"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -103,7 +102,7 @@
                 <GuiDisplayTable id="159">
                   <PropertyList model="CTRL_GUI0_EDIT">
                     <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Color id="51" val="276"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -725,7 +724,7 @@
                 <GuiDisplay id="158">
                   <PropertyList model="CTRL_GUI0_EDIT">
                     <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Color id="51" val="276"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -734,7 +733,7 @@
                 <GuiDisplayTable id="159">
                   <PropertyList model="CTRL_GUI0_EDIT">
                     <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Color id="51" val="276"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -763,7 +762,7 @@
                 <GuiDisplay id="158">
                   <PropertyList model="CTRL_GUI0_EDIT">
                     <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Color id="51" val="276"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -772,7 +771,7 @@
                 <GuiDisplayTable id="159">
                   <PropertyList model="CTRL_GUI0_EDIT">
                     <Font id="50" val="101"/>
-                    <Color id="51" val="355"/>
+                    <Color id="51" val="276"/>
                     <Border id="452" val="Y"/>
                     <V11Style id="539" val="3"/>
                     <V11Color id="695" val="101"/>
@@ -11918,7 +11917,7 @@
               <External val="N"/>
               <FormType val="N"/>
               <DotNetObjectExists val="N"/>
-              <LastModified _date="738944" _time="60562" date="28/02/2024" time="16:49:22"/>
+              <LastModified _date="739023" _time="50146" date="17/05/2024" time="13:55:46"/>
             </Header>
             <ItemIsn val="145"/>
             <Resource>
@@ -12891,7 +12890,7 @@
               </BOX>
             </Information>
             <SQL_FORM DB="CIGAM_SQL" RESTAB="Banco Memoria">
-              <SQL_STMT_U val="SELECT tipo_campo&#xD;&#xA;&#x9;,T.cd_material&#xD;&#xA;&#x9;,unid__neg&#xD;&#xA;&#x9;,centro_armaz&#xD;&#xA;&#x9;,cd_esp1&#xD;&#xA;&#x9;,cd_esp2&#xD;&#xA;&#x9;,cd_esp3&#xD;&#xA;&#x9;,numeracao&#xD;&#xA;&#x9;,lote&#xD;&#xA;&#x9;,numero_serie&#xD;&#xA;&#x9;,total_entradas&#xD;&#xA;&#x9;,total_saidas&#xD;&#xA;&#x9;,quant_caixas&#xD;&#xA;&#x9;,preco_custo&#xD;&#xA;&#x9;,preco_compra&#xD;&#xA;&#x9;,preco_medio&#xD;&#xA;&#x9;,peso_bruto&#xD;&#xA;&#x9;,peso_liq&#xD;&#xA;&#x9;,dt_compra&#xD;&#xA;&#x9;,dt_validade&#xD;&#xA;&#x9;,case LIVRO.Situacao when  'Q' then 'Quarentena'&#xD;&#xA;&#x9;when  'A' then 'Aprovado'&#xD;&#xA;&#x9;when  'R' then 'Reprovado'&#xD;&#xA;&#x9;when  'C' then 'Coletado' end SituacaoLivro&#xD;&#xA;&#x9;&#xD;&#xA;from :1 T :2 &#xD;&#xA;OUTER APPLY (&#xD;&#xA;&#x9;SELECT Situacao&#xD;&#xA;&#x9;FROM LC_LIVRO(NOLOCK)&#xD;&#xA;&#x9;WHERE LC_LIVRO.cd_Material = t.cd_material&#xD;&#xA;&#x9;&#x9;AND LC_LIVRO.Lote_Interno = t.Lote&#xD;&#xA;&#x9;&#x9;AND LC_LIVRO.cd_Unidade_Negocio IN (&#xD;&#xA;&#x9;&#x9;&#x9;SELECT GEUNIDNE.Cd_unidade_de_n&#xD;&#xA;&#x9;&#x9;&#x9;FROM GEUNIDNE(NOLOCK)&#xD;&#xA;&#x9;&#x9;&#x9;INNER JOIN GEUNIDNE Z&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;ON z.campo9 = GEUNIDNE.campo9&#xD;&#xA;&#x9;&#x9;&#x9;WHERE z.Cd_unidade_de_n = t.Unid__Neg&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;AND LC_LIVRO.Lote_Interno &lt;> LC_LIVRO.Lote_Fornecedor)&#xD;&#xA;&#x9;union all&#xD;&#xA;&#x9;SELECT Situacao&#xD;&#xA;&#x9;FROM LC_APROVACAO_PA(NOLOCK)&#xD;&#xA;&#x9;WHERE LC_APROVACAO_PA.Codigo_Material = t.cd_material&#xD;&#xA;&#x9;&#x9;AND LC_APROVACAO_PA.Lote = t.Lote&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;) Livro&#xD;&#xA;:3&#xD;&#xA;ORDER BY chave_ordem&#xD;&#xA;"/>
+              <SQL_STMT_U val="SELECT tipo_campo&#xD;&#xA;&#x9;,T.cd_material&#xD;&#xA;&#x9;,unid__neg&#xD;&#xA;&#x9;,centro_armaz&#xD;&#xA;&#x9;,cd_esp1&#xD;&#xA;&#x9;,cd_esp2&#xD;&#xA;&#x9;,cd_esp3&#xD;&#xA;&#x9;,numeracao&#xD;&#xA;&#x9;,lote&#xD;&#xA;&#x9;,numero_serie&#xD;&#xA;&#x9;,total_entradas&#xD;&#xA;&#x9;,total_saidas&#xD;&#xA;&#x9;,quant_caixas&#xD;&#xA;&#x9;,preco_custo&#xD;&#xA;&#x9;,preco_compra&#xD;&#xA;&#x9;,preco_medio&#xD;&#xA;&#x9;,peso_bruto&#xD;&#xA;&#x9;,peso_liq&#xD;&#xA;&#x9;,dt_compra&#xD;&#xA;&#x9;,dt_validade&#xD;&#xA;&#x9;,case LIVRO.Situacao when  'Q' then 'Quarentena'&#xD;&#xA;&#x9;when  'A' then 'Aprovado'&#xD;&#xA;&#x9;when  'R' then 'Reprovado'&#xD;&#xA;&#x9;when  'C' then 'Coletado' end SituacaoLivro&#xD;&#xA;&#x9;&#xD;&#xA;from :1 T :2 &#xD;&#xA;OUTER APPLY (&#xD;&#xA;&#x9;SELECT top 1 Situacao&#xD;&#xA;&#x9;FROM LC_LIVRO(NOLOCK)&#xD;&#xA;&#x9;WHERE LC_LIVRO.cd_Material = t.cd_material&#xD;&#xA;&#x9;&#x9;AND LC_LIVRO.Lote_Interno = t.Lote&#xD;&#xA;&#x9;&#x9;AND LC_LIVRO.cd_Unidade_Negocio IN (&#xD;&#xA;&#x9;&#x9;&#x9;SELECT GEUNIDNE.Cd_unidade_de_n&#xD;&#xA;&#x9;&#x9;&#x9;FROM GEUNIDNE(NOLOCK)&#xD;&#xA;&#x9;&#x9;&#x9;INNER JOIN GEUNIDNE Z&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;ON z.campo9 = GEUNIDNE.campo9&#xD;&#xA;&#x9;&#x9;&#x9;WHERE z.Cd_unidade_de_n = t.Unid__Neg&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;AND LC_LIVRO.Lote_Interno &lt;> LC_LIVRO.Lote_Fornecedor)&#xD;&#xA;&#x9;union all&#xD;&#xA;&#x9;SELECT top 1 Situacao&#xD;&#xA;&#x9;FROM LC_APROVACAO_PA(NOLOCK)&#xD;&#xA;&#x9;WHERE LC_APROVACAO_PA.Codigo_Material = t.cd_material&#xD;&#xA;&#x9;&#x9;AND LC_APROVACAO_PA.Lote = t.Lote&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;) Livro&#xD;&#xA;:3&#xD;&#xA;ORDER BY chave_ordem&#xD;&#xA;"/>
               <INARG>
                 <Arguments>
                   <Argument>

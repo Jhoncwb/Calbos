@@ -669,7 +669,7 @@
       <Menu>
         <ToolNumber val="4"/>
         <Name val="Menu Geral"/>
-        <LastIsn val="21"/>
+        <LastIsn val="22"/>
         <MenuEntry id="1">
           <MenuType val="2"/>
           <Description_U val="Imp romaneio"/>
@@ -794,6 +794,15 @@
           <Help comp="-1"/>
           <Prompt comp="-1"/>
           <Program ObjIsn="67" comp="-1" obj="67"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="22">
+          <MenuType val="2"/>
+          <Description_U val="Livro"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="76" comp="-1" obj="76"/>
           <SourceContext val="67"/>
         </MenuEntry>
         <MenuEntry id="7">
@@ -962,8 +971,8 @@
       </Menu>
       <Menu>
         <ToolNumber val="7"/>
-        <Name val="Menu Qualidade"/>
-        <LastIsn val="4"/>
+        <Name val="Menu Controle Qualidade"/>
+        <LastIsn val="5"/>
         <MenuEntry id="1">
           <MenuType val="2"/>
           <Name val="Consulta Estoque"/>
@@ -972,6 +981,15 @@
           <Help comp="-1"/>
           <Prompt comp="-1"/>
           <Program ObjIsn="30" comp="-1" obj="30"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="5">
+          <MenuType val="2"/>
+          <Description_U val="Livro"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="76" comp="-1" obj="76"/>
           <SourceContext val="67"/>
         </MenuEntry>
         <MenuEntry id="4">

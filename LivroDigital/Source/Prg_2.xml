@@ -34,7 +34,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738993" _time="32943" date="17/04/2024" time="09:09:03"/>
+          <LastModified _date="739029" _time="53266" date="23/05/2024" time="14:47:46"/>
         </Header>
         <ItemIsn val="147"/>
         <Resource>
@@ -1286,6 +1286,7 @@
               <EventType val="S"/>
               <PublicObject comp="-1"/>
             </Event>
+            <Expanded val="1"/>
             <LogicLines>
               <LogicLine>
                 <CallTask FlowIsn="947">
@@ -4068,7 +4069,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="738993" _time="32943" date="17/04/2024" time="09:09:03"/>
+            <LastModified _date="739029" _time="52995" date="23/05/2024" time="14:43:15"/>
           </Header>
           <ItemIsn val="12"/>
           <Resource>
@@ -5452,7 +5453,7 @@
               <External val="N"/>
               <FormType val="N"/>
               <DotNetObjectExists val="N"/>
-              <LastModified _date="738943" _time="58154" date="27/02/2024" time="16:09:14"/>
+              <LastModified _date="739029" _time="53266" date="23/05/2024" time="14:47:46"/>
             </Header>
             <ItemIsn val="5"/>
             <Resource>
@@ -5487,11 +5488,11 @@
                 <ConfirmUpdate CNFU="N"/>
                 <ConfirmCancel val="N"/>
                 <ErrorStrategy val="A"/>
-                <LockingStrategy val="I"/>
+                <LockingStrategy val="M"/>
                 <CacheStrategy val="T"/>
                 <ForceRecordSuffix val="N"/>
-                <TransactionMode val="W"/>
-                <TransactionBegin val="T"/>
+                <TransactionMode val="P"/>
+                <TransactionBegin val="N"/>
                 <PreloadView val="N"/>
                 <AllowEmptyDataview val="N"/>
                 <KeepCreatedContext val="N"/>

@@ -28,6 +28,26 @@
       <SourceFileTimeStamp _date="739022" _time="66821" date="16/05/2024" time="18:33:41"/>
     </Program>
     <Program>
+      <Header Description="Livro" ISN_2="1" LastIsn="38" id="76">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="Y"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="D"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="739029" _time="54651" date="23/05/2024" time="15:10:51"/>
+      </Header>
+      <SourceFileTimeStamp _date="739029" _time="65451" date="23/05/2024" time="18:10:51"/>
+    </Program>
+    <Program>
       <Header Description="Gestao de pedido" ISN_2="1" LastIsn="36" id="72">
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -178,7 +198,7 @@
       <SourceFileTimeStamp _date="738613" _time="64646" date="03/04/2023" time="17:57:26"/>
     </Program>
     <Program>
-      <Header Description="Shell" ISN_2="1" LastIsn="39" id="6">
+      <Header Description="Shell" ISN_2="1" LastIsn="1" id="6">
         <Public val="LC001"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -196,7 +216,7 @@
         <DotNetObjectExists val="N"/>
         <LastModified _date="739022" _time="59166" date="16/05/2024" time="16:26:06"/>
       </Header>
-      <SourceFileTimeStamp _date="739022" _time="68631" date="16/05/2024" time="19:03:51"/>
+      <SourceFileTimeStamp _date="739022" _time="69966" date="16/05/2024" time="19:26:06"/>
     </Program>
     <Program>
       <Header Description="Logoff" ISN_2="1" LastIsn="1" id="18">

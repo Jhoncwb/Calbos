@@ -5,9 +5,12 @@
     <Version val="13030.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="74"/>
-    <LastIsnFolder val="12"/>
+    <LastIsn val="76"/>
+    <LastIsnFolder val="13"/>
     <Folders>
+      <Folder id="13">
+        <Name val="Controle Qualidade"/>
+      </Folder>
       <Folder id="12">
         <Name val="Faturamento"/>
       </Folder>
@@ -47,6 +50,7 @@
   <ProgramsRepositoryOutLine>
     <Programs>
       <Program id="1"/>
+      <Program FolderIsn="13" id="76"/>
       <Program FolderIsn="12" id="72"/>
       <Program FolderIsn="11" id="67"/>
       <Program FolderIsn="10" id="66"/>

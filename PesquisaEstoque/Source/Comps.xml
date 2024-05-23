@@ -7353,7 +7353,6 @@
             <PublicName val="PABENS"/>
           </Object>
           <Object>
-            <id val="720"/>
             <ItemIsn val="1465"/>
             <PublicName val="LINHA_0720"/>
           </Object>
@@ -7978,7 +7977,6 @@
             <PublicName val="LINHA_0844"/>
           </Object>
           <Object>
-            <id val="845"/>
             <ItemIsn val="1590"/>
             <PublicName val="LINHA_0845"/>
           </Object>
@@ -8227,7 +8225,6 @@
             <PublicName val="GFTEMPCALC"/>
           </Object>
           <Object>
-            <id val="895"/>
             <ItemIsn val="1640"/>
             <PublicName val="LINHA_0895"/>
           </Object>
@@ -8866,17 +8863,14 @@
             <PublicName val="LINHA_1022"/>
           </Object>
           <Object>
-            <id val="1023"/>
             <ItemIsn val="1768"/>
             <PublicName val="LINHA_1023"/>
           </Object>
           <Object>
-            <id val="1024"/>
             <ItemIsn val="1769"/>
             <PublicName val="LINHA_1024"/>
           </Object>
           <Object>
-            <id val="1025"/>
             <ItemIsn val="1770"/>
             <PublicName val="LINHA_1025"/>
           </Object>
@@ -8916,52 +8910,42 @@
             <PublicName val="GECATEGORIA"/>
           </Object>
           <Object>
-            <id val="1034"/>
             <ItemIsn val="1779"/>
             <PublicName val="LINHA_1034"/>
           </Object>
           <Object>
-            <id val="1035"/>
             <ItemIsn val="1780"/>
             <PublicName val="LINHA_1035"/>
           </Object>
           <Object>
-            <id val="1036"/>
             <ItemIsn val="1781"/>
             <PublicName val="LINHA_1036"/>
           </Object>
           <Object>
-            <id val="1037"/>
             <ItemIsn val="1782"/>
             <PublicName val="LINHA_1037"/>
           </Object>
           <Object>
-            <id val="1038"/>
             <ItemIsn val="1783"/>
             <PublicName val="LINHA_1038"/>
           </Object>
           <Object>
-            <id val="1039"/>
             <ItemIsn val="1784"/>
             <PublicName val="LINHA_1039"/>
           </Object>
           <Object>
-            <id val="1040"/>
             <ItemIsn val="1785"/>
             <PublicName val="LINHA_1040"/>
           </Object>
           <Object>
-            <id val="1041"/>
             <ItemIsn val="1786"/>
             <PublicName val="LINHA_1041"/>
           </Object>
           <Object>
-            <id val="1042"/>
             <ItemIsn val="1787"/>
             <PublicName val="LINHA_1042"/>
           </Object>
           <Object>
-            <id val="1043"/>
             <ItemIsn val="1788"/>
             <PublicName val="LINHA_1043"/>
           </Object>
@@ -9180,27 +9164,22 @@
             <PublicName val="AGPLACASEQDIA"/>
           </Object>
           <Object>
-            <id val="1087"/>
             <ItemIsn val="1832"/>
             <PublicName val="LINHA_1087"/>
           </Object>
           <Object>
-            <id val="1088"/>
             <ItemIsn val="1833"/>
             <PublicName val="LINHA_1088"/>
           </Object>
           <Object>
-            <id val="1089"/>
             <ItemIsn val="1834"/>
             <PublicName val="LINHA_1089"/>
           </Object>
           <Object>
-            <id val="1090"/>
             <ItemIsn val="1835"/>
             <PublicName val="LINHA_1090"/>
           </Object>
           <Object>
-            <id val="1091"/>
             <ItemIsn val="1836"/>
             <PublicName val="LINHA_1091"/>
           </Object>
@@ -10670,7 +10649,6 @@
             <PublicName val="GLIMASIS"/>
           </Object>
           <Object>
-            <id val="1385"/>
             <ItemIsn val="2130"/>
             <PublicName val="LINHA_1385"/>
           </Object>
@@ -11640,37 +11618,30 @@
             <PublicName val="LINHA_1578"/>
           </Object>
           <Object>
-            <id val="1579"/>
             <ItemIsn val="2324"/>
             <PublicName val="LINHA_1579"/>
           </Object>
           <Object>
-            <id val="1580"/>
             <ItemIsn val="2325"/>
             <PublicName val="LINHA_1580"/>
           </Object>
           <Object>
-            <id val="1581"/>
             <ItemIsn val="2326"/>
             <PublicName val="LINHA_1581"/>
           </Object>
           <Object>
-            <id val="1582"/>
             <ItemIsn val="2327"/>
             <PublicName val="LINHA_1582"/>
           </Object>
           <Object>
-            <id val="1583"/>
             <ItemIsn val="2328"/>
             <PublicName val="LINHA_1583"/>
           </Object>
           <Object>
-            <id val="1584"/>
             <ItemIsn val="2329"/>
             <PublicName val="LINHA_1584"/>
           </Object>
           <Object>
-            <id val="1585"/>
             <ItemIsn val="2330"/>
             <PublicName val="LINHA_1585"/>
           </Object>
@@ -12910,37 +12881,30 @@
             <PublicName val="LINHA_1833"/>
           </Object>
           <Object>
-            <id val="1834"/>
             <ItemIsn val="2579"/>
             <PublicName val="LINHA_1834"/>
           </Object>
           <Object>
-            <id val="1835"/>
             <ItemIsn val="2580"/>
             <PublicName val="LINHA_1835"/>
           </Object>
           <Object>
-            <id val="1836"/>
             <ItemIsn val="2581"/>
             <PublicName val="LINHA_1836"/>
           </Object>
           <Object>
-            <id val="1837"/>
             <ItemIsn val="2582"/>
             <PublicName val="LINHA_1837"/>
           </Object>
           <Object>
-            <id val="1838"/>
             <ItemIsn val="2583"/>
             <PublicName val="LINHA_1838"/>
           </Object>
           <Object>
-            <id val="1839"/>
             <ItemIsn val="2584"/>
             <PublicName val="LINHA_1839"/>
           </Object>
           <Object>
-            <id val="1840"/>
             <ItemIsn val="2585"/>
             <PublicName val="LINHA_1840"/>
           </Object>
@@ -12950,7 +12914,6 @@
             <PublicName val="LINHA_1841"/>
           </Object>
           <Object>
-            <id val="1842"/>
             <ItemIsn val="2587"/>
             <PublicName val="LINHA_1842"/>
           </Object>
@@ -13694,7 +13657,6 @@
             <PublicName val="PJPROGRAMA"/>
           </Object>
           <Object>
-            <id val="1991"/>
             <ItemIsn val="2736"/>
             <PublicName val="LINHA_1991"/>
           </Object>
@@ -22120,7 +22082,6 @@
             <PublicName val="CR0327"/>
           </Object>
           <Object>
-            <id val="1228"/>
             <ItemIsn val="4422"/>
             <PublicName val="LIVRE_1228"/>
           </Object>
@@ -32598,12 +32559,12 @@
         </ComponentEvents>
         <ComponentFuncs>
           <Object>
-            <id val="3"/>
+            <id val="4"/>
             <ItemIsn val="6517"/>
             <PublicName val="Rights"/>
           </Object>
           <Object>
-            <id val="4"/>
+            <id val="5"/>
             <ItemIsn val="6518"/>
             <PublicName val="User"/>
           </Object>
@@ -32785,47 +32746,47 @@
         </ComponentPrograms>
         <ComponentFuncs>
           <Object>
-            <id val="6"/>
+            <id val="8"/>
             <ItemIsn val="34"/>
             <PublicName val="CGGetNetworkPath"/>
           </Object>
           <Object>
-            <id val="7"/>
+            <id val="9"/>
             <ItemIsn val="35"/>
             <PublicName val="CGMensagem"/>
           </Object>
           <Object>
-            <id val="8"/>
+            <id val="10"/>
             <ItemIsn val="36"/>
             <PublicName val="CGRequestPostBody"/>
           </Object>
           <Object>
-            <id val="9"/>
+            <id val="11"/>
             <ItemIsn val="37"/>
             <PublicName val="CGSplash"/>
           </Object>
           <Object>
-            <id val="10"/>
+            <id val="12"/>
             <ItemIsn val="38"/>
             <PublicName val="CGTraducaoMsg"/>
           </Object>
           <Object>
-            <id val="11"/>
+            <id val="15"/>
             <ItemIsn val="39"/>
             <PublicName val="ChkDgt11"/>
           </Object>
           <Object>
-            <id val="12"/>
+            <id val="16"/>
             <ItemIsn val="40"/>
             <PublicName val="CMes"/>
           </Object>
           <Object>
-            <id val="13"/>
+            <id val="17"/>
             <ItemIsn val="41"/>
             <PublicName val="ColorToRGB"/>
           </Object>
           <Object>
-            <id val="14"/>
+            <id val="18"/>
             <ItemIsn val="42"/>
             <PublicName val="DatabaseErrorCigamSql"/>
           </Object>
@@ -32834,142 +32795,142 @@
             <PublicName val="DatasComboBox"/>
           </Object>
           <Object>
-            <id val="18"/>
+            <id val="22"/>
             <ItemIsn val="44"/>
             <PublicName val="DateToDbString"/>
           </Object>
           <Object>
-            <id val="19"/>
+            <id val="23"/>
             <ItemIsn val="45"/>
             <PublicName val="DBnameTruncTable"/>
           </Object>
           <Object>
-            <id val="20"/>
+            <id val="24"/>
             <ItemIsn val="46"/>
             <PublicName val="DBNameWithNoLock"/>
           </Object>
           <Object>
-            <id val="21"/>
+            <id val="25"/>
             <ItemIsn val="47"/>
             <PublicName val="DBTruncTable"/>
           </Object>
           <Object>
-            <id val="22"/>
+            <id val="26"/>
             <ItemIsn val="48"/>
             <PublicName val="DSourceName"/>
           </Object>
           <Object>
-            <id val="23"/>
+            <id val="27"/>
             <ItemIsn val="49"/>
             <PublicName val="GetVisibleVarString"/>
           </Object>
           <Object>
-            <id val="24"/>
+            <id val="29"/>
             <ItemIsn val="50"/>
             <PublicName val="IsCustomer"/>
           </Object>
           <Object>
-            <id val="25"/>
+            <id val="31"/>
             <ItemIsn val="51"/>
             <PublicName val="LimpaExpressoesLimites"/>
           </Object>
           <Object>
-            <id val="26"/>
+            <id val="32"/>
             <ItemIsn val="52"/>
             <PublicName val="MagicIniPath"/>
           </Object>
           <Object>
-            <id val="27"/>
+            <id val="33"/>
             <ItemIsn val="53"/>
             <PublicName val="MontaComboModDiv"/>
           </Object>
           <Object>
-            <id val="28"/>
+            <id val="34"/>
             <ItemIsn val="54"/>
             <PublicName val="NomePublicoProgramaAcima"/>
           </Object>
           <Object>
-            <id val="29"/>
+            <id val="35"/>
             <ItemIsn val="55"/>
             <PublicName val="PosicionaSubBotao"/>
           </Object>
           <Object>
-            <id val="30"/>
+            <id val="36"/>
             <ItemIsn val="56"/>
             <PublicName val="RuntimeFile"/>
           </Object>
           <Object>
-            <id val="31"/>
+            <id val="37"/>
             <ItemIsn val="57"/>
             <PublicName val="RuntimeIsEnterpriseServer"/>
           </Object>
           <Object>
-            <id val="32"/>
+            <id val="38"/>
             <ItemIsn val="58"/>
             <PublicName val="RuntimeIsUniPaaS"/>
           </Object>
           <Object>
-            <id val="33"/>
+            <id val="39"/>
             <ItemIsn val="59"/>
             <PublicName val="RuntimeIsXPA"/>
           </Object>
           <Object>
-            <id val="34"/>
+            <id val="40"/>
             <ItemIsn val="60"/>
             <PublicName val="RuntimeProcessId"/>
           </Object>
           <Object>
-            <id val="35"/>
+            <id val="41"/>
             <ItemIsn val="61"/>
             <PublicName val="SpecialCharCleanUp"/>
           </Object>
           <Object>
-            <id val="36"/>
+            <id val="42"/>
             <ItemIsn val="62"/>
             <PublicName val="SubstituiVirgulaPonto"/>
           </Object>
           <Object>
-            <id val="37"/>
+            <id val="43"/>
             <ItemIsn val="63"/>
             <PublicName val="TSTRCents"/>
           </Object>
           <Object>
-            <id val="38"/>
+            <id val="44"/>
             <ItemIsn val="64"/>
             <PublicName val="UpperNoAccent"/>
           </Object>
           <Object>
-            <id val="39"/>
+            <id val="45"/>
             <ItemIsn val="65"/>
             <PublicName val="VerificaLimitesAtivGSWeb"/>
           </Object>
           <Object>
-            <id val="40"/>
+            <id val="46"/>
             <ItemIsn val="66"/>
             <PublicName val="VerificaLimitesAtividadeGS"/>
           </Object>
           <Object>
-            <id val="41"/>
+            <id val="47"/>
             <ItemIsn val="67"/>
             <PublicName val="VerificaLimitesCompras"/>
           </Object>
           <Object>
-            <id val="42"/>
+            <id val="48"/>
             <ItemIsn val="68"/>
             <PublicName val="VerificaLimitesEstoque"/>
           </Object>
           <Object>
-            <id val="43"/>
+            <id val="49"/>
             <ItemIsn val="69"/>
             <PublicName val="VerificaLimitesFaturamento"/>
           </Object>
           <Object>
-            <id val="44"/>
+            <id val="50"/>
             <ItemIsn val="70"/>
             <PublicName val="VerificaLimitesFinanceiro"/>
           </Object>
           <Object>
-            <id val="45"/>
+            <id val="51"/>
             <ItemIsn val="71"/>
             <PublicName val="VerificaLimitesLivros"/>
           </Object>
@@ -32982,47 +32943,47 @@
             <PublicName val="VerificaLimitesNotaFiscal"/>
           </Object>
           <Object>
-            <id val="46"/>
+            <id val="53"/>
             <ItemIsn val="74"/>
             <PublicName val="VerificaLimitesOrdemCompras"/>
           </Object>
           <Object>
-            <id val="47"/>
+            <id val="54"/>
             <ItemIsn val="75"/>
             <PublicName val="VerificaLimitesOrdemServico"/>
           </Object>
           <Object>
-            <id val="48"/>
+            <id val="55"/>
             <ItemIsn val="76"/>
             <PublicName val="VerificaLimitesOSWeb"/>
           </Object>
           <Object>
-            <id val="49"/>
+            <id val="56"/>
             <ItemIsn val="77"/>
             <PublicName val="VerificaLimitesPedido"/>
           </Object>
           <Object>
-            <id val="50"/>
+            <id val="57"/>
             <ItemIsn val="78"/>
             <PublicName val="VerificaLimitesPlanejamento"/>
           </Object>
           <Object>
-            <id val="51"/>
+            <id val="58"/>
             <ItemIsn val="79"/>
             <PublicName val="VerificaLimitesPrazoEntrega"/>
           </Object>
           <Object>
-            <id val="52"/>
+            <id val="60"/>
             <ItemIsn val="80"/>
             <PublicName val="VerificaLimitesSolicitacao"/>
           </Object>
           <Object>
-            <id val="53"/>
+            <id val="61"/>
             <ItemIsn val="81"/>
             <PublicName val="VerificaLimitesTabPreco"/>
           </Object>
           <Object>
-            <id val="54"/>
+            <id val="62"/>
             <ItemIsn val="82"/>
             <PublicName val="VerificaLimitesViagens"/>
           </Object>
@@ -33705,6 +33666,7 @@
             <PublicName val="CK00140"/>
           </Object>
           <Object>
+            <id val="219"/>
             <ItemIsn val="134"/>
             <PublicName val="CK00141"/>
           </Object>
