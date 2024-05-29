@@ -34,7 +34,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="739029" _time="53266" date="23/05/2024" time="14:47:46"/>
+          <LastModified _date="739033" _time="61642" date="27/05/2024" time="17:07:22"/>
         </Header>
         <ItemIsn val="147"/>
         <Resource>
@@ -2118,6 +2118,7 @@
               <EventType val="S"/>
               <PublicObject comp="-1"/>
             </Event>
+            <Expanded val="1"/>
             <LogicLines>
               <LogicLine>
                 <Update FlowIsn="478">
@@ -2289,6 +2290,9 @@
                       <Expression val="88"/>
                       <Skip val="N"/>
                     </Argument>
+                    <Argument>
+                      <Skip val="Y"/>
+                    </Argument>
                   </Arguments>
                   <Wait val="Y"/>
                   <SyncData val="N"/>
@@ -2377,7 +2381,6 @@
               <PublicObject comp="-1" obj="1"/>
             </Event>
             <TXT val="b_subMenu"/>
-            <Expanded val="1"/>
             <LogicLines>
               <LogicLine>
                 <CallTask FlowIsn="1165">
@@ -4069,7 +4072,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="739029" _time="52995" date="23/05/2024" time="14:43:15"/>
+            <LastModified _date="739033" _time="61642" date="27/05/2024" time="17:07:22"/>
           </Header>
           <ItemIsn val="12"/>
           <Resource>
@@ -4576,7 +4579,29 @@
                   </CallTask>
                 </LogicLine>
                 <LogicLine>
-                  <BLOCK EndBlock="76" EndBlockSegment="79" FlowIsn="75" Type="I">
+                  <Update FlowIsn="188">
+                    <FieldID val="11"/>
+                    <WithValue val="17"/>
+                    <Incremental val="N"/>
+                    <ForcedUpdate val="Y"/>
+                    <Condition Exp="19"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </Update>
+                </LogicLine>
+                <LogicLine>
+                  <Update FlowIsn="161">
+                    <FieldID val="11"/>
+                    <WithValue val="17"/>
+                    <Incremental val="N"/>
+                    <ForcedUpdate val="Y"/>
+                    <Condition Exp="18"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </Update>
+                </LogicLine>
+                <LogicLine>
+                  <BLOCK EndBlock="76" EndBlockSegment="76" FlowIsn="75" Type="I">
                     <Condition Exp="16"/>
                     <Modifier val="B"/>
                     <Direction val="C"/>
@@ -4607,22 +4632,23 @@
                   </Update>
                 </LogicLine>
                 <LogicLine>
-                  <BLOCK EndBlock="76" EndBlockSegment="76" FlowIsn="79" Type="E">
-                    <Condition val="Y"/>
-                    <Modifier val="B"/>
-                    <Direction val="C"/>
-                  </BLOCK>
+                  <END_BLK FlowIsn="76"/>
                 </LogicLine>
                 <LogicLine>
-                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" FlowIsn="80" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TXT="Favor adicionar a revisão do material." TitleTxt="Warning" VR_DISP="B">
+                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" FlowIsn="217" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TXT="Favor adicionar a revisão do material." TitleTxt="Warning" VR_DISP="B">
                     <AppendToErrorLog val="N"/>
-                    <Condition val="Y"/>
+                    <Condition Exp="19"/>
                     <Modifier val="B"/>
                     <Direction val="C"/>
                   </STP>
                 </LogicLine>
                 <LogicLine>
-                  <END_BLK FlowIsn="76"/>
+                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" FlowIsn="218" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TXT="Favor validar numero de certificado, Teor e anexo antes de aprovar." TitleTxt="Warning" VR_DISP="B">
+                    <AppendToErrorLog val="N"/>
+                    <Condition Exp="18"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </STP>
                 </LogicLine>
                 <LogicLine>
                   <Remark FlowIsn="12">
@@ -5105,6 +5131,14 @@
               <ExpSyntax val="Translate('%CIGAM_INSTAL%')&amp; 'CGReport.exe -G: -M:&quot;'&amp;Translate('%CIGAM_INSTAL%')&amp;'Systempar\Relatorios\Entrada\Etiqueta_Entrada_a4.frx&quot; -A:&quot;'&amp;Translate('%CIGAM_INSTAL%')&amp;'Temp\327' &amp; Translate('%USUARIO%') &#xD;&#xA;&amp; '.frx&quot;' &#xD;&#xA;&amp; ' -P:@P_un=&quot;' &amp; Trim({1,1}) &#xD;&#xA;&amp; '&quot; -P:@P_nf=&quot;' &amp; Trim(Str({1,4},'10')) &#xD;&#xA;&amp; '&quot; -P:@P_serie=&quot;' &amp; Trim({1,2}) &#xD;&#xA;&amp; '&quot; -P:@P_fornecedor=&quot;' &amp; Trim({1,3}) &#xD;&#xA;&amp; '&quot;'"/>
               <ExpAttribute val="A"/>
             </Expression>
+            <Expression id="19">
+              <ExpSyntax val="{1,135} = 'ME' AND {1,134} = 0"/>
+              <ExpAttribute val="B"/>
+            </Expression>
+            <Expression id="18">
+              <ExpSyntax val="{1,96} = ' ' OR IF({1,135} = 'ME','FALSE'LOG,{1,125}=0) OR {1,143} = ' '"/>
+              <ExpAttribute val="B"/>
+            </Expression>
             <Expression id="16">
               <ExpSyntax val="{0,11}"/>
               <ExpAttribute val="B"/>
@@ -5159,6 +5193,10 @@
             </Expression>
             <Expression id="15">
               <ExpSyntax val="{1,135}='ME'"/>
+              <ExpAttribute val="B"/>
+            </Expression>
+            <Expression id="17">
+              <ExpSyntax val="'FALSE'LOG"/>
               <ExpAttribute val="B"/>
             </Expression>
           </Expressions>

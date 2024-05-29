@@ -28,7 +28,7 @@
       <SourceFileTimeStamp _date="737734" _time="56537" date="05/11/2020" time="15:42:17"/>
     </Program>
     <Program>
-      <Header Description="Balanço" ISN_2="1" LastIsn="12" id="2">
+      <Header Description="Balanço" ISN_2="1" LastIsn="1" id="2">
         <Public val="LC_001"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -43,9 +43,9 @@
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
-        <LastModified _date="738993" _time="33408" date="17/04/2024" time="09:16:48"/>
+        <LastModified _date="738993" _time="33407" date="17/04/2024" time="09:16:47"/>
       </Header>
-      <SourceFileTimeStamp _date="738874" _time="39439" date="20/12/2023" time="10:57:19"/>
+      <SourceFileTimeStamp _date="738993" _time="44208" date="17/04/2024" time="12:16:48"/>
     </Program>
     <Program>
       <Header Description="Ajuste estoque" ISN_2="1" LastIsn="18" id="3">

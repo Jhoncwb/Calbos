@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Pesquisa Livro de entrada" ISN_2="1" LastIsn="5" id="4">
+        <Header Description="Pesquisa Livro de entrada" ISN_2="1" LastIsn="1" id="4">
           <Public val="LC001"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -28,7 +28,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="737804" _time="34894" date="14/01/2021" time="09:41:34"/>
+          <LastModified _date="739033" _time="60892" date="27/05/2024" time="16:54:52"/>
         </Header>
         <ItemIsn val="31"/>
         <Resource>
@@ -159,6 +159,7 @@
         </Information>
         <INT_CMP_LIST_INFO>
           <v>4</v>
+          <v>3</v>
           <v>1</v>
         </INT_CMP_LIST_INFO>
         <TaskLogic>
@@ -545,6 +546,25 @@
             </Event>
             <Expanded val="1"/>
             <LogicLines>
+              <LogicLine>
+                <CallTask FlowIsn="204">
+                  <OperationType val="P"/>
+                  <TaskID comp="3" obj="1235"/>
+                  <Lock val="N"/>
+                  <Arguments>
+                    <Argument>
+                      <Expression val="4"/>
+                      <Skip val="N"/>
+                    </Argument>
+                  </Arguments>
+                  <Wait val="Y"/>
+                  <SyncData val="N"/>
+                  <RetainFocus val="N"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </CallTask>
+              </LogicLine>
               <LogicLine>
                 <CallTask FlowIsn="73">
                   <OperationType val="P"/>
@@ -1140,6 +1160,7 @@
                 <Data FieldID="31" id="43"/>
                 <ControlName id="46" val="Teor"/>
                 <Style id="63" val="1"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="13"/>
                 <Border id="452"/>
               </PropertyList>
