@@ -7,6 +7,29 @@
 
   <RIAExecutionPlatform Val="Desktop"/>
 
+  <Breakpoints>
+    <DelAll/>
+    <Breakpoint>
+      <Condition Val=""/>
+      <Location Val="Livro de entrada.subMenu"/>
+      <HandlerId Val="5"/>
+      <OperationId Val="132"/>
+      <LineIndex Val="5"/>
+      <HandlerDesc Val="Event:PB &lt;/b_aprovado>"/>
+      <Count Val="0"/>
+      <Enable Val="1"/>
+      <Component1 Val="-1088212617"/>
+      <Component2 Val="151"/>
+      <Component3 Val="16453"/>
+      <Component4 Val="1129315217"/>
+      <Component5 Val="-50899349"/>
+      <Prog Val="2"/>
+      <Subtask Val="3"/>
+      <Type Val="1"/>
+      <Operation Val="132"/>
+    </Breakpoint>
+  </Breakpoints>
+
   <WatchListItems>
     <RestData/>
   </WatchListItems>

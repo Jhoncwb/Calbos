@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="6"/>
+  <LastIsn val="7"/>
 
   <LastIsnFolder val="0"/>
 
@@ -17,7 +17,7 @@
 </Header>
  <DataSourceRepository>
   <DataObjects>
- 
+  
 <DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_LIVRO">
 
   <Encrypt val="N"/>
@@ -1742,6 +1742,70 @@
         <Segment>
           <Size val="128"/>
           <Column val="16"/>
+          <Order val="A"/>
+        </Segment>
+      </Segments>
+    </Index>
+  </Indexes>
+
+  <ForeignKeys/>
+
+  <WebS/>
+
+</DataObject> 
+<DataObject PhysicalName="LC_LIVRO_MATERIAL_SEM_TEOR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="LC_LIVRO_MATERIAL_SEM_TEOR">
+
+  <Encrypt val="N"/>
+
+  <Cache val="D"/>
+
+  <IdentifyRowModifications val="U"/>
+
+  <HasHint val="Y"/>
+
+  <Cursor val="D"/>
+
+  <CheckExistence val="Y"/>
+
+  <ObjectType val="T"/>
+
+  <Position val="D"/>
+
+  <PositionIndex val="1"/>
+
+  <IndexesLastIsn val="1"/>
+
+  <MetaTreeRTIndex val="-1"/>
+
+  <Columns>
+    <Column id="1" name="Codigo Material">
+      <PropertyList model="FIELD">
+        <Model attr_obj="FIELD_ALPHA" comp="1" id="1" obj="39"/>
+        <StoredAs id="173" val="3"/>
+        <Size id="174" val="20"/>
+        <Definition id="175" val="2"/>
+        <DbColumnName id="178" val="Codigo_Material"/>
+        <_Flip id="194"/>
+        <_FieldPhysical Name="Codigo_Material" PIC_U="20A" Size="20" allowed_null="N" attribute="A" context_cookies="Y" database_definition="2" id="231" storage="3" translate="1"/>
+      </PropertyList>
+    </Column>
+  </Columns>
+
+  <Indexes>
+    <Index id="1" name="k_LC_LIVRO_MATERIAL_SEM_TEOR">
+      <Mode val="S"/>
+      <Order val="T"/>
+      <Range val="Q"/>
+      <IndexType val="R"/>
+      <PhysicalName val="k_LC_LIVRO_MATERIAL_SEM_TEOR"/>
+      <HasHint val="Y"/>
+      <Clustered val="N"/>
+      <DropOnReindex val="N"/>
+      <Primary val="N"/>
+      <Segments>
+        <Segment>
+          <Size val="20"/>
+          <Column val="1"/>
           <Order val="A"/>
         </Segment>
       </Segments>

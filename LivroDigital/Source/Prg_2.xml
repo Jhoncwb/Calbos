@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Livro de entrada" ISN_2="1" LastIsn="6" id="2">
+        <Header Description="Livro de entrada" ISN_2="1" LastIsn="7" id="2">
           <Public val="LC002"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
@@ -34,7 +34,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="739033" _time="61642" date="27/05/2024" time="17:07:22"/>
+          <LastModified _date="739040" _time="48147" date="03/06/2024" time="13:22:27"/>
         </Header>
         <ItemIsn val="147"/>
         <Resource>
@@ -2290,9 +2290,6 @@
                       <Expression val="88"/>
                       <Skip val="N"/>
                     </Argument>
-                    <Argument>
-                      <Skip val="Y"/>
-                    </Argument>
                   </Arguments>
                   <Wait val="Y"/>
                   <SyncData val="N"/>
@@ -3763,7 +3760,7 @@
         <VarRangeInfo Mode="E" VarRangeVeeIsn="5" id="12"/>
         <VarRangeInfo Mode="E" VarRangeVeeIsn="6" id="13"/>
         <Task MainProgram="N">
-          <Header Description="Busca_sequencia" ISN_2="2" LastIsn="6" id="2">
+          <Header Description="Busca_sequencia" ISN_2="2" LastIsn="7" id="2">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -4059,7 +4056,7 @@
           <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
         </Task>
         <Task MainProgram="N">
-          <Header Description="subMenu" ISN_2="3" LastIsn="6" id="2">
+          <Header Description="subMenu" ISN_2="3" LastIsn="7" id="2">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -4072,7 +4069,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="739033" _time="61642" date="27/05/2024" time="17:07:22"/>
+            <LastModified _date="739040" _time="40459" date="03/06/2024" time="11:14:19"/>
           </Header>
           <ItemIsn val="12"/>
           <Resource>
@@ -4579,17 +4576,6 @@
                   </CallTask>
                 </LogicLine>
                 <LogicLine>
-                  <Update FlowIsn="188">
-                    <FieldID val="11"/>
-                    <WithValue val="17"/>
-                    <Incremental val="N"/>
-                    <ForcedUpdate val="Y"/>
-                    <Condition Exp="19"/>
-                    <Modifier val="B"/>
-                    <Direction val="C"/>
-                  </Update>
-                </LogicLine>
-                <LogicLine>
                   <Update FlowIsn="161">
                     <FieldID val="11"/>
                     <WithValue val="17"/>
@@ -4599,6 +4585,19 @@
                     <Modifier val="B"/>
                     <Direction val="C"/>
                   </Update>
+                </LogicLine>
+                <LogicLine>
+                  <CallTask FlowIsn="239">
+                    <OperationType val="T"/>
+                    <TaskID comp="-1" obj="7"/>
+                    <Lock val="N"/>
+                    <Wait val="Y"/>
+                    <SyncData val="N"/>
+                    <RetainFocus val="N"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </CallTask>
                 </LogicLine>
                 <LogicLine>
                   <BLOCK EndBlock="76" EndBlockSegment="76" FlowIsn="75" Type="I">
@@ -5136,7 +5135,7 @@
               <ExpAttribute val="B"/>
             </Expression>
             <Expression id="18">
-              <ExpSyntax val="{1,96} = ' ' OR IF({1,135} = 'ME','FALSE'LOG,{1,125}=0) OR {1,143} = ' '"/>
+              <ExpSyntax val="{1,96} = ' ' OR IF({1,135} = 'ME','FALSE'LOG,{1,125}=0)"/>
               <ExpAttribute val="B"/>
             </Expression>
             <Expression id="16">
@@ -5201,7 +5200,7 @@
             </Expression>
           </Expressions>
           <Task MainProgram="N">
-            <Header Description="Delete Etiquetas" ISN_2="4" LastIsn="6" id="2">
+            <Header Description="Delete Etiquetas" ISN_2="4" LastIsn="7" id="2">
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -5478,7 +5477,7 @@
             <VarRangeInfo Mode="E" VarRangeVeeIsn="4" id="4"/>
           </Task>
           <Task MainProgram="N">
-            <Header Description="ValidaExisteRevisão" ISN_2="6" LastIsn="6" id="2">
+            <Header Description="ValidaExisteRevisão" ISN_2="6" LastIsn="7" id="2">
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -5491,7 +5490,7 @@
               <External val="N"/>
               <FormType val="N"/>
               <DotNetObjectExists val="N"/>
-              <LastModified _date="739029" _time="53266" date="23/05/2024" time="14:47:46"/>
+              <LastModified _date="739035" _time="53203" date="29/05/2024" time="14:46:43"/>
             </Header>
             <ItemIsn val="5"/>
             <Resource>
@@ -5696,7 +5695,7 @@
                 <ExpAttribute val="B"/>
               </Expression>
               <Expression id="3">
-                <ExpSyntax val="{0,2}={1,134} AND {0,5}"/>
+                <ExpSyntax val="{0,2}={1,134}"/>
                 <ExpAttribute val="B"/>
               </Expression>
               <Expression id="2">
@@ -5710,9 +5709,227 @@
             </Expressions>
             <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
           </Task>
+          <Task MainProgram="N">
+            <Header Description="Validacao se tem teor" ISN_2="7" LastIsn="7" id="2">
+              <ExecutionRight comp="-1"/>
+              <Resident val="N"/>
+              <SQL val="N"/>
+              <ReturnValue>
+                <ReturnValueAttr/>
+                <ParametersAttributes/>
+              </ReturnValue>
+              <SqlWhereExist val="N"/>
+              <TaskType val="B"/>
+              <External val="N"/>
+              <FormType val="N"/>
+              <DotNetObjectExists val="N"/>
+              <LastModified _date="739040" _time="48147" date="03/06/2024" time="13:22:27"/>
+            </Header>
+            <ItemIsn val="2"/>
+            <Resource>
+              <DB id="1">
+                <DataObject comp="-1" obj="7"/>
+                <Access val="W"/>
+                <Share val="W"/>
+                <Open val="N"/>
+                <Cache val="Y"/>
+                <IdentifyRowModifications val="84"/>
+              </DB>
+              <Columns/>
+            </Resource>
+            <Information>
+              <Key>
+                <Column val="1"/>
+                <Mode val="N"/>
+              </Key>
+              <DB comp="-1" obj="7"/>
+              <Sort>
+                <CLS val="A"/>
+              </Sort>
+              <ForceRecordDelete DEL="N"/>
+              <EndTaskCondition val="Y"/>
+              <EvaluateEndCondition val="A"/>
+              <InitialMode val="E"/>
+              <Locate Direction="A"/>
+              <Range Direction="A"/>
+              <VarRange LastIsn="1"/>
+              <TaskProperties>
+                <SelectionTable val="N"/>
+                <ConfirmUpdate CNFU="N"/>
+                <ConfirmCancel val="N"/>
+                <ErrorStrategy val="A"/>
+                <LockingStrategy val="M"/>
+                <CacheStrategy val="T"/>
+                <ForceRecordSuffix val="N"/>
+                <TransactionMode val="P"/>
+                <TransactionBegin val="N"/>
+                <PreloadView val="N"/>
+                <AllowEmptyDataview val="N"/>
+                <KeepCreatedContext val="N"/>
+              </TaskProperties>
+              <SIDE_WIN>
+                <AllowOptions val="N"/>
+                <AllowQuery val="Y"/>
+                <AllowModify val="N"/>
+                <AllowCreate val="N"/>
+                <AllowDelete val="N"/>
+                <AllowLocate val="Y"/>
+                <AllowRange val="Y"/>
+                <AllowIndexChange val="N"/>
+                <AllowSorting val="N"/>
+                <AllowIOFiles val="Y"/>
+                <RecordCycle val="Y"/>
+                <AllowEvents val="Y"/>
+                <AllowIndexOptimization val="N"/>
+                <AllowLocationInQuery val="N"/>
+                <AllowPrintingData val="N"/>
+              </SIDE_WIN>
+              <WIN>
+                <OpenTaskWindow val="N"/>
+                <CloseTaskWindow val="Y"/>
+                <ForegroundWindow val="Y"/>
+                <FlipFld val="N"/>
+                <RefreshTaskWindow ReturnValue="N"/>
+              </WIN>
+              <BOX>
+                <Direction val="V"/>
+              </BOX>
+            </Information>
+            <TaskLogic>
+              <LogicUnit id="1" propagate="78">
+                <Level val="R"/>
+                <Type val="M"/>
+                <Scope val="S"/>
+                <EngineDirective val="S"/>
+                <ShowMessage val="Y"/>
+                <Condition val="89"/>
+                <Event>
+                  <EventType val="S"/>
+                  <PublicObject comp="-1"/>
+                </Event>
+                <LogicLines>
+                  <LogicLine>
+                    <DATAVIEW_SRC FlowIsn="2" IDX="1" Type="M">
+                      <Condition val="N"/>
+                      <Modifier val="B"/>
+                      <Direction val="C"/>
+                    </DATAVIEW_SRC>
+                  </LogicLine>
+                  <LogicLine>
+                    <Select FieldID="2" FlowIsn="6" id="2">
+                      <Column val="1"/>
+                      <Type val="R"/>
+                      <IsParameter val="N"/>
+                      <Range MAX="2" MIN="2"/>
+                      <_DitIndexForToolkit val="3"/>
+                      <DIFF_UPDATE val="T"/>
+                      <Condition val="Y"/>
+                      <Modifier val="S"/>
+                      <Direction val="C"/>
+                    </Select>
+                  </LogicLine>
+                </LogicLines>
+              </LogicUnit>
+              <LogicUnit id="2" propagate="78">
+                <Level val="R"/>
+                <Type val="S"/>
+                <Scope val="S"/>
+                <EngineDirective val="S"/>
+                <ShowMessage val="Y"/>
+                <Condition val="89"/>
+                <Event>
+                  <EventType val="S"/>
+                  <PublicObject comp="-1"/>
+                </Event>
+                <Expanded val="1"/>
+                <LogicLines>
+                  <LogicLine>
+                    <Update FlowIsn="3">
+                      <Parent val="3"/>
+                      <FieldID val="11"/>
+                      <WithValue val="1"/>
+                      <Incremental val="N"/>
+                      <ForcedUpdate val="Y"/>
+                      <Condition val="Y"/>
+                      <Modifier val="B"/>
+                      <Direction val="C"/>
+                    </Update>
+                  </LogicLine>
+                  <LogicLine>
+                    <Remark FlowIsn="4">
+                      <Type val="2"/>
+                      <Text val=" "/>
+                    </Remark>
+                  </LogicLine>
+                </LogicLines>
+              </LogicUnit>
+            </TaskLogic>
+            <TaskForms>
+              <FormEntry _last_isn="3" _last_test_id="3" id="2">
+                <PropertyList model="FORM_GUI0">
+                  <Width id="23" val="161"/>
+                  <Height id="24" val="195"/>
+                  <_Comment id="218"/>
+                  <FormName id="311" valUnicode="Validacao QSP/CORRETOR"/>
+                </PropertyList>
+                <Control _test_id="1" id="1">
+                  <PropertyList model="CTRL_GUI0_TABLE">
+                    <Placement bottom="100" id="20" right="100"/>
+                    <X id="21" val="8"/>
+                    <Y id="22" val="8"/>
+                    <Width id="23" val="139"/>
+                    <Height id="24" val="182"/>
+                    <TitleHeight id="79" val="12"/>
+                    <RowHeight id="80" val="13"/>
+                    <Elements id="81" val="1"/>
+                    <MultiMarking id="196"/>
+                    <_WindowWidth id="241" val="139"/>
+                  </PropertyList>
+                </Control>
+                <Control ISN_FATHER="1" PDOD="128" _test_id="3" id="3">
+                  <PropertyList model="CTRL_GUI0_COLUMN">
+                    <Width id="23" val="122"/>
+                    <ControlLayer id="25" val="1"/>
+                    <MarkingColumn id="137"/>
+                    <ColumnTitle id="139" valUnicode="Cd_recurso_insu"/>
+                  </PropertyList>
+                </Control>
+                <Control ISN_FATHER="1" _test_id="2" id="2">
+                  <PropertyList model="CTRL_GUI0_EDIT">
+                    <Model ID="MODEL_GUI_INT_TBL" id="1">
+                      <Var FieldID="2"/>
+                    </Model>
+                    <Placement bottom="100" id="20" right="100"/>
+                    <X id="21" val="12"/>
+                    <Y id="22" val="23"/>
+                    <Width id="23" val="115"/>
+                    <Height id="24" val="10"/>
+                    <ControlLayer id="25" val="1"/>
+                    <Data FieldID="2" id="43"/>
+                    <ControlName id="46" val="Cd_recurso_insu"/>
+                    <Style id="63" val="1"/>
+                    <_Orientation id="143"/>
+                    <TabOrder id="314" val="1"/>
+                    <Border id="452"/>
+                  </PropertyList>
+                </Control>
+              </FormEntry>
+            </TaskForms>
+            <Expressions>
+              <Expression id="1">
+                <ExpSyntax val="'TRUE'LOG"/>
+                <ExpAttribute val="B"/>
+              </Expression>
+              <Expression id="2">
+                <ExpSyntax val="{1,6}"/>
+                <ExpAttribute val="A"/>
+              </Expression>
+            </Expressions>
+            <VarRangeInfo Mode="E" VarRangeVeeIsn="2" id="1"/>
+          </Task>
         </Task>
         <Task MainProgram="N">
-          <Header Description="Busca_conversao" ISN_2="5" LastIsn="6" id="2">
+          <Header Description="Busca_conversao" ISN_2="5" LastIsn="7" id="2">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="Y"/>

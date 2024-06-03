@@ -1,26 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<Application>
+ <Application>
+ 
+<Header>
 
-  <Header>
-    <Version val="13030.00"/>
-    <WithIsn val="Y"/>
-    <Exe comp="-1"/>
-    <LastIsn val="6"/>
-    <LastIsnFolder val="0"/>
-    <Folders/>
-  </Header>
+  <Version val="13030.00"/>
 
-  <DataSourceRepository>
-    <DataObjects>
-      <DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" length="18493" name="LC_LIVRO" offset="212"/>
-      <DataObject PhysicalName="LC_LIVRO_SEQUENCIA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" length="2399" name="LC_LIVRO_SEQUENCIA" offset="18706"/>
-      <DataObject PhysicalName="LC_LIVRO_LAUDO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="5" length="5866" name="LC_LIVRO_LAUDO" offset="21106"/>
-      <DataObject PhysicalName="LC_BARRAS_INSUMO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" length="18068" name="LC_BARRAS_INSUMO" offset="26973"/>
-      <DataObject PhysicalName="LC_QUESTIONARIO_MPME" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" length="6870" name="LC_QUESTIONARIO_MPME" offset="45042"/>
-      <DataObject PhysicalName="LC_MATERIAL_ARQUIVO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="6" length="13396" name="LC_MATERIAL_ARQUIVO" offset="51913"/>
-    </DataObjects>
-  </DataSourceRepository>
+  <WithIsn val="Y"/>
 
-  <LastModified val="31102547-160884020"/>
+  <Exe comp="-1"/>
 
-</Application>
+  <LastIsn val="7"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+  
+<DataObject PhysicalName="LC_LIVRO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="LC_LIVRO" offset="213" length="18493"/> 
+<DataObject PhysicalName="LC_LIVRO_SEQUENCIA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="LC_LIVRO_SEQUENCIA" offset="18707" length="2399"/> 
+<DataObject PhysicalName="LC_LIVRO_LAUDO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="5" name="LC_LIVRO_LAUDO" offset="21107" length="5866"/> 
+<DataObject PhysicalName="LC_BARRAS_INSUMO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="LC_BARRAS_INSUMO" offset="26974" length="18068"/> 
+<DataObject PhysicalName="LC_QUESTIONARIO_MPME" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" name="LC_QUESTIONARIO_MPME" offset="45043" length="6870"/> 
+<DataObject PhysicalName="LC_MATERIAL_ARQUIVO" Resident="N" UniqueISNConvState="12" data_source="Arquivo" id="6" name="LC_MATERIAL_ARQUIVO" offset="51914" length="13396"/> 
+<DataObject PhysicalName="LC_LIVRO_MATERIAL_SEM_TEOR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="LC_LIVRO_MATERIAL_SEM_TEOR" offset="65311" length="1575"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31110611-176878356"/>  </Application>

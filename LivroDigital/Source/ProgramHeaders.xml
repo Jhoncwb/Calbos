@@ -48,7 +48,7 @@
       <SourceFileTimeStamp _date="739033" _time="71692" date="27/05/2024" time="19:54:52"/>
     </Program>
     <Program>
-      <Header Description="Livro de entrada" ISN_2="1" LastIsn="6" id="2">
+      <Header Description="Livro de entrada" ISN_2="1" LastIsn="7" id="2">
         <Public val="LC002"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -69,9 +69,9 @@
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
-        <LastModified _date="739033" _time="61642" date="27/05/2024" time="17:07:22"/>
+        <LastModified _date="739040" _time="48147" date="03/06/2024" time="13:22:27"/>
       </Header>
-      <SourceFileTimeStamp _date="739033" _time="72442" date="27/05/2024" time="20:07:22"/>
+      <SourceFileTimeStamp _date="739040" _time="58947" date="03/06/2024" time="16:22:27"/>
     </Program>
     <Program>
       <Header Description="Analize controle" ISN_2="1" LastIsn="1" id="5">
@@ -92,6 +92,26 @@
         <LastModified _date="737291" _time="59573" date="20/08/2019" time="16:32:53"/>
       </Header>
       <SourceFileTimeStamp _date="739000" _time="52091" date="24/04/2024" time="14:28:11"/>
+    </Program>
+    <Program>
+      <Header Description="Material sem teor no livro" ISN_2="1" LastIsn="1" id="6">
+        <Public val="LC004"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="739040" _time="48869" date="03/06/2024" time="13:34:29"/>
+      </Header>
+      <SourceFileTimeStamp _date="739040" _time="59669" date="03/06/2024" time="16:34:29"/>
     </Program>
   </ProgramsRepositoryHeaders>
 

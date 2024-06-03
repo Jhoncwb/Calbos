@@ -28,7 +28,7 @@
           <Offline val="N"/>
           <FormType val="M"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="739035" _time="41056" date="29/05/2024" time="11:24:16"/>
+          <LastModified _date="739035" _time="52090" date="29/05/2024" time="14:28:10"/>
         </Header>
         <ItemIsn val="18"/>
         <Resource>
@@ -768,7 +768,7 @@
             <External val="N"/>
             <FormType val="M"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="739035" _time="41056" date="29/05/2024" time="11:24:16"/>
+            <LastModified _date="739035" _time="52080" date="29/05/2024" time="14:28:00"/>
           </Header>
           <ItemIsn val="92"/>
           <Resource>
@@ -2963,6 +2963,19 @@
                   </Remark>
                 </LogicLine>
                 <LogicLine>
+                  <CallTask FlowIsn="3828">
+                    <OperationType val="T"/>
+                    <TaskID comp="-1" obj="41"/>
+                    <Lock val="N"/>
+                    <Wait val="Y"/>
+                    <SyncData val="N"/>
+                    <RetainFocus val="N"/>
+                    <Condition val="Y"/>
+                    <Modifier val="S"/>
+                    <Direction val="C"/>
+                  </CallTask>
+                </LogicLine>
+                <LogicLine>
                   <CallTask FlowIsn="3366">
                     <OperationType val="T"/>
                     <TaskID comp="-1" obj="44"/>
@@ -3010,20 +3023,6 @@
                     <RetainFocus val="N"/>
                     <Condition val="Y"/>
                     <Modifier val="B"/>
-                    <Direction val="C"/>
-                  </CallTask>
-                </LogicLine>
-                <LogicLine>
-                  <CallTask FlowIsn="2684">
-                    <OperationType val="T"/>
-                    <TaskID comp="-1" obj="41"/>
-                    <Lock val="N"/>
-                    <Wait val="Y"/>
-                    <SyncData val="N"/>
-                    <RetainFocus val="N"/>
-                    <Disabled val="1"/>
-                    <Condition val="Y"/>
-                    <Modifier val="S"/>
                     <Direction val="C"/>
                   </CallTask>
                 </LogicLine>
@@ -10784,7 +10783,7 @@
             </Expressions>
           </Task>
           <Task MainProgram="N">
-            <Header Description="Update fanfisca impresso" ISN_2="41" LastIsn="58" id="2">
+            <Header Description="Busca NF impresso" ISN_2="41" LastIsn="58" id="2">
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -10797,7 +10796,7 @@
               <External val="N"/>
               <FormType val="N"/>
               <DotNetObjectExists val="N"/>
-              <LastModified _date="738819" _time="40998" date="26/10/2023" time="11:23:18"/>
+              <LastModified _date="739035" _time="52090" date="29/05/2024" time="14:28:10"/>
             </Header>
             <ItemIsn val="7"/>
             <Resource>
@@ -10968,8 +10967,9 @@
                 <LogicLines>
                   <LogicLine>
                     <Update FlowIsn="8">
-                      <FieldID val="6"/>
-                      <WithValue val="7"/>
+                      <Parent val="4"/>
+                      <FieldID val="80"/>
+                      <WithValue val="8"/>
                       <Incremental val="N"/>
                       <ForcedUpdate val="Y"/>
                       <Condition val="Y"/>
@@ -10990,7 +10990,7 @@
               <FormEntry id="1">
                 <PropertyList model="FORM_GUI0">
                   <_Comment id="218"/>
-                  <FormName id="311" valUnicode="Update fanfisca impresso"/>
+                  <FormName id="311" valUnicode="Busca NF impresso"/>
                 </PropertyList>
               </FormEntry>
             </TaskForms>
@@ -11011,8 +11011,8 @@
                 <ExpSyntax val="{4,49}"/>
                 <ExpAttribute val="A"/>
               </Expression>
-              <Expression id="7">
-                <ExpSyntax val="'FALSE'LOG"/>
+              <Expression id="8">
+                <ExpSyntax val="{0,6}"/>
                 <ExpAttribute val="B"/>
               </Expression>
             </Expressions>
